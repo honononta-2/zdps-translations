@@ -99,7 +99,7 @@
   "ko_fallback": false
  },
  "112": {
-  "en": "Boss: Goblin King",
+  "en": "Boss - Goblin King",
   "zh": "首领·哥布林王",
   "ja": "ボス・キングゴブリン",
   "ko": "보스・고블린 왕",
@@ -136,45 +136,45 @@
  },
  "116": {
   "en": "Wooden Dummy",
-  "zh": "木人",
-  "ja": "訓練用カカシ",
-  "ko": "목각 인형",
+  "zh": "木桩",
+  "ja": "訓練用ダミー",
+  "ko": "더미",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "117": {
   "en": "Wooden Dummy",
-  "zh": "木人",
-  "ja": "訓練用カカシ",
-  "ko": "목각 인형",
+  "zh": "木桩",
+  "ja": "訓練用ダミー",
+  "ko": "더미",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "118": {
   "en": "Wooden Dummy",
-  "zh": "木人",
-  "ja": "訓練用カカシ",
-  "ko": "목각 인형",
+  "zh": "木桩",
+  "ja": "訓練用ダミー",
+  "ko": "더미",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "119": {
   "en": "Wooden Dummy",
-  "zh": "木人",
-  "ja": "訓練用カカシ",
-  "ko": "목각 인형",
+  "zh": "木桩",
+  "ja": "訓練用ダミー",
+  "ko": "더미",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "120": {
   "en": "Wooden Dummy",
-  "zh": "木人",
-  "ja": "訓練用カカシ",
-  "ko": "목각 인형",
+  "zh": "木桩",
+  "ja": "訓練用ダミー",
+  "ko": "더미",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -379,9 +379,9 @@
  },
  "1111": {
   "en": "Dark Mist Swordsman",
-  "zh": "黯影军团·剑士",
-  "ja": "暗霧分隊・剣士",
-  "ko": "검은 안개 군단・검병",
+  "zh": "黯影军团剑士",
+  "ja": "暗霧分隊の剣士",
+  "ko": "검은 안개 군단 검병",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -397,12 +397,12 @@
  },
  "1113": {
   "en": "Jayden",
-  "zh": "杰克",
-  "ja": "ジャック",
-  "ko": "잭",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Jayden",
+  "ja": "Jayden",
+  "ko": "Jayden",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "1114": {
   "en": "Soldier",
@@ -640,30 +640,30 @@
  },
  "1151": {
   "en": "Kartgriff",
-  "zh": "卡特格里夫",
-  "ja": "ガトグリフ",
-  "ko": "카트그리프",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Kartgriff",
+  "ja": "Kartgriff",
+  "ko": "Kartgriff",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "1152": {
   "en": "Kartgriff",
-  "zh": "卡特格里夫",
-  "ja": "ガトグリフ",
-  "ko": "카트그리프",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Kartgriff",
+  "ja": "Kartgriff",
+  "ko": "Kartgriff",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "1153": {
   "en": "Illusory Bloom",
-  "zh": "幻幻花",
-  "ja": "幻花晶",
-  "ko": "환상꽃",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Illusory Bloom",
+  "ja": "Illusory Bloom",
+  "ko": "Illusory Bloom",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "1154": {
   "en": "Phantom Illusory Bloom",
@@ -676,21 +676,21 @@
  },
  "1155": {
   "en": "Dimensional Ruins",
-  "zh": "次元遗迹",
-  "ja": "次元遺跡",
-  "ko": "차원 유적",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Dimensional Ruins",
+  "ja": "Dimensional Ruins",
+  "ko": "Dimensional Ruins",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "1156": {
   "en": "Battle Mech 03",
-  "zh": "战斗机像03型",
-  "ja": "バトルマキナ03型",
-  "ko": "전투 골렘 03형",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Battle Mech 03",
+  "ja": "Battle Mech 03",
+  "ko": "Battle Mech 03",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "1170": {
   "en": "Defensive Type 04",
@@ -1666,12 +1666,12 @@
  },
  "1420": {
   "en": "Jim",
-  "zh": "吉姆",
-  "ja": "ジム",
-  "ko": "짐",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Jim",
+  "ja": "Jim",
+  "ko": "Jim",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "1421": {
   "en": "Goblin Crossbow",
@@ -1828,7 +1828,7 @@
  },
  "1438": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -1936,7 +1936,7 @@
  },
  "1450": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -2296,18 +2296,18 @@
  },
  "1490": {
   "en": "Dark Mist Legion Rifleman",
-  "zh": "黯影军团·步枪兵",
-  "ja": "暗霧分隊・ライフル兵",
-  "ko": "검은 안개 군단・소총병",
+  "zh": "黯影军团步枪兵",
+  "ja": "暗霧分隊ライフル兵",
+  "ko": "검은 안개 군단 소총병",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "1491": {
   "en": "Dark Mist Legion Shield Bearer",
-  "zh": "黯影军团·盾兵",
-  "ja": "暗霧分隊・盾兵",
-  "ko": "검은 안개 군단・방패병",
+  "zh": "黯影军团盾牌兵",
+  "ja": "暗霧分隊盾兵",
+  "ko": "검은 안개 군단 방패병",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2332,18 +2332,18 @@
  },
  "1495": {
   "en": "Void Goblin Crossbow",
-  "zh": "雷电虚蚀的弩箭哥布林",
-  "ja": "雷虚蝕されたボウガンゴブリン",
-  "ko": "번개 침식된 석궁 고블린",
+  "zh": "弩箭哥布林·异种",
+  "ja": "ボウガンゴブリン・変異種",
+  "ko": "석궁 고블린・돌연변이",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "1496": {
   "en": "Void Goblin Mage",
-  "zh": "被虚蚀的巫师哥布林",
-  "ja": "虚蝕されたエルダーゴブリン",
-  "ko": "침식된 샤먼 고블린",
+  "zh": "巫师哥布林·异种",
+  "ja": "エルダーゴブリン・変異種",
+  "ko": "고블린 샤먼・돌연변이",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2359,9 +2359,9 @@
  },
  "1498": {
   "en": "Void Goblin Sword",
-  "zh": "雷电虚蚀的剑盾哥布林",
-  "ja": "雷虚蝕された剣盾ゴブリン",
-  "ko": "번개 침식된 검방패 고블린",
+  "zh": "剑盾哥布林·异种",
+  "ja": "剣盾ゴブリン・変異種",
+  "ko": "검방패 고블린・돌연변이",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2484,13 +2484,13 @@
   "ko_fallback": false
  },
  "1519": {
-  "en": "Serpent Egg ×1 (Rock)",
-  "zh": "Serpent Egg ×1 (Rock)",
-  "ja": "Serpent Egg ×1 (Rock)",
-  "ko": "Serpent Egg ×1 (Rock)",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "1 Snake Egg (Rock)",
+  "zh": "蛇蛋1个（岩石）",
+  "ja": "スネークの卵1個（ロック）",
+  "ko": "뱀 알 1개(바위)",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "1520": {
   "en": "Akufis",
@@ -2719,9 +2719,9 @@
  },
  "1951": {
   "en": "Blackstone Legion Warrior",
-  "zh": "黑石军团战士",
-  "ja": "黒磊兵団の戦士",
-  "ko": "검은 돌 군단 전사",
+  "zh": "黑石军团铳士",
+  "ja": "黒磊兵団銃士",
+  "ko": "검은 돌 군단 총수",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2791,9 +2791,9 @@
  },
  "1959": {
   "en": "Illusion Nappo",
-  "zh": "幻像娜宝",
-  "ja": "幻影ナッポ",
-  "ko": "환상 나뽀",
+  "zh": "娜宝·幻梦",
+  "ja": "ナッポ・幻夢",
+  "ko": "나뽀 환상꿈",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2837,7 +2837,7 @@
  "2003": {
   "en": "Goblin Sword",
   "zh": "剑盾哥布林",
-  "ja": "剣盾ゴブリン",
+  "ja": "ゴブリンナイト",
   "ko": "검방패 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -3214,7 +3214,7 @@
  },
  "3049": {
   "en": "Jerrad",
-  "zh": "傑拉德",
+  "zh": "杰拉德",
   "ja": "ジェラード",
   "ko": "제라드",
   "zh_fallback": false,
@@ -3223,7 +3223,7 @@
  },
  "3050": {
   "en": "Jerrad",
-  "zh": "傑拉德",
+  "zh": "杰拉德",
   "ja": "ジェラード",
   "ko": "제라드",
   "zh_fallback": false,
@@ -3394,7 +3394,7 @@
  },
  "4006": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -3529,8 +3529,8 @@
  },
  "4023": {
   "en": "Void - Goblin Mage",
-  "zh": "虚蚀·巫师哥布林",
-  "ja": "虚蝕・エルダーゴブリン",
+  "zh": "虚蚀·巫妖哥布林",
+  "ja": "虚蝕・ゴブリンリッチ",
   "ko": "허무의 침식・샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -3574,9 +3574,9 @@
  },
  "4028": {
   "en": "Void - Goblin Axe",
-  "zh": "被虚蚀的巨斧哥布林",
-  "ja": "虚蝕された大斧ゴブリン",
-  "ko": "침식된 거대 도끼 고블린",
+  "zh": "虚蚀·巨斧哥布林",
+  "ja": "虚蝕・大斧ゴブリン",
+  "ko": "허무의 침식・거대 도끼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -3736,7 +3736,7 @@
  },
  "4112": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -3745,7 +3745,7 @@
  },
  "4113": {
   "en": "Jerrad",
-  "zh": "傑拉德",
+  "zh": "杰拉德",
   "ja": "ジェラード",
   "ko": "제라드",
   "zh_fallback": false,
@@ -3763,7 +3763,7 @@
  },
  "4121": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -4285,12 +4285,12 @@
  },
  "4635": {
   "en": "Lizardman Mage",
-  "zh": "蜥蜴人法师",
-  "ja": "ギルミーメイジ",
-  "ko": "리자드맨 마법사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Lizardman Mage",
+  "ja": "Lizardman Mage",
+  "ko": "Lizardman Mage",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "4636": {
   "en": "Lizardman Soldier",
@@ -4312,12 +4312,12 @@
  },
  "4638": {
   "en": "Small Arachnocrab",
-  "zh": "小蟹蛛",
-  "ja": "小さなカニクモ",
-  "ko": "작은 거미게",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Small Arachnocrab",
+  "ja": "Small Arachnocrab",
+  "ko": "Small Arachnocrab",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "4639": {
   "en": "Mystery Matrix",
@@ -4348,12 +4348,12 @@
  },
  "4692": {
   "en": "Nappo",
-  "zh": "娜宝",
-  "ja": "ナッポ",
-  "ko": "나뽀",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Nappo",
+  "ja": "Nappo",
+  "ko": "Nappo",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "4693": {
   "en": "Sound System",
@@ -4375,12 +4375,12 @@
  },
  "4695": {
   "en": "Ee-chan",
-  "zh": "小伊",
-  "ja": "イー",
-  "ko": "이짱",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Ee-chan",
+  "ja": "Ee-chan",
+  "ko": "Ee-chan",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "7001": {
   "en": "Unknown Monster",
@@ -4546,7 +4546,7 @@
  },
  "8014": {
   "en": "Lucien",
-  "zh": "丹尼爾",
+  "zh": "吕西安",
   "ja": "ダニエル",
   "ko": "루시앙",
   "zh_fallback": false,
@@ -4690,18 +4690,18 @@
  },
  "8043": {
   "en": "Legion Soldier",
-  "zh": "军团士兵",
-  "ja": "軍団の兵士",
-  "ko": "군단 병사",
+  "zh": "兵团士兵",
+  "ja": "兵団兵",
+  "ko": "병단 병사",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "8044": {
   "en": "Legion Soldier",
-  "zh": "军团士兵",
-  "ja": "軍団の兵士",
-  "ko": "군단 병사",
+  "zh": "兵团士兵",
+  "ja": "兵団兵",
+  "ko": "병단 병사",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -4987,21 +4987,21 @@
  },
  "8081": {
   "en": "Goblin Chief",
-  "zh": "哥布林首领",
-  "ja": "ゴブリンウォーロード",
-  "ko": "고블린 족장",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Goblin Chief",
+  "ja": "Goblin Chief",
+  "ko": "Goblin Chief",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8082": {
   "en": "Cabbage Kingpin",
-  "zh": "天才卷心菜大王",
-  "ja": "天才甘藍大王",
-  "ko": "천재 양배추 대왕",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Cabbage Kingpin",
+  "ja": "Cabbage Kingpin",
+  "ko": "Cabbage Kingpin",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8101": {
   "en": "Muku Cudgel",
@@ -5042,7 +5042,7 @@
  "8110": {
   "en": "Foxen",
   "zh": "地狐",
-  "ja": "ランドフォックス",
+  "ja": "フォックス",
   "ko": "땅여우",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -5060,25 +5060,25 @@
  "8112": {
   "en": "Shadow Scout",
   "zh": "激进黯影斥候",
-  "ja": "急進派暗霧斥候",
+  "ja": "昂る暗霧斥候",
   "ko": "급진파 검은 안개 정찰병",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "8113": {
-  "en": "​Shadow Warden",
-  "zh": "​Shadow Warden",
-  "ja": "​Shadow Warden",
-  "ko": "​Shadow Warden",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Shadow Warden",
+  "zh": "激进黯影护卫",
+  "ja": "昂る暗霧衛兵",
+  "ko": "급진파 검은 안개 호위병",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "8114": {
   "en": "Shadow Gunner",
   "zh": "激进黯影枪手",
-  "ja": "急進派暗霧銃士",
+  "ja": "昂る暗霧銃士",
   "ko": "급진파 검은 안개 총병",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -5087,7 +5087,7 @@
  "8115": {
   "en": "Shadow Blade",
   "zh": "激进黯影剑士",
-  "ja": "急進派暗霧剣士",
+  "ja": "昂る暗霧剣士",
   "ko": "급진파 검은 안개 검병",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -5096,7 +5096,7 @@
  "8116": {
   "en": "Lorenzo",
   "zh": "洛伦佐",
-  "ja": "トミノ",
+  "ja": "ロレンツォ",
   "ko": "로렌초",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -5113,9 +5113,9 @@
  },
  "8120": {
   "en": "Gigantic Automaton?",
-  "zh": "巨神機？",
+  "zh": "巨神机？",
   "ja": "巨神機？",
-  "ko": "콜로서스・마키나?",
+  "ko": "콜로서스・마키나",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -5203,12 +5203,12 @@
  },
  "8130": {
   "en": "???",
-  "zh": "突然出现的少年",
-  "ja": "突然現れた少年",
-  "ko": "갑자기 나타난 소년",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "???",
+  "ja": "???",
+  "ko": "???",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8131": {
   "en": "Misty",
@@ -5419,12 +5419,12 @@
  },
  "8315": {
   "en": "???",
-  "zh": "突然出现的少年",
-  "ja": "突然現れた少年",
-  "ko": "갑자기 나타난 소년",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "???",
+  "ja": "???",
+  "ko": "???",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8316": {
   "en": "Defeated Boyce",
@@ -5491,7 +5491,7 @@
  },
  "8503": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -5599,7 +5599,7 @@
  },
  "8516": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -5626,9 +5626,9 @@
  },
  "8519": {
   "en": "Dark Mist Legion Shield Bearer",
-  "zh": "黯影军团·盾兵",
-  "ja": "暗霧分隊・盾兵",
-  "ko": "검은 안개 군단・방패병",
+  "zh": "黯影军团盾牌兵",
+  "ja": "暗霧分隊盾兵",
+  "ko": "검은 안개 군단 방패병",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -5824,12 +5824,12 @@
  },
  "8626": {
   "en": "???",
-  "zh": "突然出现的少年",
-  "ja": "突然現れた少年",
-  "ko": "갑자기 나타난 소년",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "???",
+  "ja": "???",
+  "ko": "???",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8627": {
   "en": "Misty",
@@ -5842,12 +5842,12 @@
  },
  "8628": {
   "en": "???",
-  "zh": "突然出现的少年",
-  "ja": "突然現れた少年",
-  "ko": "갑자기 나타난 소년",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "???",
+  "ja": "???",
+  "ko": "???",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8629": {
   "en": "Grayson",
@@ -6031,12 +6031,12 @@
  },
  "8649": {
   "en": "Little Caprahorn",
-  "zh": "小角羊",
-  "ja": "ミニゴート",
-  "ko": "새끼 뿔염소",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Little Caprahorn",
+  "ja": "Little Caprahorn",
+  "ko": "Little Caprahorn",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8650": {
   "en": "Herman",
@@ -6067,30 +6067,30 @@
  },
  "8653": {
   "en": "Mysterious Person",
-  "zh": "神秘人",
-  "ja": "謎の人物",
-  "ko": "미스터리 인물",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Mysterious Person",
+  "ja": "Mysterious Person",
+  "ko": "Mysterious Person",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8654": {
   "en": "Blackstone Legion Soldier",
-  "zh": "黑石军团士兵",
-  "ja": "黒磊兵団の兵士",
-  "ko": "검은 돌 군단 병사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Soldier",
+  "ja": "Blackstone Legion Soldier",
+  "ko": "Blackstone Legion Soldier",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8655": {
   "en": "Blackstone Legion Soldier",
-  "zh": "黑石军团士兵",
-  "ja": "黒磊兵団の兵士",
-  "ko": "검은 돌 군단 병사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Soldier",
+  "ja": "Blackstone Legion Soldier",
+  "ko": "Blackstone Legion Soldier",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8701": {
   "en": "Lizardman Warrior",
@@ -6184,48 +6184,48 @@
  },
  "8724": {
   "en": "Cabbage Mission Member",
-  "zh": "卷心菜调查团成员",
-  "ja": "甘藍調査団のメンバー",
-  "ko": "양배추 조사단 멤버",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Cabbage Mission Member",
+  "ja": "Cabbage Mission Member",
+  "ko": "Cabbage Mission Member",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8725": {
   "en": "Cabbage Mission Member",
-  "zh": "卷心菜调查团成员",
-  "ja": "甘藍調査団のメンバー",
-  "ko": "양배추 조사단 멤버",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Cabbage Mission Member",
+  "ja": "Cabbage Mission Member",
+  "ko": "Cabbage Mission Member",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8726": {
   "en": "Cabbage Mission Member",
-  "zh": "卷心菜调查团成员",
-  "ja": "甘藍調査団のメンバー",
-  "ko": "양배추 조사단 멤버",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Cabbage Mission Member",
+  "ja": "Cabbage Mission Member",
+  "ko": "Cabbage Mission Member",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8727": {
   "en": "Hawkes",
-  "zh": "霍克斯",
-  "ja": "ホークス",
-  "ko": "호크스",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Hawkes",
+  "ja": "Hawkes",
+  "ko": "Hawkes",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8728": {
   "en": "Brigand Leader",
-  "zh": "山贼头目",
-  "ja": "山賊チーフ",
-  "ko": "산적 두목",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Brigand Leader",
+  "ja": "Brigand Leader",
+  "ko": "Brigand Leader",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8801": {
   "en": "Giant Sea Monster",
@@ -6661,12 +6661,12 @@
  },
  "10016": {
   "en": "Bzzar",
-  "zh": "黄蜂",
-  "ja": "ミーン",
-  "ko": "민",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Bzzar",
+  "ja": "Bzzar",
+  "ko": "Bzzar",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "10017": {
   "en": "Eagle",
@@ -6688,17 +6688,17 @@
  },
  "10019": {
   "en": "Goblin Warrior",
-  "zh": "哥布林战士",
-  "ja": "ゴブリンウォーリアー",
-  "ko": "고블린 전사",
+  "zh": "哥布林弩手",
+  "ja": "ゴブリン弓兵",
+  "ko": "고블린 석궁잡이",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "10020": {
   "en": "Goblin Mage",
-  "zh": "巫师哥布林",
-  "ja": "エルダーゴブリン",
+  "zh": "巫妖哥布林",
+  "ja": "ゴブリンリッチ",
   "ko": "샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -6796,9 +6796,9 @@
  },
  "10031": {
   "en": "Boarrier Tyrant",
-  "zh": "暴烈野猪",
-  "ja": "タイラントボア",
-  "ko": "폭군 멧돼지",
+  "zh": "威猛野猪",
+  "ja": "マイティボア",
+  "ko": "맹렬한 멧돼지",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -6887,7 +6887,7 @@
  "10041": {
   "en": "Crimson Foxen",
   "zh": "赤玉地狐",
-  "ja": "猛る獣",
+  "ja": "ボス・レッドフォックス",
   "ko": "루비 땅여우",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -6903,13 +6903,13 @@
   "ko_fallback": false
  },
  "10043": {
-  "en": "Elite: Mutant Yeti",
-  "zh": "Elite: Mutant Yeti",
-  "ja": "Elite: Mutant Yeti",
-  "ko": "Elite: Mutant Yeti",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Mutant Yeti",
+  "zh": "精英·变异肉山",
+  "ja": "精鋭・変異ファットマン",
+  "ko": "엘리트・돌연변이 팻맨",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "10044": {
   "en": "Blackfire Foxen",
@@ -6923,7 +6923,7 @@
  "10045": {
   "en": "Foxen",
   "zh": "地狐",
-  "ja": "ランドフォックス",
+  "ja": "フォックス",
   "ko": "땅여우",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7002,13 +7002,13 @@
   "ko_fallback": false
  },
  "10054": {
-  "en": "Elite: Brigand Archer",
-  "zh": "Elite: Brigand Archer",
-  "ja": "Elite: Brigand Archer",
-  "ko": "Elite: Brigand Archer",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Brigand Archer",
+  "zh": "精英·山贼射手",
+  "ja": "精鋭・山賊弓使い",
+  "ko": "엘리트・산적 사격꾼",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "10055": {
   "en": "Brigand Guard Captain",
@@ -7355,7 +7355,7 @@
  "10106": {
   "en": "Blackstone Legion Marksman",
   "zh": "黑石军团射手",
-  "ja": "黒磊兵団の射手",
+  "ja": "精鋭・黒磊兵団のエングラム銃士",
   "ko": "검은 돌 군단 사수",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7364,7 +7364,7 @@
  "10107": {
   "en": "Blackstone Legion Guard",
   "zh": "黑石军团卫士",
-  "ja": "黒磊兵団の護衛",
+  "ja": "精鋭・黒磊軍団の魔術師",
   "ko": "검은 돌 군단 호위병",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7373,7 +7373,7 @@
  "10108": {
   "en": "Blackstone Legion Warrior",
   "zh": "黑石军团战士",
-  "ja": "黒磊兵団の戦士",
+  "ja": "黒磊兵団衛士",
   "ko": "검은 돌 군단 전사",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7382,7 +7382,7 @@
  "10109": {
   "en": "Blackstone Legion Assaulter",
   "zh": "黑石军团突击手",
-  "ja": "黒磊兵団の突撃兵",
+  "ja": "黒磊兵団の前衛",
   "ko": "검은 돌 군단 돌격수",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7391,7 +7391,7 @@
  "10110": {
   "en": "Blackstone Commander",
   "zh": "黑石军团执令官",
-  "ja": "黒磊兵団の指揮官",
+  "ja": "黒磊兵団の槍兵",
   "ko": "검은 돌 군단 군령관",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7400,7 +7400,7 @@
  "10111": {
   "en": "Blackstone Vanguard",
   "zh": "黑石军团先锋官",
-  "ja": "黒磊兵団の先鋒隊長",
+  "ja": "黒磊兵団剣士",
   "ko": "검은 돌 군단 선봉관",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7823,7 +7823,7 @@
  "11001": {
   "en": "Frost Lizard",
   "zh": "冰暗巨蜥",
-  "ja": "フロストリザード",
+  "ja": "リザード",
   "ko": "서리 리자드",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7832,7 +7832,7 @@
  "11002": {
   "en": "Magma Lizard",
   "zh": "岩火巨蜥",
-  "ja": "マグマリザード",
+  "ja": "ロックリザード",
   "ko": "용암 리자드",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7850,7 +7850,7 @@
  "11004": {
   "en": "Lightning Lizard",
   "zh": "电光巨蜥",
-  "ja": "サンダーリザード",
+  "ja": "ハイランドボア2",
   "ko": "번개 리자드",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7866,19 +7866,19 @@
   "ko_fallback": false
  },
  "11006": {
-  "en": "Elite: Mutant Boarrier",
-  "zh": "Elite: Mutant Boarrier",
-  "ja": "Elite: Mutant Boarrier",
-  "ko": "Elite: Mutant Boarrier",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Mutant Boarrier",
+  "zh": "精英·变异野猪",
+  "ja": "精鋭・変異ボア",
+  "ko": "엘리트・돌연변이 멧돼지",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11007": {
   "en": "Basilisk",
-  "zh": "蛇怪",
-  "ja": "スネークモンスター",
-  "ko": "뱀 괴물",
+  "zh": "巴西利斯克",
+  "ja": "ボス・バジリスク",
+  "ko": "바실리스크",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -7904,20 +7904,20 @@
  "11010": {
   "en": "Goblin Priest",
   "zh": "哥布林祭祀",
-  "ja": "ゴブリン祭司",
+  "ja": "ゴブリン衛士",
   "ko": "고블린 사제",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "11011": {
-  "en": "Goblin Sentry",
-  "zh": "Goblin Sentry",
-  "ja": "Goblin Sentry",
-  "ko": "Goblin Sentry",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Goblin Guard",
+  "zh": "哥布林护卫",
+  "ja": "セージゴブリン",
+  "ko": "고블린 호위병",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11012": {
   "en": "Goblin Trickster",
@@ -7940,7 +7940,7 @@
  "11014": {
   "en": "Goblin Chief",
   "zh": "哥布林首领",
-  "ja": "ゴブリンウォーロード",
+  "ja": "ボス・高原キングゴブリン",
   "ko": "고블린 족장",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7949,7 +7949,7 @@
  "11015": {
   "en": "Little Caprahorn",
   "zh": "小角羊",
-  "ja": "ミニゴート",
+  "ja": "ホワイトアダー",
   "ko": "새끼 뿔염소",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7967,7 +7967,7 @@
  "11017": {
   "en": "ID Placeholder",
   "zh": "ID占位",
-  "ja": "イエローアダー",
+  "ja": "精鋭・変異ホワイトアダー",
   "ko": "ID 임시 텍스트",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7976,7 +7976,7 @@
  "11018": {
   "en": "ID Placeholder",
   "zh": "ID占位",
-  "ja": "イエローアダー",
+  "ja": "精鋭・変異イエローアダー",
   "ko": "ID 임시 텍스트",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7985,7 +7985,7 @@
  "11019": {
   "en": "ID Placeholder",
   "zh": "ID占位",
-  "ja": "イエローアダー",
+  "ja": "ボス・ダークパイソン",
   "ko": "ID 임시 텍스트",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -7994,7 +7994,7 @@
  "11020": {
   "en": "Nether Caprahorn",
   "zh": "幽冥角羊",
-  "ja": "スプーキーゴート",
+  "ja": "冥界ホーンゴート",
   "ko": "저승 뿔염소",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -8003,7 +8003,7 @@
  "11021": {
   "en": "Glimmer Caprahorn",
   "zh": "流光角羊",
-  "ja": "ルミナゴート",
+  "ja": "皇帝ホーンゴート",
   "ko": "유광 뿔염소",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -8012,7 +8012,7 @@
  "11022": {
   "en": "Emerald Caprahorn",
   "zh": "翡翠角羊",
-  "ja": "エメラルドホーン",
+  "ja": "精鋭・ジェイドホーンゴート",
   "ko": "비취 뿔염소",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -8021,20 +8021,20 @@
  "11023": {
   "en": "Flamehorn",
   "zh": "炎角",
-  "ja": "炎角",
+  "ja": "精鋭・バーニンホーンゴート",
   "ko": "화염뿔",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "11024": {
-  "en": "Boss: Nightmare Caprahorn",
-  "zh": "Boss: Nightmare Caprahorn",
-  "ja": "Boss: Nightmare Caprahorn",
-  "ko": "Boss: Nightmare Caprahorn",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Boss - Nightmare Caprahorn",
+  "zh": "首领·梦魇角羊",
+  "ja": "ボス・悪夢ホーンゴート",
+  "ko": "보스・악몽 뿔염소",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11025": {
   "en": "Highland Foxen",
@@ -8046,13 +8046,13 @@
   "ko_fallback": false
  },
  "11026": {
-  "en": "Elite: Highland Foxen",
-  "zh": "Elite: Highland Foxen",
-  "ja": "Elite: Highland Foxen",
-  "ko": "Elite: Highland Foxen",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Highland Foxen",
+  "zh": "精英·高原地狐",
+  "ja": "精鋭・高原ランドフォックス",
+  "ko": "엘리트・고원 땅여우",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11027": {
   "en": "Glimmering Boar",
@@ -8073,40 +8073,40 @@
   "ko_fallback": false
  },
  "11029": {
-  "en": "Elite: Snow Boar",
-  "zh": "Elite: Snow Boar",
-  "ja": "Elite: Snow Boar",
-  "ko": "Elite: Snow Boar",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Snow Boar",
+  "zh": "精英·积雪野猪",
+  "ja": "精鋭・スノウボア",
+  "ko": "엘리트・적설 멧돼지",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11030": {
-  "en": "Elite: Void Colorful Harrier",
-  "zh": "Elite: Void Colorful Harrier",
-  "ja": "Elite: Void Colorful Harrier",
-  "ko": "Elite: Void Colorful Harrier",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Void Colorful Harrier",
+  "zh": "精英·变异彩羽鹞",
+  "ja": "精鋭・変異カラフルホーク",
+  "ko": "엘리트・돌연변이 무지개 매",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11031": {
-  "en": "Boss: Flame Boarrier",
-  "zh": "Boss: Flame Boarrier",
-  "ja": "Boss: Flame Boarrier",
-  "ko": "Boss: Flame Boarrier",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Boss - Flame Boarrier",
+  "zh": "首领·赤炎野猪",
+  "ja": "ボス・フレイムボア",
+  "ko": "보스・적염 멧돼지",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11032": {
-  "en": "Boss: Queen Harrier",
-  "zh": "Boss: Queen Harrier",
-  "ja": "Boss: Queen Harrier",
-  "ko": "Boss: Queen Harrier",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Boss - Queen Harrier",
+  "zh": "首领·皇后白羽鹞",
+  "ja": "ボス・クイーンホーク",
+  "ko": "보스・여왕 백색 매",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11033": {
   "en": "Frost Yeti",
@@ -8127,40 +8127,40 @@
   "ko_fallback": false
  },
  "11035": {
-  "en": "Elite: Frozen Yeti",
-  "zh": "Elite: Frozen Yeti",
-  "ja": "Elite: Frozen Yeti",
-  "ko": "Elite: Frozen Yeti",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Frozen Yeti",
+  "zh": "精英·寒冻肉山",
+  "ja": "精鋭・フローズンファットマン",
+  "ko": "엘리트・냉기 팻맨",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11036": {
-  "en": "Elite: Crowned Trogon",
-  "zh": "Elite: Crowned Trogon",
-  "ja": "Elite: Crowned Trogon",
-  "ko": "Elite: Crowned Trogon",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Crowned Trogon",
+  "zh": "精英·紫冠鵎鵼",
+  "ja": "精鋭・紫冠オオハシ",
+  "ko": "엘리트・보라볏 거취조",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11037": {
-  "en": "Boss: Tyrant Yeti",
-  "zh": "Boss: Tyrant Yeti",
-  "ja": "Boss: Tyrant Yeti",
-  "ko": "Boss: Tyrant Yeti",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Boss - Tyrant Yeti",
+  "zh": "首领·霸王肉山",
+  "ja": "ボス・タイラントファットマン",
+  "ko": "보스・패왕 팻맨",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11038": {
-  "en": "Boss: King Tuo Kong",
-  "zh": "Boss: King Tuo Kong",
-  "ja": "Boss: King Tuo Kong",
-  "ko": "Boss: King Tuo Kong",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Boss - King Tuo Kong",
+  "zh": "首领·国王鵎鵼",
+  "ja": "ボス・キングオオハシ",
+  "ko": "보스・왕 거취조",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11039": {
   "en": "Blue Gem Foxen",
@@ -8181,45 +8181,45 @@
   "ko_fallback": false
  },
  "11041": {
-  "en": "Elite: Blue Gem Foxen",
-  "zh": "Elite: Blue Gem Foxen",
-  "ja": "Elite: Blue Gem Foxen",
-  "ko": "Elite: Blue Gem Foxen",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Blue Gem Foxen",
+  "zh": "精英·蓝宝地狐",
+  "ja": "精鋭・ブルージェムランドフォックス",
+  "ko": "엘리트・푸른 보석 땅여우",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11042": {
-  "en": "Elite: Yellow Rock Dragonfly",
-  "zh": "Elite: Yellow Rock Dragonfly",
-  "ja": "Elite: Yellow Rock Dragonfly",
-  "ko": "Elite: Yellow Rock Dragonfly",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Yellow Rock Dragonfly",
+  "zh": "精英·黄岩蜻蜓",
+  "ja": "精鋭・イエローラゴンフライ",
+  "ko": "엘리트・노란 암석 잠자리",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11043": {
-  "en": "Boss: Howling Foxen",
-  "zh": "Boss: Howling Foxen",
-  "ja": "Boss: Howling Foxen",
-  "ko": "Boss: Howling Foxen",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Boss - Howling Foxen",
+  "zh": "首领·嚎鸣地狐",
+  "ja": "ボス・ハウルランドフォックス",
+  "ko": "보스・울부짖는 땅여우",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11044": {
-  "en": "Boss: Ground Wing",
-  "zh": "Boss: Ground Wing",
-  "ja": "Boss: Ground Wing",
-  "ko": "Boss: Ground Wing",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Boss - Ground Wing",
+  "zh": "首领·伏地羽翼",
+  "ja": "ボス・トレイルウィング",
+  "ko": "보스・엎드린 날개",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "11045": {
   "en": "Swift Eagle",
   "zh": "疾驱大鹫",
-  "ja": "ギャロップイーグル",
+  "ja": "グレートイーグル",
   "ko": "질풍수리",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -8615,7 +8615,7 @@
  "11089": {
   "en": "Illusion Red Foam Goblin",
   "zh": "幻象·赤沫哥布林",
-  "ja": "幻影・ゴブリン（ネームド）",
+  "ja": "幻影・赤い飛沫",
   "ko": "환상・붉은 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -8749,12 +8749,12 @@
  },
  "11206": {
   "en": "Dogorman",
-  "zh": "多戈尔曼",
-  "ja": "ドゴルマン",
-  "ko": "도골만",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Dogorman",
+  "ja": "Dogorman",
+  "ko": "Dogorman",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "11207": {
   "en": "Rebel King",
@@ -8875,12 +8875,12 @@
  },
  "11220": {
   "en": "Shrimp Mushroom",
-  "zh": "虾菇",
-  "ja": "エビキノコ",
-  "ko": "새우 버섯",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Shrimp Mushroom",
+  "ja": "Shrimp Mushroom",
+  "ko": "Shrimp Mushroom",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "11221": {
   "en": "Venomous Shrimpshroom",
@@ -9117,7 +9117,7 @@
   "ko_fallback": false
  },
  "12110": {
-  "en": "Mutant Foxen",
+  "en": "Mutated Foxen",
   "zh": "变异地狐",
   "ja": "変異ランドフォックス",
   "ko": "돌연변이 땅여우",
@@ -9135,13 +9135,13 @@
   "ko_fallback": false
  },
  "17001": {
-  "en": "Boss: Boarrier King",
-  "zh": "Boss: Boarrier King",
-  "ja": "Boss: Boarrier King",
-  "ko": "Boss: Boarrier King",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Boss - Boarrier King",
+  "zh": "首领·野猪王",
+  "ja": "ボス・キングボア",
+  "ko": "보스・멧돼지 왕",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "17002": {
   "en": "Arachnocrab",
@@ -9162,7 +9162,7 @@
   "ko_fallback": false
  },
  "17004": {
-  "en": "Boss: Muku Chief",
+  "en": "Boss - Muku Chief",
   "zh": "首领·姆克头目",
   "ja": "ボス・ムークチーフ",
   "ko": "보스・무크 두목",
@@ -9172,9 +9172,9 @@
  },
  "17005": {
   "en": "Muku Scout",
-  "zh": "姆克尖兵",
-  "ja": "ムーク尖兵",
-  "ko": "무크 선봉병",
+  "zh": "姆克斥候",
+  "ja": "ムーク斥候",
+  "ko": "무크 정찰병",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -9191,16 +9191,16 @@
  "17007": {
   "en": "Foxen",
   "zh": "地狐",
-  "ja": "ランドフォックス",
+  "ja": "フォックス",
   "ko": "땅여우",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "17008": {
-  "en": "Boss: Crimson Foxen",
+  "en": "Boss - Crimson Foxen",
   "zh": "首领·赤玉地狐",
-  "ja": "ボス・猛る獣",
+  "ja": "ボス・レッドフォックス",
   "ko": "보스・루비 땅여우",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -9216,13 +9216,13 @@
   "ko_fallback": false
  },
  "17010": {
-  "en": "Boss: Dogorman",
-  "zh": "Boss: Dogorman",
-  "ja": "Boss: Dogorman",
-  "ko": "Boss: Dogorman",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Boss - Dogorman",
+  "zh": "首领·多戈尔曼",
+  "ja": "ボス・ドゴルマン",
+  "ko": "보스・도골만",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "17011": {
   "en": "Crimson Sprayer",
@@ -9234,22 +9234,22 @@
   "ko_fallback": false
  },
  "17012": {
-  "en": "Elite: Mighty Boarrier",
-  "zh": "Elite: Mighty Boarrier",
-  "ja": "Elite: Mighty Boarrier",
-  "ko": "Elite: Mighty Boarrier",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Mighty Boarrier",
+  "zh": "精英·刚猛野猪",
+  "ja": "精鋭・ヴァリアントボア",
+  "ko": "엘리트・광포한 멧돼지",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "17013": {
-  "en": "Elite: Void Arachnocrab",
-  "zh": "Elite: Void Arachnocrab",
-  "ja": "Elite: Void Arachnocrab",
-  "ko": "Elite: Void Arachnocrab",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Void Arachnocrab",
+  "zh": "精英·污染蟹蛛",
+  "ja": "精鋭・汚染カニクモ",
+  "ko": "엘리트・감염된 거미게",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "17014": {
   "en": "Mutant Foxen",
@@ -9261,13 +9261,13 @@
   "ko_fallback": false
  },
  "17015": {
-  "en": "Elite: Mutant Foxen",
-  "zh": "Elite: Mutant Foxen",
-  "ja": "Elite: Mutant Foxen",
-  "ko": "Elite: Mutant Foxen",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Mutant Foxen",
+  "zh": "精英·变异地狐",
+  "ja": "精鋭・変異ランドフォックス",
+  "ko": "엘리트・돌연변이 땅여우",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "17016": {
   "en": "Mutant Yeti",
@@ -9279,31 +9279,31 @@
   "ko_fallback": false
  },
  "17017": {
-  "en": "Elite: Mutant Yeti",
-  "zh": "Elite: Mutant Yeti",
-  "ja": "Elite: Mutant Yeti",
-  "ko": "Elite: Mutant Yeti",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Mutant Yeti",
+  "zh": "精英·变异肉山",
+  "ja": "精鋭・変異ファットマン",
+  "ko": "엘리트・돌연변이 팻맨",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "17018": {
-  "en": "Elite: Muku Scout",
-  "zh": "Elite: Muku Scout",
-  "ja": "Elite: Muku Scout",
-  "ko": "Elite: Muku Scout",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Muku Scout",
+  "zh": "精英·姆克斥候",
+  "ja": "精鋭・ムーク斥候",
+  "ko": "엘리트・무크 정찰병",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "17019": {
-  "en": "Elite: Crimson Sprayer",
-  "zh": "Elite: Crimson Sprayer",
-  "ja": "Elite: Crimson Sprayer",
-  "ko": "Elite: Crimson Sprayer",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Crimson Sprayer",
+  "zh": "精英·赤色飞沫",
+  "ja": "精鋭・赤い飛沫",
+  "ko": "엘리트・붉은 물보라",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "20000": {
   "en": "Goblin Cudgel",
@@ -9478,12 +9478,12 @@
  },
  "20019": {
   "en": "Bzzar",
-  "zh": "黄蜂",
-  "ja": "ミーン",
-  "ko": "민",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Bzzar",
+  "ja": "Bzzar",
+  "ko": "Bzzar",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "20020": {
   "en": "Flame Orc",
@@ -9901,9 +9901,9 @@
  },
  "20085": {
   "en": "Rock Lizard",
-  "zh": "岩石蜥蜴",
+  "zh": "岩石巨蜥",
   "ja": "ロックリザード",
-  "ko": "암석 도마뱀",
+  "ko": "암석 거대 도마뱀",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -9927,7 +9927,7 @@
   "ko_fallback": false
  },
  "20088": {
-  "en": "Boss: Tempest Ogre",
+  "en": "Boss - Tempest Ogre",
   "zh": "首领·雷电食人魔",
   "ja": "ボス・サンダーオーガ",
   "ko": "보스・번개 오우거",
@@ -10432,7 +10432,7 @@
  },
  "29001": {
   "en": "Jerrad",
-  "zh": "傑拉德",
+  "zh": "杰拉德",
   "ja": "ジェラード",
   "ko": "제라드",
   "zh_fallback": false,
@@ -10468,7 +10468,7 @@
  },
  "29005": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -10675,39 +10675,39 @@
  },
  "30134": {
   "en": "Gunnar",
-  "zh": "贡纳",
-  "ja": "ゴネル",
-  "ko": "군나르",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Gunnar",
+  "ja": "Gunnar",
+  "ko": "Gunnar",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "30135": {
   "en": "Frost Lizard",
-  "zh": "冰暗巨蜥",
-  "ja": "フロストリザード",
-  "ko": "서리 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Frost Lizard",
+  "ja": "Frost Lizard",
+  "ko": "Frost Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "30136": {
   "en": "Illusion Nappo",
-  "zh": "幻像娜宝",
-  "ja": "幻影ナッポ",
-  "ko": "환상 나뽀",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Illusion Nappo",
+  "ja": "Illusion Nappo",
+  "ko": "Illusion Nappo",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "30137": {
   "en": "Arbiter",
-  "zh": "裁定执行者",
-  "ja": "裁定執行者",
-  "ko": "심판 집행자",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Arbiter",
+  "ja": "Arbiter",
+  "ko": "Arbiter",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "30150": {
   "en": "Gnashing Furball",
@@ -10720,12 +10720,12 @@
  },
  "30151": {
   "en": "Dogorman",
-  "zh": "多戈尔曼",
-  "ja": "ドゴルマン",
-  "ko": "도골만",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Dogorman",
+  "ja": "Dogorman",
+  "ko": "Dogorman",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "30152": {
   "en": "Rebel King",
@@ -11062,7 +11062,7 @@
  },
  "30404": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -11602,21 +11602,21 @@
  },
  "30864": {
   "en": "Serpent",
-  "zh": "蛇",
-  "ja": "スネーク",
-  "ko": "뱀",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Serpent",
+  "ja": "Serpent",
+  "ko": "Serpent",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "30865": {
   "en": "Serpent",
-  "zh": "蛇",
-  "ja": "スネーク",
-  "ko": "뱀",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Serpent",
+  "ja": "Serpent",
+  "ko": "Serpent",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "31001": {
   "en": "Goblin Cudgel",
@@ -11675,7 +11675,7 @@
  "33201": {
   "en": "Akufis",
   "zh": "阿库菲斯",
-  "ja": "アクフィス",
+  "ja": "ロックスネークボス",
   "ko": "아쿠피스",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -12106,12 +12106,12 @@
  },
  "33506": {
   "en": "Minecart",
-  "zh": "矿车",
-  "ja": "トロッコ",
-  "ko": "광차",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Minecart",
+  "ja": "Minecart",
+  "ko": "Minecart",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33507": {
   "en": "Arena Marker Offset",
@@ -12295,57 +12295,57 @@
  },
  "33527": {
   "en": "Blackstone Legion Gunner",
-  "zh": "黑石军团枪手",
-  "ja": "黒磊兵団の銃士",
-  "ko": "검은 돌 군단 총병",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Gunner",
+  "ja": "Blackstone Legion Gunner",
+  "ko": "Blackstone Legion Gunner",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33528": {
   "en": "Blackstone Legion Shield",
-  "zh": "黑石军团盾兵",
-  "ja": "黒磊兵団の盾兵",
-  "ko": "검은 돌 군단 방패병",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Shield",
+  "ja": "Blackstone Legion Shield",
+  "ko": "Blackstone Legion Shield",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33529": {
   "en": "Blackstone Legion Warrior",
-  "zh": "黑石军团战士",
-  "ja": "黒磊兵団の戦士",
-  "ko": "검은 돌 군단 전사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Warrior",
+  "ja": "Blackstone Legion Warrior",
+  "ko": "Blackstone Legion Warrior",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33530": {
   "en": "Blackstone Legion Trooper",
-  "zh": "黑石军团突击兵",
-  "ja": "黒磊兵団の前衛",
-  "ko": "검은 돌 군단 돌격병",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Trooper",
+  "ja": "Blackstone Legion Trooper",
+  "ko": "Blackstone Legion Trooper",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33531": {
   "en": "Blackstone Commander",
-  "zh": "黑石军团执令官",
-  "ja": "黒磊兵団の指揮官",
-  "ko": "검은 돌 군단 군령관",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Commander",
+  "ja": "Blackstone Commander",
+  "ko": "Blackstone Commander",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33532": {
   "en": "Blackstone Vanguard",
-  "zh": "黑石军团先锋官",
-  "ja": "黒磊兵団の先鋒隊長",
-  "ko": "검은 돌 군단 선봉관",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Vanguard",
+  "ja": "Blackstone Vanguard",
+  "ko": "Blackstone Vanguard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33533": {
   "en": "Turret Base",
@@ -12358,12 +12358,12 @@
  },
  "33534": {
   "en": "Ruby",
-  "zh": "赤晶宝石",
-  "ja": "赤晶宝石",
-  "ko": "홍수정 보석",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Ruby",
+  "ja": "Ruby",
+  "ko": "Ruby",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33535": {
   "en": "Explosion Point",
@@ -12439,12 +12439,12 @@
  },
  "33543": {
   "en": "Ruby",
-  "zh": "赤晶宝石",
-  "ja": "赤晶宝石",
-  "ko": "홍수정 보석",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Ruby",
+  "ja": "Ruby",
+  "ko": "Ruby",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33544": {
   "en": "Fire Tornado Fake Bullet",
@@ -12529,12 +12529,12 @@
  },
  "33701": {
   "en": "Tina - Void Reverie",
-  "zh": "蒂娜·虚蚀心像",
-  "ja": "ティナ・虚蝕心像",
-  "ko": "티나・허무의 침식 심상",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Tina - Void Reverie",
+  "ja": "Tina - Void Reverie",
+  "ko": "Tina - Void Reverie",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33702": {
   "en": "Tina - Void Reverie (Clone)",
@@ -12547,66 +12547,66 @@
  },
  "33703": {
   "en": "Byrnhald Rifleman",
-  "zh": "班哈尔特步枪兵",
-  "ja": "バーンハルト・ライフル兵",
-  "ko": "번하르트 소총병",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Byrnhald Rifleman",
+  "ja": "Byrnhald Rifleman",
+  "ko": "Byrnhald Rifleman",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33704": {
   "en": "Byrnhald Tank",
-  "zh": "班哈尔特坦克",
-  "ja": "バーンハルト・タンク",
-  "ko": "번하르트 탱크",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Byrnhald Tank",
+  "ja": "Byrnhald Tank",
+  "ko": "Byrnhald Tank",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33705": {
   "en": "Byrnhald Swordsman",
-  "zh": "班哈尔特剑士",
-  "ja": "バーンハルト剣士",
-  "ko": "번하르트 검사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Byrnhald Swordsman",
+  "ja": "Byrnhald Swordsman",
+  "ko": "Byrnhald Swordsman",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33706": {
   "en": "Kanamia Triber Spirit",
-  "zh": "卡尼曼村民亡魂",
-  "ja": "カナミア族村人の魂",
-  "ko": "카나미아 마을 주민 혼령",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Kanamia Triber Spirit",
+  "ja": "Kanamia Triber Spirit",
+  "ko": "Kanamia Triber Spirit",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33707": {
   "en": "Tina - Void Reverie",
-  "zh": "蒂娜·虚蚀心像",
-  "ja": "ティナ・虚蝕心像",
-  "ko": "티나・허무의 침식 심상",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Tina - Void Reverie",
+  "ja": "Tina - Void Reverie",
+  "ko": "Tina - Void Reverie",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33708": {
   "en": "Tina - Void Reverie",
-  "zh": "蒂娜·虚蚀心像",
-  "ja": "ティナ・虚蝕心像",
-  "ko": "티나・허무의 침식 심상",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Tina - Void Reverie",
+  "ja": "Tina - Void Reverie",
+  "ko": "Tina - Void Reverie",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33709": {
   "en": "Tina - Void Reverie",
-  "zh": "蒂娜·虚蚀心像",
-  "ja": "ティナ・虚蝕心像",
-  "ko": "티나・허무의 침식 심상",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Tina - Void Reverie",
+  "ja": "Tina - Void Reverie",
+  "ko": "Tina - Void Reverie",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33799": {
   "en": "Tina Standing Position",
@@ -12637,48 +12637,48 @@
  },
  "33803": {
   "en": "Great Warhog",
-  "zh": "雷光野猪",
-  "ja": "グレートファング",
-  "ko": "전격 멧돼지",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Great Warhog",
+  "ja": "Great Warhog",
+  "ko": "Great Warhog",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33804": {
   "en": "Void Bzzar",
-  "zh": "变异蜂",
-  "ja": "変異ミーン",
-  "ko": "돌연변이 민",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Void Bzzar",
+  "ja": "Void Bzzar",
+  "ko": "Void Bzzar",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33805": {
   "en": "Rock Lizard",
-  "zh": "岩石蜥蜴",
-  "ja": "ロックリザード",
-  "ko": "암석 도마뱀",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Rock Lizard",
+  "ja": "Rock Lizard",
+  "ko": "Rock Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33806": {
   "en": "Swift Eagle",
-  "zh": "疾驱大鹫",
-  "ja": "ギャロップイーグル",
-  "ko": "질풍수리",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Swift Eagle",
+  "ja": "Swift Eagle",
+  "ko": "Swift Eagle",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33807": {
   "en": "Foxen",
-  "zh": "地狐",
-  "ja": "ランドフォックス",
-  "ko": "땅여우",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Foxen",
+  "ja": "Foxen",
+  "ko": "Foxen",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33808": {
   "en": "Mountain Boar",
@@ -12691,21 +12691,21 @@
  },
  "33809": {
   "en": "Explosive Bee",
-  "zh": "爆破蜂",
-  "ja": "ボマービー",
-  "ko": "폭파 벌",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Explosive Bee",
+  "ja": "Explosive Bee",
+  "ko": "Explosive Bee",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33810": {
   "en": "Magma Lizard",
-  "zh": "岩火巨蜥",
-  "ja": "マグマリザード",
-  "ko": "용암 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Magma Lizard",
+  "ja": "Magma Lizard",
+  "ko": "Magma Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33811": {
   "en": "Plains Eagle",
@@ -12718,12 +12718,12 @@
  },
  "33812": {
   "en": "Foxen",
-  "zh": "地狐",
-  "ja": "ランドフォックス",
-  "ko": "땅여우",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Foxen",
+  "ja": "Foxen",
+  "ko": "Foxen",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "33813": {
   "en": "Halo Hunter",
@@ -13357,8 +13357,8 @@
  },
  "40004": {
   "en": "Goblin Mage",
-  "zh": "巫师哥布林",
-  "ja": "エルダーゴブリン",
+  "zh": "巫妖哥布林",
+  "ja": "ゴブリンリッチ",
   "ko": "샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -13456,8 +13456,8 @@
  },
  "40015": {
   "en": "Goblin Mage",
-  "zh": "巫师哥布林",
-  "ja": "エルダーゴブリン",
+  "zh": "巫妖哥布林",
+  "ja": "ゴブリンリッチ",
   "ko": "샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -13554,9 +13554,9 @@
   "ko_fallback": false
  },
  "40026": {
-  "en": "Boss: Goblin Chief",
-  "zh": "首领·哥布林首领",
-  "ja": "ボス・ゴブリンウォーロード",
+  "en": "Boss - Goblin Chief",
+  "zh": "首领·哥布林酋长",
+  "ja": "ボス・ゴブリン酋長",
   "ko": "보스・고블린 족장",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -13672,9 +13672,9 @@
  },
  "40061": {
   "en": "Venomous Arachnocrab",
-  "zh": "猛毒蟹蛛",
-  "ja": "ヴェノカニクモ",
-  "ko": "극독 거미게",
+  "zh": "剧毒蟹蛛",
+  "ja": "劇毒カニクモ",
+  "ko": "맹독 거미게",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -13726,9 +13726,9 @@
  },
  "40067": {
   "en": "Wooden Dummy",
-  "zh": "木人",
-  "ja": "訓練用カカシ",
-  "ko": "목각 인형",
+  "zh": "训练假人",
+  "ja": "訓練ダミー",
+  "ko": "훈련용 허수아비",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -14284,7 +14284,7 @@
  },
  "40336": {
   "en": "Middle-aged Woman",
-  "zh": "中年女",
+  "zh": "中年女人",
   "ja": "中年女性",
   "ko": "중년 여성",
   "zh_fallback": false,
@@ -14500,9 +14500,9 @@
  },
  "40510": {
   "en": "Kanamia Wraith",
-  "zh": "卡尼曼游魂",
-  "ja": "カナミアレイス",
-  "ko": "카나미아족 원혼",
+  "zh": "卡尼曼荒灵",
+  "ja": "カナミアの荒霊",
+  "ko": "카나미아 황령",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -15130,8 +15130,8 @@
  },
  "60205": {
   "en": "Goblin Mage",
-  "zh": "巫师哥布林",
-  "ja": "エルダーゴブリン",
+  "zh": "巫妖哥布林",
+  "ja": "ゴブリンリッチ",
   "ko": "샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15140,7 +15140,7 @@
  "60206": {
   "en": "Goblin Fire Mage",
   "zh": "火巫师哥布林",
-  "ja": "虚蝕炎のエルダーゴブリン",
+  "ja": "炎のエルダーゴブリン",
   "ko": "불 샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15149,7 +15149,7 @@
  "60207": {
   "en": "Goblin Forest Mage",
   "zh": "森巫师哥布林",
-  "ja": "虚蝕森のエルダーゴブリン",
+  "ja": "森のエルダーゴブリン",
   "ko": "숲 샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15165,52 +15165,52 @@
   "ko_fallback": false
  },
  "60209": {
-  "en": "Elite: Goblin Crossbow",
-  "zh": "Elite: Goblin Crossbow",
-  "ja": "Elite: Goblin Crossbow",
-  "ko": "Elite: Goblin Crossbow",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Goblin Crossbow",
+  "zh": "精英·弩箭哥布林",
+  "ja": "精鋭・ボウガンゴブリン",
+  "ko": "엘리트・석궁 고블린",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "60210": {
-  "en": "Elite: Goblin Sword",
-  "zh": "Elite: Goblin Sword",
-  "ja": "Elite: Goblin Sword",
-  "ko": "Elite: Goblin Sword",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Goblin Sword",
+  "zh": "精英·剑盾哥布林",
+  "ja": "精鋭・剣盾ゴブリン",
+  "ko": "엘리트・검방패 고블린",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "60211": {
-  "en": "Elite: Goblin Axe",
+  "en": "Elite - Goblin Axe",
   "zh": "精英·巨斧哥布林",
-  "ja": "精鋭・虚蝕大斧ゴブリン",
+  "ja": "精鋭・大斧ゴブリン",
   "ko": "엘리트・거대 도끼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "60213": {
-  "en": "Elite: Goblin Fire Mage",
+  "en": "Elite - Goblin Fire Mage",
   "zh": "精英·火巫师哥布林",
-  "ja": "精鋭・虚蝕炎のエルダーゴブリン",
+  "ja": "精鋭・炎のエルダーゴブリン",
   "ko": "엘리트・불 샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "60215": {
-  "en": "Elite: Goblin Wind Mage",
+  "en": "Elite - Goblin Wind Mage",
   "zh": "精英·风巫师哥布林",
-  "ja": "精鋭・虚蝕風のエルダーゴブリン",
+  "ja": "精鋭・風のエルダーゴブリン",
   "ko": "엘리트・바람 샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "60216": {
-  "en": "Boss: Goblin King",
+  "en": "Boss - Goblin King",
   "zh": "首领·哥布林王",
   "ja": "ボス・キングゴブリン",
   "ko": "보스・고블린 왕",
@@ -15221,7 +15221,7 @@
  "60220": {
   "en": "Goblin Cudgel",
   "zh": "棒槌哥布林",
-  "ja": "棍棒ゴブリン",
+  "ja": "虚蝕棍棒ゴブリン",
   "ko": "몽둥이 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15230,7 +15230,7 @@
  "60221": {
   "en": "Goblin Dagger",
   "zh": "小刀哥布林",
-  "ja": "ナイフゴブリン",
+  "ja": "虚蝕短剣ゴブリン",
   "ko": "나이프 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15239,7 +15239,7 @@
  "60222": {
   "en": "Goblin Crossbow",
   "zh": "弩箭哥布林",
-  "ja": "ボウガンゴブリン",
+  "ja": "虚蝕ボウガンゴブリン",
   "ko": "석궁 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15257,7 +15257,7 @@
  "60224": {
   "en": "Goblin Axe",
   "zh": "巨斧哥布林",
-  "ja": "大斧ゴブリン",
+  "ja": "虚蝕大斧ゴブリン",
   "ko": "거대 도끼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15265,8 +15265,8 @@
  },
  "60225": {
   "en": "Goblin Mage",
-  "zh": "巫师哥布林",
-  "ja": "エルダーゴブリン",
+  "zh": "巫妖哥布林",
+  "ja": "虚蝕ゴブリンリッチ",
   "ko": "샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15293,7 +15293,7 @@
  "60228": {
   "en": "Goblin Wind Mage",
   "zh": "风巫师哥布林",
-  "ja": "風のエルダーゴブリン",
+  "ja": "虚蝕風のエルダーゴブリン",
   "ko": "바람 샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15374,7 +15374,7 @@
  "60237": {
   "en": "Boss: Goblin King",
   "zh": "首领·哥布林王",
-  "ja": "ボス・キングゴブリン",
+  "ja": "ボス・虚蝕キングゴブリン",
   "ko": "보스・고블린 왕",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15383,7 +15383,7 @@
  "60400": {
   "en": "Goblin Cudgel",
   "zh": "棒槌哥布林",
-  "ja": "棍棒ゴブリン",
+  "ja": "虚蝕棍棒ゴブリン",
   "ko": "몽둥이 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15392,7 +15392,7 @@
  "60401": {
   "en": "Goblin Dagger",
   "zh": "小刀哥布林",
-  "ja": "ナイフゴブリン",
+  "ja": "虚蝕短剣ゴブリン",
   "ko": "나이프 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15401,7 +15401,7 @@
  "60402": {
   "en": "Goblin Crossbow",
   "zh": "弩箭哥布林",
-  "ja": "ボウガンゴブリン",
+  "ja": "虚蝕ボウガンゴブリン",
   "ko": "석궁 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15419,7 +15419,7 @@
  "60404": {
   "en": "Goblin Axe",
   "zh": "巨斧哥布林",
-  "ja": "大斧ゴブリン",
+  "ja": "虚蝕大斧ゴブリン",
   "ko": "거대 도끼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15427,8 +15427,8 @@
  },
  "60405": {
   "en": "Goblin Mage",
-  "zh": "巫师哥布林",
-  "ja": "エルダーゴブリン",
+  "zh": "巫妖哥布林",
+  "ja": "虚蝕ゴブリンリッチ",
   "ko": "샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15527,7 +15527,7 @@
  "60416": {
   "en": "Boss: Goblin King",
   "zh": "首领·哥布林王",
-  "ja": "ボス・キングゴブリン",
+  "ja": "虚蝕・キングゴブリン",
   "ko": "보스・고블린 왕",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15552,36 +15552,36 @@
   "ko_fallback": false
  },
  "60508": {
-  "en": "Elite: Mischief Goblin",
-  "zh": "Elite: Mischief Goblin",
-  "ja": "Elite: Mischief Goblin",
-  "ko": "Elite: Mischief Goblin",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Mischief Goblin",
+  "zh": "精英·捣蛋哥布林",
+  "ja": "精鋭・いたずらゴブリン",
+  "ko": "엘리트・장난꾸러기 고블린",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "60509": {
-  "en": "Elite: Mischief Goblin",
-  "zh": "Elite: Mischief Goblin",
-  "ja": "Elite: Mischief Goblin",
-  "ko": "Elite: Mischief Goblin",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Mischief Goblin",
+  "zh": "精英·捣蛋哥布林",
+  "ja": "精鋭・いたずらゴブリン",
+  "ko": "엘리트・장난꾸러기 고블린",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "60510": {
-  "en": "Elite: Mischief Goblin",
-  "zh": "Elite: Mischief Goblin",
-  "ja": "Elite: Mischief Goblin",
-  "ko": "Elite: Mischief Goblin",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Mischief Goblin",
+  "zh": "精英·捣蛋哥布林",
+  "ja": "精鋭・いたずらゴブリン",
+  "ko": "엘리트・장난꾸러기 고블린",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "60600": {
   "en": "Goblin Cudgel",
   "zh": "棒槌哥布林",
-  "ja": "棍棒ゴブリン",
+  "ja": "虚蝕棍棒ゴブリン",
   "ko": "몽둥이 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15590,7 +15590,7 @@
  "60601": {
   "en": "Goblin Dagger",
   "zh": "小刀哥布林",
-  "ja": "ナイフゴブリン",
+  "ja": "虚蝕短剣ゴブリン",
   "ko": "나이프 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15599,7 +15599,7 @@
  "60602": {
   "en": "Goblin Crossbow",
   "zh": "弩箭哥布林",
-  "ja": "ボウガンゴブリン",
+  "ja": "虚蝕ボウガンゴブリン",
   "ko": "석궁 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15617,7 +15617,7 @@
  "60604": {
   "en": "Goblin Axe",
   "zh": "巨斧哥布林",
-  "ja": "大斧ゴブリン",
+  "ja": "虚蝕大斧ゴブリン",
   "ko": "거대 도끼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15625,8 +15625,8 @@
  },
  "60605": {
   "en": "Goblin Mage",
-  "zh": "巫师哥布林",
-  "ja": "エルダーゴブリン",
+  "zh": "巫妖哥布林",
+  "ja": "虚蝕ゴブリンリッチ",
   "ko": "샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15653,7 +15653,7 @@
  "60608": {
   "en": "Goblin Wind Mage",
   "zh": "风巫师哥布林",
-  "ja": "風のエルダーゴブリン",
+  "ja": "虚蝕風のエルダーゴブリン",
   "ko": "바람 샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -15894,16 +15894,16 @@
   "ko_fallback": false
  },
  "60741": {
-  "en": "Elite: Goblin Sword",
-  "zh": "Elite: Goblin Sword",
-  "ja": "Elite: Goblin Sword",
-  "ko": "Elite: Goblin Sword",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Goblin Sword",
+  "zh": "精英·剑盾哥布林",
+  "ja": "精鋭・剣盾ゴブリン",
+  "ko": "엘리트・검방패 고블린",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "60742": {
-  "en": "Boss: Goblin King",
+  "en": "Boss - Goblin King",
   "zh": "首领·哥布林王",
   "ja": "ボス・キングゴブリン",
   "ko": "보스・고블린 왕",
@@ -15921,16 +15921,16 @@
   "ko_fallback": false
  },
  "60744": {
-  "en": "Elite: Goblin Sword",
-  "zh": "Elite: Goblin Sword",
-  "ja": "Elite: Goblin Sword",
-  "ko": "Elite: Goblin Sword",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Goblin Sword",
+  "zh": "精英·剑盾哥布林",
+  "ja": "精鋭・剣盾ゴブリン",
+  "ko": "엘리트・검방패 고블린",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "60745": {
-  "en": "Boss: Goblin King",
+  "en": "Boss - Goblin King",
   "zh": "首领·哥布林王",
   "ja": "ボス・キングゴブリン",
   "ko": "보스・고블린 왕",
@@ -16210,8 +16210,8 @@
  },
  "61002": {
   "en": "Goblin Mage",
-  "zh": "巫师哥布林",
-  "ja": "エルダーゴブリン",
+  "zh": "巫妖哥布林",
+  "ja": "ゴブリンリッチ",
   "ko": "샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -16236,36 +16236,36 @@
   "ko_fallback": false
  },
  "61005": {
-  "en": "Elite: Goblin Sword",
-  "zh": "Elite: Goblin Sword",
-  "ja": "Elite: Goblin Sword",
-  "ko": "Elite: Goblin Sword",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Goblin Sword",
+  "zh": "精英·剑盾哥布林",
+  "ja": "精鋭・剣盾ゴブリン",
+  "ko": "엘리트・검방패 고블린",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "61006": {
-  "en": "Elite: Goblin Fire Mage",
+  "en": "Elite - Goblin Fire Mage",
   "zh": "精英·火巫师哥布林",
-  "ja": "精鋭・虚蝕炎のエルダーゴブリン",
+  "ja": "精鋭・炎のエルダーゴブリン",
   "ko": "엘리트・불 샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "61007": {
-  "en": "Elite: Goblin Axe",
+  "en": "Elite - Goblin Axe",
   "zh": "精英·巨斧哥布林",
-  "ja": "精鋭・虚蝕大斧ゴブリン",
+  "ja": "精鋭・大斧ゴブリン",
   "ko": "엘리트・거대 도끼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "61008": {
-  "en": "Elite: Goblin Wind Mage",
+  "en": "Elite - Goblin Wind Mage",
   "zh": "精英·风巫师哥布林",
-  "ja": "精鋭・虚蝕風のエルダーゴブリン",
+  "ja": "精鋭・風のエルダーゴブリン",
   "ko": "엘리트・바람 샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -16373,7 +16373,7 @@
  "61207": {
   "en": "Goblin Warrior",
   "zh": "哥布林战士",
-  "ja": "ゴブリンウォーリアー",
+  "ja": "ムーク",
   "ko": "고블린 전사",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -16382,7 +16382,7 @@
  "61208": {
   "en": "Goblin Axeman",
   "zh": "哥布林斧手",
-  "ja": "トリックゴブリン",
+  "ja": "剣盾ゴブリン",
   "ko": "고블린 도끼병",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -16409,7 +16409,7 @@
  "61211": {
   "en": "Goblin Trickster",
   "zh": "哥布林欺诈师",
-  "ja": "精鋭・トリックゴブリン",
+  "ja": "ムーク",
   "ko": "고블린 기만술사",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -16418,7 +16418,7 @@
  "61212": {
   "en": "Goblin Shaman",
   "zh": "哥布林巫医",
-  "ja": "精鋭・メディゴブリン",
+  "ja": "ムーク",
   "ko": "고블린 의술사",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -16445,7 +16445,7 @@
  "61215": {
   "en": "Muku Hammerer",
   "zh": "大锤姆克",
-  "ja": "大鎚ムーク",
+  "ja": "ボウガンムーク",
   "ko": "해머 무크",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -16454,7 +16454,7 @@
  "61216": {
   "en": "Muku Axemaster",
   "zh": "巨斧姆克",
-  "ja": "大斧ムーク",
+  "ja": "ボウガンムーク",
   "ko": "거대 도끼 무크",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -16463,7 +16463,7 @@
  "61217": {
   "en": "Muku Cleaver",
   "zh": "砍刀姆克",
-  "ja": "鉈ムーク",
+  "ja": "ボウガンムーク",
   "ko": "벌목도 무크",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -16481,7 +16481,7 @@
  "61219": {
   "en": "Muku Vanguard",
   "zh": "姆克狂战士",
-  "ja": "ムークバーサーカー",
+  "ja": "嵐のキングゴブリン",
   "ko": "무크 광전사",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -16490,7 +16490,7 @@
  "61220": {
   "en": "Muku Chief",
   "zh": "姆克头目",
-  "ja": "ムークチーフ",
+  "ja": "嵐のキングゴブリン",
   "ko": "무크 두목",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -17298,142 +17298,142 @@
   "ko_fallback": false
  },
  "70043": {
-  "en": "Elite: Boarrier Tyrant",
-  "zh": "Elite: Boarrier Tyrant",
-  "ja": "Elite: Boarrier Tyrant",
-  "ko": "Elite: Boarrier Tyrant",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Boarrier Tyrant",
+  "zh": "精英·威猛野猪",
+  "ja": "精鋭・マイティボア",
+  "ko": "엘리트・맹렬한 멧돼지",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70045": {
-  "en": "Elite: Mighty Colossus",
-  "zh": "Elite: Mighty Colossus",
-  "ja": "Elite: Mighty Colossus",
-  "ko": "Elite: Mighty Colossus",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Mighty Colossus",
+  "zh": "精英·巨魔",
+  "ja": "精鋭・ドゴルマン",
+  "ko": "엘리트・트롤",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70047": {
-  "en": "Elite: Goblin Guard",
-  "zh": "Elite: Goblin Guard",
-  "ja": "Elite: Goblin Guard",
-  "ko": "Elite: Goblin Guard",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Goblin Guard",
+  "zh": "精英·哥布林护卫",
+  "ja": "精鋭・ゴブリン衛士",
+  "ko": "엘리트・고블린 호위병",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70048": {
-  "en": "Elite: Goblin Warrior",
-  "zh": "Elite: Goblin Warrior",
-  "ja": "Elite: Goblin Warrior",
-  "ko": "Elite: Goblin Warrior",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Goblin Warrior",
+  "zh": "精英·哥布林弩手",
+  "ja": "精鋭・ゴブリン弓兵",
+  "ko": "엘리트・고블린 석궁잡이",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70049": {
-  "en": "Elite: Jungle Goblin Warrior",
-  "zh": "Elite: Jungle Goblin Warrior",
-  "ja": "Elite: Jungle Goblin Warrior",
-  "ko": "Elite: Jungle Goblin Warrior",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Jungle Goblin Warrior",
+  "zh": "精英·丛林哥布林战士",
+  "ja": "精鋭・森のゴブリンウォーリアー",
+  "ko": "엘리트・밀림 고블린 전사",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70051": {
-  "en": "Elite: Inferno Goblin Mage",
-  "zh": "Elite: Inferno Goblin Mage",
-  "ja": "Elite: Inferno Goblin Mage",
-  "ko": "Elite: Inferno Goblin Mage",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Inferno Goblin Mage",
+  "zh": "精英·火焰哥布林巫师",
+  "ja": "精鋭・炎のエルダーゴブリン",
+  "ko": "엘리트・화염 고블린 샤먼",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70052": {
-  "en": "Elite: Void Arachnocrab",
-  "zh": "Elite: Void Arachnocrab",
-  "ja": "Elite: Void Arachnocrab",
-  "ko": "Elite: Void Arachnocrab",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Void Arachnocrab",
+  "zh": "精英·污染蟹蛛",
+  "ja": "精鋭・汚染カニクモ",
+  "ko": "엘리트・감염된 거미게",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70053": {
-  "en": "Elite: Brigand Scout Leader",
-  "zh": "Elite: Brigand Scout Leader",
-  "ja": "Elite: Brigand Scout Leader",
-  "ko": "Elite: Brigand Scout Leader",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Brigand Scout Leader",
+  "zh": "精英·山贼斥候队长",
+  "ja": "精鋭・山賊斥候隊長",
+  "ko": "엘리트・산적 정찰대장",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70054": {
-  "en": "Elite: Brigand Guard Captain",
-  "zh": "Elite: Brigand Guard Captain",
-  "ja": "Elite: Brigand Guard Captain",
-  "ko": "Elite: Brigand Guard Captain",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Brigand Guard Captain",
+  "zh": "精英·山贼护卫队长",
+  "ja": "精鋭・山賊衛隊長",
+  "ko": "엘리트・산적 호위대장",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70057": {
-  "en": "Elite: Muku Warrior",
-  "zh": "Elite: Muku Warrior",
-  "ja": "Elite: Muku Warrior",
-  "ko": "Elite: Muku Warrior",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Muku Warrior",
+  "zh": "精英·姆克兵长",
+  "ja": "精鋭・ムークウォーリアー",
+  "ko": "엘리트・무크 병장",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70058": {
-  "en": "Elite: Shadow Captain",
-  "zh": "Elite: Shadow Captain",
-  "ja": "Elite: Shadow Captain",
-  "ko": "Elite: Shadow Captain",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Shadow Captain",
+  "zh": "精英·黯影枪手队长",
+  "ja": "精鋭・暗霧銃士隊長",
+  "ko": "엘리트・검은 안개 총병대장",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70059": {
-  "en": "Elite: Shadow Commander",
-  "zh": "Elite: Shadow Commander",
-  "ja": "Elite: Shadow Commander",
-  "ko": "Elite: Shadow Commander",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Shadow Commander",
+  "zh": "精英·黯影剑士队长",
+  "ja": "精鋭・暗霧剣士隊長",
+  "ko": "엘리트・검은 안개 검병대장",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70060": {
-  "en": "Elite: Great Warhog",
-  "zh": "Elite: Great Warhog",
-  "ja": "Elite: Great Warhog",
-  "ko": "Elite: Great Warhog",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Great Warhog",
+  "zh": "精英·雷光野猪",
+  "ja": "精鋭・グレートファング",
+  "ko": "엘리트・전격 멧돼지",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70061": {
-  "en": "Elite: Storm Goblin Warrior",
-  "zh": "Elite: Storm Goblin Warrior",
-  "ja": "Elite: Storm Goblin Warrior",
-  "ko": "Elite: Storm Goblin Warrior",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Storm Goblin Warrior",
+  "zh": "精英·飓风哥布林战士",
+  "ja": "精鋭・嵐のゴブリンウォーリアー",
+  "ko": "엘리트・태풍 고블린 전사",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70062": {
-  "en": "Elite: Lizardman Hunter",
-  "zh": "Elite: Lizardman Hunter",
-  "ja": "Elite: Lizardman Hunter",
-  "ko": "Elite: Lizardman Hunter",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Lizardman Hunter",
+  "zh": "精英·蜥蜴人猎手",
+  "ja": "精鋭・ギルミーハンター",
+  "ko": "엘리트・리자드맨 사냥꾼",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70063": {
-  "en": "Boss: Golden Juggernaut",
+  "en": "Boss - Golden Juggernaut",
   "zh": "首领·凶猛金牙",
   "ja": "ボス・猛る金色",
   "ko": "보스・사나운 황금 이빨",
@@ -17442,7 +17442,7 @@
   "ko_fallback": false
  },
  "70064": {
-  "en": "Boss: Frost Ogre",
+  "en": "Boss - Frost Ogre",
   "zh": "首领·寒霜食人魔",
   "ja": "ボス・フロストオーガ",
   "ko": "보스・서리 오우거",
@@ -17451,7 +17451,7 @@
   "ko_fallback": false
  },
  "70065": {
-  "en": "Boss: Inferno Ogre",
+  "en": "Boss - Inferno Ogre",
   "zh": "首领·火焰食人魔",
   "ja": "ボス・フレイムオーガ",
   "ko": "보스・화염 오우거",
@@ -17460,7 +17460,7 @@
   "ko_fallback": false
  },
  "70066": {
-  "en": "Boss: Brigand Chief",
+  "en": "Boss - Brigand Chief",
   "zh": "首领·山贼首领",
   "ja": "ボス・異国の山賊長ヒグマ",
   "ko": "보스・산적 대장",
@@ -17469,7 +17469,7 @@
   "ko_fallback": false
  },
  "70067": {
-  "en": "Boss: Muku Chief",
+  "en": "Boss - Muku Chief",
   "zh": "首领·姆克头目",
   "ja": "ボス・ムークチーフ",
   "ko": "보스・무크 두목",
@@ -17478,7 +17478,7 @@
   "ko_fallback": false
  },
  "70068": {
-  "en": "Boss: Tempest Ogre",
+  "en": "Boss - Tempest Ogre",
   "zh": "首领·雷电食人魔",
   "ja": "ボス・サンダーオーガ",
   "ko": "보스・번개 오우거",
@@ -17487,7 +17487,7 @@
   "ko_fallback": false
  },
  "70070": {
-  "en": "Boss: Iron Fang",
+  "en": "Boss - Iron Fang",
   "zh": "首领·铁牙",
   "ja": "ボス・鉄牙",
   "ko": "보스・무쇠 이빨",
@@ -17496,7 +17496,7 @@
   "ko_fallback": false
  },
  "70071": {
-  "en": "Boss: Phantom Arachnocrab",
+  "en": "Boss - Phantom Arachnocrab",
   "zh": "首领·幻妖蟹蛛",
   "ja": "ボス・ゴーストカニクモ",
   "ko": "보스・환영 거미게",
@@ -17505,7 +17505,7 @@
   "ko_fallback": false
  },
  "70072": {
-  "en": "Boss: Storm Goblin King",
+  "en": "Boss - Storm Goblin King",
   "zh": "首领·飓风哥布林王",
   "ja": "ボス・嵐のキングゴブリン",
   "ko": "보스・태풍 고블린 왕",
@@ -17514,7 +17514,7 @@
   "ko_fallback": false
  },
  "70073": {
-  "en": "Boss: Muku King",
+  "en": "Boss - Muku King",
   "zh": "首领·姆克王",
   "ja": "ボス・キングムーク",
   "ko": "보스・무크왕",
@@ -17523,22 +17523,22 @@
   "ko_fallback": false
  },
  "70163": {
-  "en": "Elite: Lizardman Mage",
-  "zh": "Elite: Lizardman Mage",
-  "ja": "Elite: Lizardman Mage",
-  "ko": "Elite: Lizardman Mage",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Lizardman Mage",
+  "zh": "精英·蜥蜴人法师",
+  "ja": "精鋭・ギルミーメイジ",
+  "ko": "엘리트・리자드맨 마법사",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70164": {
-  "en": "Elite: Muku Scout",
-  "zh": "Elite: Muku Scout",
-  "ja": "Elite: Muku Scout",
-  "ko": "Elite: Muku Scout",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Muku Scout",
+  "zh": "精英·姆克尖兵",
+  "ja": "精鋭・ムーク尖兵",
+  "ko": "엘리트・무크 선봉병",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70165": {
   "en": "Boarrier Storm",
@@ -17604,16 +17604,16 @@
   "ko_fallback": false
  },
  "70172": {
-  "en": "Elite: Void Bzzar",
-  "zh": "Elite: Void Bzzar",
-  "ja": "Elite: Void Bzzar",
-  "ko": "Elite: Void Bzzar",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Void Bzzar",
+  "zh": "精英·变异蜂",
+  "ja": "精鋭・変異ミーン",
+  "ko": "엘리트・돌연변이 민",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "70173": {
-  "en": "Boss: Celestial Flier",
+  "en": "Boss - Celestial Flier",
   "zh": "首领·圣域飞鱼",
   "ja": "ボス・ヘヴンスカイ",
   "ko": "보스・성스러운 날치",
@@ -17622,7 +17622,7 @@
   "ko_fallback": false
  },
  "70174": {
-  "en": "Boss: Goblin King",
+  "en": "Boss - Goblin King",
   "zh": "首领·哥布林王",
   "ja": "ボス・キングゴブリン",
   "ko": "보스・고블린 왕",
@@ -17631,7 +17631,7 @@
   "ko_fallback": false
  },
  "70175": {
-  "en": "Boss: Lizardman King",
+  "en": "Boss - Lizardman King",
   "zh": "首领·蜥蜴人王",
   "ja": "ボス・キングギルミー",
   "ko": "보스・리자드맨 킹",
@@ -17948,7 +17948,7 @@
  "71018": {
   "en": "Gale Lizard",
   "zh": "森风巨蜥",
-  "ja": "ハイランドボア",
+  "ja": "ゲイルリザード",
   "ko": "바람 리자드",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -18011,7 +18011,7 @@
  "71025": {
   "en": "Goblin Axeman",
   "zh": "哥布林斧手",
-  "ja": "トリックゴブリン",
+  "ja": "ゴブリン斧兵",
   "ko": "고블린 도끼병",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -18038,7 +18038,7 @@
  "71028": {
   "en": "Cabbage Killer",
   "zh": "卷心菜杀手",
-  "ja": "精鋭・甘藍調査団の学者",
+  "ja": "甘藍暗殺者",
   "ko": "양배추 암살자",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -18047,7 +18047,7 @@
  "71029": {
   "en": "Cabbage Hunter",
   "zh": "卷心菜猎人",
-  "ja": "精鋭・甘藍調査団の重剣士",
+  "ja": "甘藍狩人",
   "ko": "양배추 사냥꾼",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -18056,7 +18056,7 @@
  "71030": {
   "en": "Cabbage Tough Guy",
   "zh": "卷心菜硬汉",
-  "ja": "甘藍調査団の前衛",
+  "ja": "甘藍豪腕者",
   "ko": "양배추 터프가이",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -18065,7 +18065,7 @@
  "71031": {
   "en": "Cabbage Blaster",
   "zh": "卷心菜爆裂者",
-  "ja": "甘藍調査団の弓手",
+  "ja": "甘藍破壊者",
   "ko": "양배추 폭파자",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -18083,7 +18083,7 @@
  "71033": {
   "en": "Wasteland Foxen",
   "zh": "荒地狐",
-  "ja": "変異ランドフォックス",
+  "ja": "ワイルドランドフォックス",
   "ko": "황야 땅여우",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -18137,7 +18137,7 @@
  "71039": {
   "en": "Boss: Muku Chief",
   "zh": "首领·姆克头目",
-  "ja": "ボス・ムークチーフ",
+  "ja": "ボス・ムークボス",
   "ko": "보스・무크 두목",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -18208,84 +18208,84 @@
  },
  "72006": {
   "en": "Boss: Golden Juggernaut",
-  "zh": "首领·凶猛金牙",
-  "ja": "ボス・猛る金色",
-  "ko": "보스・사나운 황금 이빨",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Boss: Golden Juggernaut",
+  "ja": "Boss: Golden Juggernaut",
+  "ko": "Boss: Golden Juggernaut",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72007": {
   "en": "Boss: Phantom Arachnocrab",
-  "zh": "首领·幻妖蟹蛛",
-  "ja": "ボス・ゴーストカニクモ",
-  "ko": "보스・환영 거미게",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Boss: Phantom Arachnocrab",
+  "ja": "Boss: Phantom Arachnocrab",
+  "ko": "Boss: Phantom Arachnocrab",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72008": {
   "en": "Boss: Inferno Ogre",
-  "zh": "首领·火焰食人魔",
-  "ja": "ボス・フレイムオーガ",
-  "ko": "보스・화염 오우거",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Boss: Inferno Ogre",
+  "ja": "Boss: Inferno Ogre",
+  "ko": "Boss: Inferno Ogre",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72009": {
   "en": "Boss: Cabbage Kingpin",
-  "zh": "首领·天才卷心菜大王",
-  "ja": "ボス・天才甘藍大王",
-  "ko": "보스・천재 양배추 대왕",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Boss: Cabbage Kingpin",
+  "ja": "Boss: Cabbage Kingpin",
+  "ko": "Boss: Cabbage Kingpin",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72010": {
   "en": "Boss: Flamehorn",
-  "zh": "首领·炎角",
-  "ja": "ボス・炎角",
-  "ko": "보스・화염뿔",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Boss: Flamehorn",
+  "ja": "Boss: Flamehorn",
+  "ko": "Boss: Flamehorn",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72011": {
   "en": "Boss: Basilisk",
-  "zh": "首领·巴西利斯克",
-  "ja": "ボス・バジリスク",
-  "ko": "보스・바실리스크",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Boss: Basilisk",
+  "ja": "Boss: Basilisk",
+  "ko": "Boss: Basilisk",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72012": {
   "en": "Boss: Muku Chief",
-  "zh": "首领·姆克头目",
-  "ja": "ボス・ムークチーフ",
-  "ko": "보스・무크 두목",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Boss: Muku Chief",
+  "ja": "Boss: Muku Chief",
+  "ko": "Boss: Muku Chief",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72013": {
   "en": "Boss: Muku King",
-  "zh": "首领·姆克王",
-  "ja": "ボス・キングムーク",
-  "ko": "보스・무크왕",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Boss: Muku King",
+  "ja": "Boss: Muku King",
+  "ko": "Boss: Muku King",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72014": {
   "en": "Boss: Goblin King",
-  "zh": "首领·哥布林王",
-  "ja": "ボス・キングゴブリン",
-  "ko": "보스・고블린 왕",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Boss: Goblin King",
+  "ja": "Boss: Goblin King",
+  "ko": "Boss: Goblin King",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72015": {
   "en": "Elite: Killer Arachnocrab",
@@ -18334,84 +18334,84 @@
  },
  "72020": {
   "en": "Elite: Bluespine Lizard",
-  "zh": "精英·蓝脊巨蜥",
-  "ja": "精鋭・ブルースパインリザード",
-  "ko": "엘리트・푸른 돌기 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Elite: Bluespine Lizard",
+  "ja": "Elite: Bluespine Lizard",
+  "ko": "Elite: Bluespine Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72021": {
   "en": "Elite: Blackstone Commander",
-  "zh": "精英·黑石军团执令官",
-  "ja": "精鋭・黒磊兵団の指揮官",
-  "ko": "엘리트・검은 돌 군단 군령관",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Elite: Blackstone Commander",
+  "ja": "Elite: Blackstone Commander",
+  "ko": "Elite: Blackstone Commander",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72022": {
   "en": "Elite: Blackstone Vanguard",
-  "zh": "精英·黑石军团先锋官",
-  "ja": "精鋭・黒磊兵団の先鋒隊長",
-  "ko": "엘리트・검은 돌 군단 선봉관",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Elite: Blackstone Vanguard",
+  "ja": "Elite: Blackstone Vanguard",
+  "ko": "Elite: Blackstone Vanguard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72023": {
   "en": "Elite: Goblin Trickster",
-  "zh": "精英·哥布林欺诈师",
-  "ja": "精鋭・トリックエルダー",
-  "ko": "엘리트・고블린 기만술사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Elite: Goblin Trickster",
+  "ja": "Elite: Goblin Trickster",
+  "ko": "Elite: Goblin Trickster",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72024": {
   "en": "Elite: Goblin Shaman",
-  "zh": "精英·哥布林巫医",
-  "ja": "精鋭・悪しき癒し手",
-  "ko": "엘리트・고블린 의술사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Elite: Goblin Shaman",
+  "ja": "Elite: Goblin Shaman",
+  "ko": "Elite: Goblin Shaman",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72025": {
   "en": "Elite: Blackfire Foxen",
-  "zh": "精英·黑焰地狐",
-  "ja": "精鋭・ブラックランドフォックス",
-  "ko": "엘리트・흑염 땅여우",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Elite: Blackfire Foxen",
+  "ja": "Elite: Blackfire Foxen",
+  "ko": "Elite: Blackfire Foxen",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72026": {
   "en": "Elite: Gloomy Cabbage",
-  "zh": "精英·忧郁卷心菜",
-  "ja": "精鋭・甘藍憂鬱者",
-  "ko": "엘리트・우울한 양배추",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Elite: Gloomy Cabbage",
+  "ja": "Elite: Gloomy Cabbage",
+  "ko": "Elite: Gloomy Cabbage",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72027": {
   "en": "Elite: Ruthless Cabbage",
-  "zh": "精英·冷酷卷心菜",
-  "ja": "精鋭・甘藍冷酷者",
-  "ko": "엘리트・냉혹한 양배추",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Elite: Ruthless Cabbage",
+  "ja": "Elite: Ruthless Cabbage",
+  "ko": "Elite: Ruthless Cabbage",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72028": {
   "en": "Elite: Emerald Caprahorn",
-  "zh": "精英·翡翠角羊",
-  "ja": "精鋭・エメラルドホーン",
-  "ko": "엘리트・비취 뿔염소",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Elite: Emerald Caprahorn",
+  "ja": "Elite: Emerald Caprahorn",
+  "ko": "Elite: Emerald Caprahorn",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72029": {
   "en": "Infernal Arachnocrab",
@@ -18505,183 +18505,183 @@
  },
  "72039": {
   "en": "Frost Lizard",
-  "zh": "冰暗巨蜥",
-  "ja": "フロストリザード",
-  "ko": "서리 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Frost Lizard",
+  "ja": "Frost Lizard",
+  "ko": "Frost Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72040": {
   "en": "Magma Lizard",
-  "zh": "岩火巨蜥",
-  "ja": "マグマリザード",
-  "ko": "용암 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Magma Lizard",
+  "ja": "Magma Lizard",
+  "ko": "Magma Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72041": {
   "en": "Gale Lizard",
-  "zh": "森风巨蜥",
-  "ja": "ハイランドボア",
-  "ko": "바람 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Gale Lizard",
+  "ja": "Gale Lizard",
+  "ko": "Gale Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72042": {
   "en": "Lightning Lizard",
-  "zh": "电光巨蜥",
-  "ja": "サンダーリザード",
-  "ko": "번개 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Lightning Lizard",
+  "ja": "Lightning Lizard",
+  "ko": "Lightning Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72043": {
   "en": "Blackstone Legion Marksman",
-  "zh": "黑石军团射手",
-  "ja": "黒磊兵団の射手",
-  "ko": "검은 돌 군단 사수",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Marksman",
+  "ja": "Blackstone Legion Marksman",
+  "ko": "Blackstone Legion Marksman",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72044": {
   "en": "Blackstone Legion Guard",
-  "zh": "黑石军团卫士",
-  "ja": "黒磊兵団の護衛",
-  "ko": "검은 돌 군단 호위병",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Guard",
+  "ja": "Blackstone Legion Guard",
+  "ko": "Blackstone Legion Guard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72045": {
   "en": "Blackstone Legion Warrior",
-  "zh": "黑石军团战士",
-  "ja": "黒磊兵団の戦士",
-  "ko": "검은 돌 군단 전사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Warrior",
+  "ja": "Blackstone Legion Warrior",
+  "ko": "Blackstone Legion Warrior",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72046": {
   "en": "Blackstone Legion Assaulter",
-  "zh": "黑石军团突击手",
-  "ja": "黒磊兵団の突撃兵",
-  "ko": "검은 돌 군단 돌격수",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Assaulter",
+  "ja": "Blackstone Legion Assaulter",
+  "ko": "Blackstone Legion Assaulter",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72047": {
   "en": "Goblin Warrior",
-  "zh": "哥布林战士",
-  "ja": "ゴブリンウォーリアー",
-  "ko": "고블린 전사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Goblin Warrior",
+  "ja": "Goblin Warrior",
+  "ko": "Goblin Warrior",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72048": {
   "en": "Goblin Axeman",
-  "zh": "哥布林斧手",
-  "ja": "トリックゴブリン",
-  "ko": "고블린 도끼병",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Goblin Axeman",
+  "ja": "Goblin Axeman",
+  "ko": "Goblin Axeman",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72049": {
   "en": "Goblin Priest",
-  "zh": "哥布林祭祀",
-  "ja": "ゴブリン祭司",
-  "ko": "고블린 사제",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Goblin Priest",
+  "ja": "Goblin Priest",
+  "ko": "Goblin Priest",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72050": {
   "en": "Goblin Guard",
-  "zh": "哥布林护卫",
-  "ja": "ゴブリン衛士",
-  "ko": "고블린 호위병",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Goblin Guard",
+  "ja": "Goblin Guard",
+  "ko": "Goblin Guard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72051": {
   "en": "Cabbage Killer",
-  "zh": "卷心菜杀手",
-  "ja": "精鋭・甘藍調査団の学者",
-  "ko": "양배추 암살자",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Cabbage Killer",
+  "ja": "Cabbage Killer",
+  "ko": "Cabbage Killer",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72052": {
   "en": "Cabbage Hunter",
-  "zh": "卷心菜猎人",
-  "ja": "精鋭・甘藍調査団の重剣士",
-  "ko": "양배추 사냥꾼",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Cabbage Hunter",
+  "ja": "Cabbage Hunter",
+  "ko": "Cabbage Hunter",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72053": {
   "en": "Cabbage Tough Guy",
-  "zh": "卷心菜硬汉",
-  "ja": "甘藍調査団の前衛",
-  "ko": "양배추 터프가이",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Cabbage Tough Guy",
+  "ja": "Cabbage Tough Guy",
+  "ko": "Cabbage Tough Guy",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72054": {
   "en": "Cabbage Blaster",
-  "zh": "卷心菜爆裂者",
-  "ja": "甘藍調査団の弓手",
-  "ko": "양배추 폭파자",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Cabbage Blaster",
+  "ja": "Cabbage Blaster",
+  "ko": "Cabbage Blaster",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72055": {
   "en": "Foxen",
-  "zh": "地狐",
-  "ja": "ランドフォックス",
-  "ko": "땅여우",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Foxen",
+  "ja": "Foxen",
+  "ko": "Foxen",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72056": {
   "en": "Wasteland Foxen",
-  "zh": "荒地狐",
-  "ja": "変異ランドフォックス",
-  "ko": "황야 땅여우",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Wasteland Foxen",
+  "ja": "Wasteland Foxen",
+  "ko": "Wasteland Foxen",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72057": {
   "en": "Nether Caprahorn",
-  "zh": "幽冥角羊",
-  "ja": "スプーキーゴート",
-  "ko": "저승 뿔염소",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Nether Caprahorn",
+  "ja": "Nether Caprahorn",
+  "ko": "Nether Caprahorn",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "72058": {
   "en": "Glimmer Caprahorn",
-  "zh": "流光角羊",
-  "ja": "ルミナゴート",
-  "ko": "유광 뿔염소",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Glimmer Caprahorn",
+  "ja": "Glimmer Caprahorn",
+  "ko": "Glimmer Caprahorn",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "80001": {
   "en": "Storm Goblin King",
@@ -18802,9 +18802,9 @@
  },
  "80014": {
   "en": "Basilisk",
-  "zh": "蛇怪",
-  "ja": "スネークモンスター",
-  "ko": "뱀 괴물",
+  "zh": "巴西利斯克",
+  "ja": "バジリスク",
+  "ko": "바실리스크",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -18955,17 +18955,17 @@
  },
  "81011": {
   "en": "Void - Goblin Axe",
-  "zh": "被虚蚀的巨斧哥布林",
-  "ja": "虚蝕された大斧ゴブリン",
-  "ko": "침식된 거대 도끼 고블린",
+  "zh": "虚蚀·巨斧哥布林",
+  "ja": "虚蝕・大斧ゴブリン",
+  "ko": "허무의 침식・거대 도끼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "81012": {
   "en": "Void - Goblin Mage",
-  "zh": "虚蚀·巫师哥布林",
-  "ja": "虚蝕・エルダーゴブリン",
+  "zh": "虚蚀·巫妖哥布林",
+  "ja": "虚蝕・ゴブリンリッチ",
   "ko": "허무의 침식・샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -19001,7 +19001,7 @@
  "81021": {
   "en": "Illuminator",
   "zh": "光域指针",
-  "ja": "光領域ポインター",
+  "ja": "光域",
   "ko": "빛 영역 시곗바늘",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -19225,12 +19225,12 @@
  },
  "81108": {
   "en": "Bean",
-  "zh": "豆豆",
-  "ja": "豆",
-  "ko": "도트",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Bean",
+  "ja": "Bean",
+  "ko": "Bean",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "81109": {
   "en": "Masked Nappo",
@@ -19738,27 +19738,27 @@
  },
  "101234": {
   "en": "Byrnhald Shield Bearer",
-  "zh": "班哈尔特盾兵",
-  "ja": "バーンハルト盾兵",
-  "ko": "번하르트 방패병",
+  "zh": "班哈尔特盾手",
+  "ja": "バーンハルトシールドソルジャー",
+  "ko": "번하르트 방패잡이",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "101235": {
   "en": "Byrnhald Rifleman",
-  "zh": "班哈尔特步枪兵",
-  "ja": "バーンハルト・ライフル兵",
-  "ko": "번하르트 소총병",
+  "zh": "班哈尔特步枪手",
+  "ja": "バーンハルト・ライフルマン",
+  "ko": "번하르트 소총수",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "101236": {
   "en": "Byrnhald Spearman",
-  "zh": "班哈尔特长矛兵",
-  "ja": "バーンハルト槍兵",
-  "ko": "번하르트 창병",
+  "zh": "班哈尔特长矛手",
+  "ja": "バーンハルト・スピアマン",
+  "ko": "번하르트 창잡이",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -19927,27 +19927,27 @@
  },
  "101255": {
   "en": "Byrnhald Shield Bearer",
-  "zh": "班哈尔特盾兵",
-  "ja": "バーンハルト盾兵",
-  "ko": "번하르트 방패병",
+  "zh": "班哈尔特盾手",
+  "ja": "バーンハルトシールドソルジャー",
+  "ko": "번하르트 방패잡이",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "101256": {
   "en": "Byrnhald Rifleman",
-  "zh": "班哈尔特步枪兵",
-  "ja": "バーンハルト・ライフル兵",
-  "ko": "번하르트 소총병",
+  "zh": "班哈尔特步枪手",
+  "ja": "バーンハルト・ライフルマン",
+  "ko": "번하르트 소총수",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "101257": {
   "en": "Byrnhald Spearman",
-  "zh": "班哈尔特长矛兵",
-  "ja": "バーンハルト槍兵",
-  "ko": "번하르트 창병",
+  "zh": "班哈尔特长矛手",
+  "ja": "バーンハルト・スピアマン",
+  "ko": "번하르트 창잡이",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -20098,21 +20098,21 @@
  },
  "101274": {
   "en": "Byrnhald Rifleman",
-  "zh": "班哈尔特步枪兵",
-  "ja": "バーンハルト・ライフル兵",
-  "ko": "번하르트 소총병",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
- },
- "102101": {
-  "en": "Rin·Izcorgiky",
-  "zh": "Rin·Izcorgiky",
-  "ja": "Rin·Izcorgiky",
-  "ko": "Rin·Izcorgiky",
+  "zh": "Byrnhald Rifleman",
+  "ja": "Byrnhald Rifleman",
+  "ko": "Byrnhald Rifleman",
   "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
+ },
+ "102101": {
+  "en": "Rin Izcorgiky",
+  "zh": "凛·伊兹寇利基",
+  "ja": "凜・イツラコリウキ",
+  "ko": "린・이즈콜리키",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "102102": {
   "en": "Ice Mirage",
@@ -20124,22 +20124,22 @@
   "ko_fallback": false
  },
  "102104": {
-  "en": "Rin·Izcorgiky",
-  "zh": "Rin·Izcorgiky",
-  "ja": "Rin·Izcorgiky",
-  "ko": "Rin·Izcorgiky",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Rin Izcorgiky",
+  "zh": "凛·伊兹寇利基",
+  "ja": "凜・イツラコリウキ",
+  "ko": "린・이즈콜리키",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "102105": {
-  "en": "Rin·Izcorgiky",
-  "zh": "Rin·Izcorgiky",
-  "ja": "Rin·Izcorgiky",
-  "ko": "Rin·Izcorgiky",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Rin Izcorgiky",
+  "zh": "凛·伊兹寇利基",
+  "ja": "凜・イツラコリウキ",
+  "ko": "린・이즈콜리키",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "102111": {
   "en": "Little Dragon 1",
@@ -20232,13 +20232,13 @@
   "ko_fallback": false
  },
  "102401": {
-  "en": "Bone·Xiolotl",
-  "zh": "Bone·Xiolotl",
-  "ja": "Bone·Xiolotl",
-  "ko": "Bone·Xiolotl",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Knochen-Xiolotl",
+  "zh": "骸·修洛特尔",
+  "ja": "骸・ショロトル",
+  "ko": "해・수로텔",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "102402": {
   "en": "Divine Defense Tower",
@@ -20313,31 +20313,31 @@
   "ko_fallback": false
  },
  "102450": {
-  "en": "Bone·Xiolotl",
-  "zh": "Bone·Xiolotl",
-  "ja": "Bone·Xiolotl",
-  "ko": "Bone·Xiolotl",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Knochen-Xiolotl",
+  "zh": "骸·修洛特尔",
+  "ja": "骸・ショロトル",
+  "ko": "해・수로텔",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "102451": {
-  "en": "Bone·Xiolotl",
-  "zh": "Bone·Xiolotl",
-  "ja": "Bone·Xiolotl",
-  "ko": "Bone·Xiolotl",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Knochen-Xiolotl",
+  "zh": "骸·修洛特尔",
+  "ja": "骸・ショロトル",
+  "ko": "해・수로텔",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "102701": {
-  "en": "Light·Tonatiuh",
-  "zh": "Light·Tonatiuh",
-  "ja": "Light·Tonatiuh",
-  "ko": "Light·Tonatiuh",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Licht-Tonatiuh",
+  "zh": "光·托纳蒂乌",
+  "ja": "光・トナティウ",
+  "ko": "광・토나티우",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "102702": {
   "en": "Radiant Crystal",
@@ -20376,22 +20376,22 @@
   "ko_fallback": false
  },
  "102720": {
-  "en": "Light·Tonatiuh",
-  "zh": "Light·Tonatiuh",
-  "ja": "Light·Tonatiuh",
-  "ko": "Light·Tonatiuh",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Licht-Tonatiuh",
+  "zh": "光·托纳蒂乌",
+  "ja": "光・トナティウ",
+  "ko": "광・토나티우",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "102721": {
-  "en": "Light·Tonatiuh",
-  "zh": "Light·Tonatiuh",
-  "ja": "Light·Tonatiuh",
-  "ko": "Light·Tonatiuh",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Licht-Tonatiuh",
+  "zh": "光·托纳蒂乌",
+  "ja": "光・トナティウ",
+  "ko": "광・토나티우",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "102800": {
   "en": "Sunfire",
@@ -20583,13 +20583,13 @@
   "ko_fallback": false
  },
  "102834": {
-  "en": "Light–Dark Entwined Entity",
-  "zh": "Light–Dark Entwined Entity",
-  "ja": "Light–Dark Entwined Entity",
-  "ko": "Light–Dark Entwined Entity",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Entidad de Luz y Oscuridad Entrelazadas",
+  "zh": "光暗纠缠体",
+  "ja": "光闇もつれ",
+  "ko": "빛 어둠 구속체",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "102901": {
   "en": "Withered Bloomshard",
@@ -21177,13 +21177,13 @@
   "ko_fallback": false
  },
  "130112": {
-  "en": "Elite: Shadow Blade",
-  "zh": "Elite: Shadow Blade",
-  "ja": "Elite: Shadow Blade",
-  "ko": "Elite: Shadow Blade",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Shadow Blade",
+  "zh": "精英·激进黯影剑士",
+  "ja": "精鋭・急進派暗霧剣士",
+  "ko": "엘리트・급진파 검은 안개 검병",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "130113": {
   "en": "Patrolling Dark Mist Sergeant",
@@ -21214,9 +21214,9 @@
  },
  "130116": {
   "en": "Corrupted Dark Mist Soldier",
-  "zh": "被腐蚀的黯影士兵",
-  "ja": "腐食された暗霧兵",
-  "ko": "침식된 검은 안개 병사",
+  "zh": "腐蚀·黯影士兵",
+  "ja": "腐食・暗霧兵",
+  "ko": "침식・검은 안개 병사",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -21268,9 +21268,9 @@
  },
  "130122": {
   "en": "Corrupted Dark Mist Soldier",
-  "zh": "被腐蚀的黯影士兵",
-  "ja": "腐食された暗霧兵",
-  "ko": "침식된 검은 안개 병사",
+  "zh": "腐蚀·黯影士兵",
+  "ja": "腐食・暗霧兵",
+  "ko": "침식・검은 안개 병사",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -21358,9 +21358,9 @@
  },
  "133104": {
   "en": "Dark Mist Swordsman",
-  "zh": "黯影军团·剑士",
-  "ja": "暗霧分隊・剣士",
-  "ko": "검은 안개 군단・검병",
+  "zh": "黯影剑士",
+  "ja": "暗霧剣士",
+  "ko": "검은 안개 검병",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -21610,7 +21610,7 @@
  },
  "530302": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -21619,7 +21619,7 @@
  },
  "530303": {
   "en": "Jerrad",
-  "zh": "傑拉德",
+  "zh": "杰拉德",
   "ja": "ジェラード",
   "ko": "제라드",
   "zh_fallback": false,
@@ -21637,7 +21637,7 @@
  },
  "530305": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -21646,9 +21646,9 @@
  },
  "530321": {
   "en": "Void Goblin Cudgel",
-  "zh": "被虚蚀的棒槌哥布林",
-  "ja": "虚蝕された棍棒ゴブリン",
-  "ko": "침식된 몽둥이 고블린",
+  "zh": "雷电虚蚀的棒槌哥布林",
+  "ja": "雷虚蝕された棍棒ゴブリン",
+  "ko": "번개 침식된 몽둥이 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -21664,9 +21664,9 @@
  },
  "530331": {
   "en": "Void Goblin Cudgel",
-  "zh": "被虚蚀的棒槌哥布林",
-  "ja": "虚蝕された棍棒ゴブリン",
-  "ko": "침식된 몽둥이 고블린",
+  "zh": "雷电虚蚀的棒槌哥布林",
+  "ja": "雷虚蝕された棍棒ゴブリン",
+  "ko": "번개 침식된 몽둥이 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -21682,9 +21682,9 @@
  },
  "530334": {
   "en": "Void Goblin Wind Mage",
-  "zh": "虚蚀风巫师哥布林",
-  "ja": "虚蝕風のエルダーゴブリン",
-  "ko": "허무의 침식 바람 샤먼 고블린",
+  "zh": "雷电虚蚀的风巫师哥布林",
+  "ja": "雷虚蝕された風のエルダーゴブリン",
+  "ko": "번개 침식된 바람 샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -21709,9 +21709,9 @@
  },
  "530351": {
   "en": "Void Goblin Axe",
-  "zh": "巨斧哥布林·异种",
-  "ja": "大斧ゴブリン・変異種",
-  "ko": "거대 도끼 고블린・돌연변이",
+  "zh": "雷电虚蚀的巨斧哥布林",
+  "ja": "雷虚蝕された大斧ゴブリン",
+  "ko": "번개 침식된 거대 도끼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -21745,9 +21745,9 @@
  },
  "530391": {
   "en": "Void Goblin Cudgel",
-  "zh": "被虚蚀的棒槌哥布林",
-  "ja": "虚蝕された棍棒ゴブリン",
-  "ko": "침식된 몽둥이 고블린",
+  "zh": "雷电虚蚀的棒槌哥布林",
+  "ja": "雷虚蝕された棍棒ゴブリン",
+  "ko": "번개 침식된 몽둥이 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -21781,27 +21781,27 @@
  },
  "530395": {
   "en": "Void Goblin Axe",
-  "zh": "巨斧哥布林·异种",
-  "ja": "大斧ゴブリン・変異種",
-  "ko": "거대 도끼 고블린・돌연변이",
+  "zh": "雷电虚蚀的巨斧哥布林",
+  "ja": "雷虚蝕された大斧ゴブリン",
+  "ko": "번개 침식된 거대 도끼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "530396": {
   "en": "Void Goblin Mage",
-  "zh": "被虚蚀的巫师哥布林",
-  "ja": "虚蝕されたエルダーゴブリン",
-  "ko": "침식된 샤먼 고블린",
+  "zh": "虚蚀巫妖哥布林",
+  "ja": "虚蝕ゴブリンリッチ",
+  "ko": "허무의 침식 샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "530397": {
   "en": "Void Goblin Fire Mage",
-  "zh": "雷电虚蚀的火巫师哥布林",
-  "ja": "雷虚蝕された炎のエルダーゴブリン",
-  "ko": "번개 침식된 불 샤먼 고블린",
+  "zh": "虚蚀火巫师哥布林",
+  "ja": "虚蝕炎のエルダーゴブリン",
+  "ko": "허무의 침식 불 샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -22133,7 +22133,7 @@
  "540302": {
   "en": "Green Warbler",
   "zh": "林间绿莺",
-  "ja": "アルーナ",
+  "ja": "フォレストナイチンゲール",
   "ko": "숲속의 푸른 꾀꼬리",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -22195,9 +22195,9 @@
  },
  "540603": {
   "en": "Kanamia Guard",
-  "zh": "卡尼曼卫兵",
-  "ja": "カナミア衛兵",
-  "ko": "카나미아 호위병",
+  "zh": "卡尼曼守卫",
+  "ja": "カナミア衛士",
+  "ko": "카나미아족 경비병",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -22213,7 +22213,7 @@
  },
  "551001": {
   "en": "Jerrad",
-  "zh": "傑拉德",
+  "zh": "杰拉德",
   "ja": "ジェラード",
   "ko": "제라드",
   "zh_fallback": false,
@@ -22249,9 +22249,9 @@
  },
  "552004": {
   "en": "Wooden Dummy",
-  "zh": "木人",
-  "ja": "訓練用カカシ",
-  "ko": "목각 인형",
+  "zh": "木桩",
+  "ja": "訓練用ダミー",
+  "ko": "더미",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -22365,13 +22365,13 @@
   "ko_fallback": false
  },
  "552017": {
-  "en": "​Void Goblin Fire Mage",
-  "zh": "​Void Goblin Fire Mage",
-  "ja": "​Void Goblin Fire Mage",
-  "ko": "​Void Goblin Fire Mage",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Leeren-Goblin-Feuermagier",
+  "zh": "虚蚀火巫师哥布林",
+  "ja": "虚蝕炎のエルダーゴブリン",
+  "ko": "허무의 침식 불 샤먼 고블린",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "552018": {
   "en": "Void Goblin Forest Mage",
@@ -22762,21 +22762,21 @@
  },
  "590101": {
   "en": "Golden Juggernaut",
-  "zh": "凶猛金牙",
-  "ja": "猛る金色",
-  "ko": "사나운 황금 이빨",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Golden Juggernaut",
+  "ja": "Golden Juggernaut",
+  "ko": "Golden Juggernaut",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "590102": {
   "en": "Phantom Arachnocrab",
-  "zh": "幻妖蟹蛛",
-  "ja": "ゴーストカニクモ",
-  "ko": "환영 거미게",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Phantom Arachnocrab",
+  "ja": "Phantom Arachnocrab",
+  "ko": "Phantom Arachnocrab",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "590103": {
   "en": "Mist-Piercing Fang",
@@ -22925,7 +22925,7 @@
  "612114": {
   "en": "Kanamia Wraith",
   "zh": "卡尼曼游魂",
-  "ja": "カナミアレイス",
+  "ja": "カナミア彷魂",
   "ko": "카나미아족 원혼",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -23086,7 +23086,7 @@
  },
  "644601": {
   "en": "Adventurer",
-  "zh": "冒險者",
+  "zh": "冒险者",
   "ja": "冒険者",
   "ko": "모험가",
   "zh_fallback": false,
@@ -23095,7 +23095,7 @@
  },
  "644602": {
   "en": "Adventurer",
-  "zh": "冒險者",
+  "zh": "冒险者",
   "ja": "冒険者",
   "ko": "모험가",
   "zh_fallback": false,
@@ -23104,7 +23104,7 @@
  },
  "644603": {
   "en": "Adventurer",
-  "zh": "冒險者",
+  "zh": "冒险者",
   "ja": "冒険者",
   "ko": "모험가",
   "zh_fallback": false,
@@ -23113,7 +23113,7 @@
  },
  "644604": {
   "en": "Adventurer",
-  "zh": "冒險者",
+  "zh": "冒险者",
   "ja": "冒険者",
   "ko": "모험가",
   "zh_fallback": false,
@@ -23122,7 +23122,7 @@
  },
  "644605": {
   "en": "Adventurer",
-  "zh": "冒險者",
+  "zh": "冒险者",
   "ja": "冒険者",
   "ko": "모험가",
   "zh_fallback": false,
@@ -23131,7 +23131,7 @@
  },
  "644606": {
   "en": "Adventurer",
-  "zh": "冒險者",
+  "zh": "冒险者",
   "ja": "冒険者",
   "ko": "모험가",
   "zh_fallback": false,
@@ -23158,129 +23158,129 @@
  },
  "644901": {
   "en": "Frost Lizard",
-  "zh": "冰暗巨蜥",
-  "ja": "フロストリザード",
-  "ko": "서리 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Frost Lizard",
+  "ja": "Frost Lizard",
+  "ko": "Frost Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "644902": {
   "en": "Magma Lizard",
-  "zh": "岩火巨蜥",
-  "ja": "マグマリザード",
-  "ko": "용암 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Magma Lizard",
+  "ja": "Magma Lizard",
+  "ko": "Magma Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "644903": {
   "en": "Gale Lizard",
-  "zh": "森风巨蜥",
-  "ja": "ハイランドボア",
-  "ko": "바람 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Gale Lizard",
+  "ja": "Gale Lizard",
+  "ko": "Gale Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "644904": {
   "en": "Lightning Lizard",
-  "zh": "电光巨蜥",
-  "ja": "サンダーリザード",
-  "ko": "번개 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Lightning Lizard",
+  "ja": "Lightning Lizard",
+  "ko": "Lightning Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "644905": {
   "en": "Bluespine Lizard",
-  "zh": "蓝脊巨蜥",
-  "ja": "精鋭・変異リザード",
-  "ko": "푸른 돌기 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Bluespine Lizard",
+  "ja": "Bluespine Lizard",
+  "ko": "Bluespine Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "645001": {
   "en": "Blackstone Legion Soldier",
-  "zh": "黑石军团士兵",
-  "ja": "黒磊兵団の兵士",
-  "ko": "검은 돌 군단 병사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Soldier",
+  "ja": "Blackstone Legion Soldier",
+  "ko": "Blackstone Legion Soldier",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "645002": {
   "en": "Blackstone Legion Soldier",
-  "zh": "黑石军团士兵",
-  "ja": "黒磊兵団の兵士",
-  "ko": "검은 돌 군단 병사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Soldier",
+  "ja": "Blackstone Legion Soldier",
+  "ko": "Blackstone Legion Soldier",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "645003": {
   "en": "Frost Lizard",
-  "zh": "冰暗巨蜥",
-  "ja": "フロストリザード",
-  "ko": "서리 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Frost Lizard",
+  "ja": "Frost Lizard",
+  "ko": "Frost Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "645004": {
   "en": "Magma Lizard",
-  "zh": "岩火巨蜥",
-  "ja": "マグマリザード",
-  "ko": "용암 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Magma Lizard",
+  "ja": "Magma Lizard",
+  "ko": "Magma Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "645005": {
   "en": "Gale Lizard",
-  "zh": "森风巨蜥",
-  "ja": "ハイランドボア",
-  "ko": "바람 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Gale Lizard",
+  "ja": "Gale Lizard",
+  "ko": "Gale Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "645006": {
   "en": "Lightning Lizard",
-  "zh": "电光巨蜥",
-  "ja": "サンダーリザード",
-  "ko": "번개 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Lightning Lizard",
+  "ja": "Lightning Lizard",
+  "ko": "Lightning Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "645007": {
   "en": "Bluespine Lizard",
-  "zh": "蓝脊巨蜥",
-  "ja": "精鋭・変異リザード",
-  "ko": "푸른 돌기 리자드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Bluespine Lizard",
+  "ja": "Bluespine Lizard",
+  "ko": "Bluespine Lizard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "645008": {
   "en": "Blackstone Legion Soldier",
-  "zh": "黑石军团士兵",
-  "ja": "黒磊兵団の兵士",
-  "ko": "검은 돌 군단 병사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Soldier",
+  "ja": "Blackstone Legion Soldier",
+  "ko": "Blackstone Legion Soldier",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "645009": {
   "en": "Blackstone Legion Soldier",
-  "zh": "黑石军团士兵",
-  "ja": "黒磊兵団の兵士",
-  "ko": "검은 돌 군단 병사",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Blackstone Legion Soldier",
+  "ja": "Blackstone Legion Soldier",
+  "ko": "Blackstone Legion Soldier",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "645010": {
   "en": "Konrad",
@@ -23293,12 +23293,12 @@
  },
  "655001": {
   "en": "Crimson Foxen",
-  "zh": "赤玉地狐",
-  "ja": "猛る獣",
-  "ko": "루비 땅여우",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Crimson Foxen",
+  "ja": "Crimson Foxen",
+  "ko": "Crimson Foxen",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "660301": {
   "en": "Creed Guard",
@@ -23383,48 +23383,48 @@
  },
  "661401": {
   "en": "Masked Man",
-  "zh": "蒙面人",
-  "ja": "覆面の人物",
-  "ko": "가면 쓴 사람",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Masked Man",
+  "ja": "Masked Man",
+  "ko": "Masked Man",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "661501": {
   "en": "Flamehorn",
-  "zh": "炎角",
-  "ja": "炎角",
-  "ko": "화염뿔",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Flamehorn",
+  "ja": "Flamehorn",
+  "ko": "Flamehorn",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "661502": {
   "en": "Jacob",
-  "zh": "雅各布",
-  "ja": "ジャコブ",
-  "ko": "야코브",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Jacob",
+  "ja": "Jacob",
+  "ko": "Jacob",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "661503": {
   "en": "Lynn",
-  "zh": "琳",
-  "ja": "リン",
-  "ko": "린",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Lynn",
+  "ja": "Lynn",
+  "ko": "Lynn",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "661504": {
   "en": "Locke",
-  "zh": "洛克",
-  "ja": "ロック",
-  "ko": "록",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Locke",
+  "ja": "Locke",
+  "ko": "Locke",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "661601": {
   "en": "Davi",
@@ -23554,9 +23554,9 @@
  },
  "700051": {
   "en": "Mischievous Nappo",
-  "zh": "捣蛋娜宝·面饰",
-  "ja": "いたずらナッポ・顔飾り",
-  "ko": "장난꾸러기 나뽀 가면・얼굴 장식",
+  "zh": "捣蛋鬼娜宝",
+  "ja": "いたずらナッポ",
+  "ko": "장난꾸러기 나뽀",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -23807,7 +23807,7 @@
  "760001": {
   "en": "Bane Lord",
   "zh": "灾厄之主",
-  "ja": "カラミティロード",
+  "ja": "災厄の主",
   "ko": "재앙의 주인",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -23850,40 +23850,40 @@
   "ko_fallback": false
  },
  "920005": {
-  "en": "Elite: Shadow Commander",
-  "zh": "Elite: Shadow Commander",
-  "ja": "Elite: Shadow Commander",
-  "ko": "Elite: Shadow Commander",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite Shadow Commander",
+  "zh": "精英·黯影剑士队长",
+  "ja": "精鋭・暗霧剣士隊長",
+  "ko": "엘리트・검은 안개 검병대장",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "920006": {
-  "en": "Elite: Muku Vanguard",
-  "zh": "Elite: Muku Vanguard",
-  "ja": "Elite: Muku Vanguard",
-  "ko": "Elite: Muku Vanguard",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Muku Vanguard",
+  "zh": "精英·姆克狂战士",
+  "ja": "精鋭・ムークスマッシャー",
+  "ko": "엘리트・무크 광전사",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "920007": {
-  "en": "Elite: Storm Goblin Warrior",
-  "zh": "Elite: Storm Goblin Warrior",
-  "ja": "Elite: Storm Goblin Warrior",
-  "ko": "Elite: Storm Goblin Warrior",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Storm Goblin Warrior",
+  "zh": "精英·飓风哥布林战士",
+  "ja": "精鋭・嵐のゴブリンウォーリアー",
+  "ko": "엘리트・태풍 고블린 전사",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "920008": {
-  "en": "Elite: Muku Scout",
-  "zh": "Elite: Muku Scout",
-  "ja": "Elite: Muku Scout",
-  "ko": "Elite: Muku Scout",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Muku Scout",
+  "zh": "精英·姆克尖兵",
+  "ja": "精鋭・ムーク尖兵",
+  "ko": "엘리트・무크 선봉병",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "920009": {
   "en": "Elite: Red Foam Goblin",
@@ -23904,7 +23904,7 @@
   "ko_fallback": false
  },
  "920011": {
-  "en": "Boss: Muku Chief",
+  "en": "Boss - Muku Chief",
   "zh": "首领·姆克头目",
   "ja": "ボス・ムークチーフ",
   "ko": "보스・무크 두목",
@@ -23913,7 +23913,7 @@
   "ko_fallback": false
  },
  "920012": {
-  "en": "Boss: Tempest Ogre",
+  "en": "Boss - Tempest Ogre",
   "zh": "首领·雷电食人魔",
   "ja": "ボス・サンダーオーガ",
   "ko": "보스・번개 오우거",
@@ -23922,7 +23922,7 @@
   "ko_fallback": false
  },
  "920013": {
-  "en": "Boss: Muku King",
+  "en": "Boss - Muku King",
   "zh": "首领·姆克王",
   "ja": "ボス・キングムーク",
   "ko": "보스・무크왕",
@@ -24004,9 +24004,9 @@
  },
  "920104": {
   "en": "Nitro Bzzar",
-  "zh": "暴烈蜂",
-  "ja": "ブラストミーン",
-  "ko": "사나운 민",
+  "zh": "暴烈红蜂",
+  "ja": "レッドブラストミーン",
+  "ko": "폭렬한 붉은 벌",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -24030,13 +24030,13 @@
   "ko_fallback": false
  },
  "920107": {
-  "en": "Elite: Void Bzzar",
-  "zh": "Elite: Void Bzzar",
-  "ja": "Elite: Void Bzzar",
-  "ko": "Elite: Void Bzzar",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Elite - Void Bzzar",
+  "zh": "精英·变异蜂",
+  "ja": "精鋭・変異ミーン",
+  "ko": "엘리트・돌연변이 민",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "920108": {
   "en": "Elite: Boarrier Storm",
@@ -24167,7 +24167,7 @@
  "920130": {
   "en": "Bane Lord",
   "zh": "灾厄之主",
-  "ja": "カラミティロード",
+  "ja": "災厄の主",
   "ko": "재앙의 주인",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -24282,18 +24282,18 @@
   "ko_fallback": false
  },
  "920208": {
-  "en": "Boss: Dogorman",
-  "zh": "Boss: Dogorman",
-  "ja": "Boss: Dogorman",
-  "ko": "Boss: Dogorman",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Boss - Dogorman",
+  "zh": "首领·多戈尔曼",
+  "ja": "ボス・ドゴルマン",
+  "ko": "보스・도골만",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "920209": {
-  "en": "Boss: Muku Chief",
+  "en": "Boss - Muku Chief",
   "zh": "首领·姆克头目",
-  "ja": "ボス・ムークチーフ",
+  "ja": "ボス・ムークボス",
   "ko": "보스・무크 두목",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -24329,7 +24329,7 @@
  "920213": {
   "en": "Muku Hammerer",
   "zh": "大锤姆克",
-  "ja": "大鎚ムーク",
+  "ja": "ムークハンマー",
   "ko": "해머 무크",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -24392,7 +24392,7 @@
  "920224": {
   "en": "Goblin Cudgel",
   "zh": "棒槌哥布林",
-  "ja": "棍棒ゴブリン",
+  "ja": "ゴブリングロウ",
   "ko": "몽둥이 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -24419,7 +24419,7 @@
  "920227": {
   "en": "Goblin Cudgel",
   "zh": "棒槌哥布林",
-  "ja": "棍棒ゴブリン",
+  "ja": "ゴブリングロウ",
   "ko": "몽둥이 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -24715,8 +24715,8 @@
  },
  "1100150": {
   "en": "Nappo Supervisor",
-  "zh": "娜宝监视官",
-  "ja": "ナッポ監視官",
+  "zh": "娜宝·监视官",
+  "ja": "ナッポ・監視官",
   "ko": "나뽀 감시관",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -24760,7 +24760,7 @@
  },
  "1100155": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -24769,7 +24769,7 @@
  },
  "1100156": {
   "en": "Olvera",
-  "zh": "奧爾維拉",
+  "zh": "奥尔维拉",
   "ja": "オルヴェラ",
   "ko": "올베라",
   "zh_fallback": false,
@@ -24778,12 +24778,12 @@
  },
  "920500": {
   "en": "Slumbering Scholar",
-  "zh": "沉眠学者",
-  "ja": "眠る学者",
-  "ko": "깊은 잠 학자",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Slumbering Scholar",
+  "ja": "Slumbering Scholar",
+  "ko": "Slumbering Scholar",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "920501": {
   "en": "Illusion-Shroud Adjudicator - Final Form",
@@ -24877,12 +24877,12 @@
  },
  "920511": {
   "en": "Dogorman",
-  "zh": "多戈尔曼",
-  "ja": "ドゴルマン",
-  "ko": "도골만",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Dogorman",
+  "ja": "Dogorman",
+  "ko": "Dogorman",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "920512": {
   "en": "Man-Eating Furball",
@@ -25084,39 +25084,39 @@
  },
  "920551": {
   "en": "Goblin Mage",
-  "zh": "巫师哥布林",
-  "ja": "エルダーゴブリン",
-  "ko": "샤먼 고블린",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Goblin Mage",
+  "ja": "Goblin Mage",
+  "ko": "Goblin Mage",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "920552": {
   "en": "Henry",
-  "zh": "亨利",
-  "ja": "ヘンリー",
-  "ko": "헨리",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Henry",
+  "ja": "Henry",
+  "ko": "Henry",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "920553": {
   "en": "Henry",
-  "zh": "亨利",
-  "ja": "ヘンリー",
-  "ko": "헨리",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Henry",
+  "ja": "Henry",
+  "ko": "Henry",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "920554": {
   "en": "Illusory Bloom",
-  "zh": "幻幻花",
-  "ja": "幻花晶",
-  "ko": "환상꽃",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Illusory Bloom",
+  "ja": "Illusory Bloom",
+  "ko": "Illusory Bloom",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "920561": {
   "en": "Illusion-Shroud Adjudicator - Final Form",
@@ -25210,9 +25210,9 @@
  },
  "1100157": {
   "en": "Giant Golem",
-  "zh": "徽章-班哈尔特巨型机像",
-  "ja": "メダル・ゴーレム・マキナ",
-  "ko": "배지 - 초대형 골렘",
+  "zh": "巨型机像",
+  "ja": "巨大ゴーレム",
+  "ko": "초대형 골렘",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -25552,9 +25552,9 @@
  },
  "2000112": {
   "en": "Crossbow Muku",
-  "zh": "弩手姆克",
+  "zh": "弩箭姆克",
   "ja": "ボウガンムーク",
-  "ko": "석궁 무크",
+  "ko": "석궁 화살 무크",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -25588,8 +25588,8 @@
  },
  "2000116": {
   "en": "Goblin Mage",
-  "zh": "巫师哥布林",
-  "ja": "エルダーゴブリン",
+  "zh": "巫妖哥布林",
+  "ja": "ゴブリンリッチ",
   "ko": "샤먼 고블린",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -25884,7 +25884,7 @@
   "ko_fallback": false
  },
  "2004109": {
-  "en": "Boss: Tempest Ogre",
+  "en": "Boss - Tempest Ogre",
   "zh": "首领·雷电食人魔",
   "ja": "ボス・サンダーオーガ",
   "ko": "보스・번개 오우거",
@@ -26037,7 +26037,7 @@
   "ko_fallback": false
  },
  "2004126": {
-  "en": "Boss: Tempest Ogre",
+  "en": "Boss - Tempest Ogre",
   "zh": "首领·雷电食人魔",
   "ja": "ボス・サンダーオーガ",
   "ko": "보스・번개 오우거",
@@ -26082,7 +26082,7 @@
   "ko_fallback": false
  },
  "2004131": {
-  "en": "Boss: Tempest Ogre",
+  "en": "Boss - Tempest Ogre",
   "zh": "首领·雷电食人魔",
   "ja": "ボス・サンダーオーガ",
   "ko": "보스・번개 오우거",
@@ -26271,7 +26271,7 @@
   "ko_fallback": false
  },
  "2004152": {
-  "en": "Boss: Tempest Ogre",
+  "en": "Boss - Tempest Ogre",
   "zh": "首领·雷电食人魔",
   "ja": "ボス・サンダーオーガ",
   "ko": "보스・번개 오우거",
@@ -26363,7 +26363,7 @@
  "2004162": {
   "en": "Crimson Foxen",
   "zh": "赤玉地狐",
-  "ja": "猛る獣",
+  "ja": "レッドランドフォックス",
   "ko": "루비 땅여우",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -26631,7 +26631,7 @@
   "ko_fallback": false
  },
  "3000017": {
-  "en": "Boss: Muku Chief",
+  "en": "Boss - Muku Chief",
   "zh": "首领·姆克头目",
   "ja": "ボス・ムークチーフ",
   "ko": "보스・무크 두목",
@@ -26640,13 +26640,13 @@
   "ko_fallback": false
  },
  "3000018": {
-  "en": "Boss: Dogorman",
-  "zh": "Boss: Dogorman",
-  "ja": "Boss: Dogorman",
-  "ko": "Boss: Dogorman",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Boss - Dogorman",
+  "zh": "首领·多戈尔曼",
+  "ja": "ボス・ドゴルマン",
+  "ko": "보스・도골만",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "3000019": {
   "en": "Frost Ogre - Resonance",
@@ -27009,13 +27009,13 @@
   "ko_fallback": false
  },
  "3000059": {
-  "en": "Mutant Foxen - Resonance",
-  "zh": "Mutant Foxen - Resonance",
-  "ja": "Mutant Foxen - Resonance",
-  "ko": "Mutant Foxen - Resonance",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Mutated Foxen - Resonance",
+  "zh": "变异地狐-共鸣",
+  "ja": "変異ランドフォックス-共鳴",
+  "ko": "돌연변이 땅여우 - 공명",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "3000060": {
   "en": "Cabbage Mission Swordsman - Resonance",
@@ -27046,12 +27046,12 @@
  },
  "3000063": {
   "en": "Denvel",
-  "zh": "丹佛",
-  "ja": "デンヴェル",
-  "ko": "덴벨",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Denvel",
+  "ja": "Denvel",
+  "ko": "Denvel",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "3000064": {
   "en": "Wind Dragon",
@@ -27181,12 +27181,12 @@
  },
  "3000078": {
   "en": "Dogorman",
-  "zh": "多戈尔曼",
-  "ja": "ドゴルマン",
-  "ko": "도골만",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Dogorman",
+  "ja": "Dogorman",
+  "ko": "Dogorman",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "3000079": {
   "en": "Sanctuary Eye",
@@ -27198,13 +27198,13 @@
   "ko_fallback": true
  },
  "3100000": {
-  "en": "Companion-Bow-Legendary Boar",
-  "zh": "Companion-Bow-Legendary Boar",
-  "ja": "Companion-Bow-Legendary Boar",
-  "ko": "Companion-Bow-Legendary Boar",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Companion-Bow-Legendary Boarrier",
+  "zh": "宠物-弓-传奇野猪",
+  "ja": "ペット-弓-伝説のボア",
+  "ko": "야수 - 활 - 전설 멧돼지",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "3100001": {
   "en": "Companion-Bow-Legendary Eagle",
@@ -27262,8 +27262,8 @@
  },
  "6116001": {
   "en": "Ryan",
-  "zh": "莱恩",
-  "ja": "レイン",
+  "zh": "赖恩",
+  "ja": "ライエン",
   "ko": "라이언",
   "zh_fallback": false,
   "ja_fallback": false,

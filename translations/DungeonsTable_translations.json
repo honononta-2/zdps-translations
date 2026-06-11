@@ -586,12 +586,12 @@
  },
  "5604": {
   "en": "Fafala's Home",
-  "zh": "法法菈家",
-  "ja": "ファルファラの家",
-  "ko": "파파라의 집",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Fafala's Home",
+  "ja": "Fafala's Home",
+  "ko": "Fafala's Home",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "5811": {
   "en": "Smelting Furnace Pipes",
@@ -776,7 +776,7 @@
  "6041": {
   "en": "Unstable - Soundless City",
   "zh": "不稳定空间·无音之都",
-  "ja": "不安定な空間・音無き都",
+  "ja": "不安定な空間・アンドラの廃都",
   "ko": "불안정 공간・소리 없는 도시",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -785,7 +785,7 @@
  "6042": {
   "en": "Unstable - Soundless City",
   "zh": "不稳定空间·无音之都",
-  "ja": "不安定な空間・音無き都",
+  "ja": "不安定な空間・アンドラの廃都",
   "ko": "불안정 공간・소리 없는 도시",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -974,7 +974,7 @@
  "6421": {
   "en": "Soundless City",
   "zh": "无音之都",
-  "ja": "静寂の都",
+  "ja": "音無き都",
   "ko": "소리 없는 도시",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -983,7 +983,7 @@
  "6422": {
   "en": "Soundless City",
   "zh": "无音之都",
-  "ja": "静寂の都",
+  "ja": "音無き都",
   "ko": "소리 없는 도시",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -992,7 +992,7 @@
  "6423": {
   "en": "Soundless City",
   "zh": "无音之都",
-  "ja": "静寂の都",
+  "ja": "音無き都",
   "ko": "소리 없는 도시",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1198,7 +1198,7 @@
  },
  "7003": {
   "en": "Wasteland Race",
-  "zh": "廢都障礙賽",
+  "zh": "废都障碍赛",
   "ja": "廃都障害レース",
   "ko": "폐허 도시 장애물 레이스",
   "zh_fallback": false,
@@ -1207,7 +1207,7 @@
  },
  "7004": {
   "en": "City Rally",
-  "zh": "環城載具賽",
+  "zh": "环城坐骑赛",
   "ja": "マウントレース",
   "ko": "도시 일주 라이드 레이스",
   "zh_fallback": false,
@@ -1468,12 +1468,12 @@
  },
  "7152": {
   "en": "World Dominator",
-  "zh": "世界主宰",
-  "ja": "世界の支配者",
-  "ko": "세계의 지배자",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "World Dominator",
+  "ja": "World Dominator",
+  "ko": "World Dominator",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "8001": {
   "en": "Village Defense Battle",
@@ -1576,7 +1576,7 @@
  },
  "9001": {
   "en": "Balloon Capture",
-  "zh": "氣球捕獲大作戰",
+  "zh": "气球捕获大作战",
   "ja": "バルーン大作戦",
   "ko": "풍선 포획 대작전",
   "zh_fallback": false,
@@ -1602,13 +1602,13 @@
   "ko_fallback": false
  },
  "9201": {
-  "en": "Loom of Dreams​",
-  "zh": "Loom of Dreams​",
-  "ja": "Loom of Dreams​",
-  "ko": "Loom of Dreams​",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Thousand Dream Weavers",
+  "zh": "千梦织灵",
+  "ja": "千夢織霊",
+  "ko": "꿈 엮기",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "9202": {
   "en": "Slumberdream Valley (Easy)",
@@ -1819,21 +1819,21 @@
  },
  "12022": {
   "en": "Guild Hunt - Normal",
-  "zh": "协会狩猎·普通",
-  "ja": "ギルドハント・ノーマル",
-  "ko": "길드 사냥・노멀",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Guild Hunt - Normal",
+  "ja": "Guild Hunt - Normal",
+  "ko": "Guild Hunt - Normal",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "12023": {
   "en": "Guild Hunt - Hard",
-  "zh": "协会狩猎·困难",
-  "ja": "ギルドハント・ハード",
-  "ko": "길드 사냥・하드",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Guild Hunt - Hard",
+  "ja": "Guild Hunt - Hard",
+  "ko": "Guild Hunt - Hard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "12030": {
   "en": "Ee-chan's Story",
@@ -1873,12 +1873,12 @@
  },
  "12052": {
   "en": "Giant Golem Crusade",
-  "zh": "巨型机像讨伐战",
-  "ja": "巨大ゴーレム討伐戦",
-  "ko": "초대형 골렘 토벌전",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Giant Golem Crusade",
+  "ja": "Giant Golem Crusade",
+  "ko": "Giant Golem Crusade",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "12100": {
   "en": "Rift of Slumberdream",
@@ -1890,18 +1890,18 @@
   "ko_fallback": false
  },
  "13001": {
-  "en": "Backtrack! Floating Island - Dragon Shackles",
-  "zh": "Backtrack! Floating Island - Dragon Shackles",
-  "ja": "Backtrack! Floating Island - Dragon Shackles",
-  "ko": "Backtrack! Floating Island - Dragon Shackles",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Clash! Floating Island",
+  "zh": "激斗！虚空浮岛·神龙枷所",
+  "ja": "激闘！虚空の浮島・神竜の枷",
+  "ko": "격투! 허공의 부유섬・드래곤 프리즌",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "13002": {
   "en": "Brutal! Floating Island",
   "zh": "血战！虚空浮岛·神龙枷所",
-  "ja": "血戦！虚空の浮島・神竜の鎖",
+  "ja": "血戦！虚空の浮島・神竜の枷",
   "ko": "혈전! 허공의 부유섬・드래곤 프리즌",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1910,20 +1910,20 @@
  "13003": {
   "en": "Purge! Floating Island",
   "zh": "决战！虚空浮岛·神龙枷所",
-  "ja": "決戦！虚空の浮島・神竜の鎖",
+  "ja": "決戦！虚空の浮島・神竜の枷",
   "ko": "결전! 허공의 부유섬・드래곤 프리즌",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "13011": {
-  "en": "Backtrack! Dreambloom Ruins",
-  "zh": "Backtrack! Dreambloom Ruins",
-  "ja": "Backtrack! Dreambloom Ruins",
-  "ko": "Backtrack! Dreambloom Ruins",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "en": "Clash! Dreambloom Ruins",
+  "zh": "激斗！幻花沉眠之地",
+  "ja": "激闘！幻花沈む地",
+  "ko": "격투! 환상꽃이 잠든 땅",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "13012": {
   "en": "Brutal! Dreambloom Ruins",
@@ -3278,7 +3278,7 @@
  "30001": {
   "en": "Homestead Courtyard",
   "zh": "家园庭院",
-  "ja": "ホームガーデン",
+  "ja": "コミュニティマップ1",
   "ko": "가든 정원",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -3971,7 +3971,7 @@
  "31101": {
   "en": "Stimen Vaults Floor 1",
   "zh": "司第门遗迹1层",
-  "ja": "スティメン遺跡1層",
+  "ja": "レグディニス遺跡1層",
   "ko": "시디문 유적 1층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4007,7 +4007,7 @@
  "31105": {
   "en": "Stimen Vaults Floor 5",
   "zh": "司第门遗迹5层",
-  "ja": "スティメン遺跡5層",
+  "ja": "レグディニス遺跡5層",
   "ko": "시디문 유적 5층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4016,7 +4016,7 @@
  "31106": {
   "en": "Stimen Vaults Floor 6",
   "zh": "司第门遗迹6层",
-  "ja": "スティメン遺跡6層",
+  "ja": "レグディニス遺跡6層",
   "ko": "시디문 유적 6층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4052,7 +4052,7 @@
  "31110": {
   "en": "Stimen Vaults Floor 10",
   "zh": "司第门遗迹10层",
-  "ja": "スティメン遺跡10層",
+  "ja": "レグディニス遺跡10層",
   "ko": "시디문 유적 10층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4097,7 +4097,7 @@
  "31115": {
   "en": "Stimen Vaults Floor 15",
   "zh": "司第门遗迹15层",
-  "ja": "スティメン遺跡15層",
+  "ja": "レグディニス遺跡15層",
   "ko": "시디문 유적 15층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4106,7 +4106,7 @@
  "31116": {
   "en": "Stimen Vaults Floor 16",
   "zh": "司第门遗迹16层",
-  "ja": "スティメン遺跡16層",
+  "ja": "レグディニス遺跡16層",
   "ko": "시디문 유적 16층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4142,7 +4142,7 @@
  "31120": {
   "en": "Stimen Vaults Floor 20",
   "zh": "司第门遗迹20层",
-  "ja": "スティメン遺跡20層",
+  "ja": "レグディニス遺跡20層",
   "ko": "시디문 유적 20층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4187,7 +4187,7 @@
  "31125": {
   "en": "Stimen Vaults Floor 25",
   "zh": "司第门遗迹25层",
-  "ja": "スティメン遺跡25層",
+  "ja": "レグディニス遺跡25層",
   "ko": "시디문 유적 25층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4232,7 +4232,7 @@
  "31130": {
   "en": "Stimen Vaults Floor 30",
   "zh": "司第门遗迹30层",
-  "ja": "スティメン遺跡30層",
+  "ja": "レグディニス遺跡30層",
   "ko": "시디문 유적 30층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4277,7 +4277,7 @@
  "31135": {
   "en": "Stimen Vaults Floor 35",
   "zh": "司第门遗迹35层",
-  "ja": "スティメン遺跡35層",
+  "ja": "レグディニス遺跡35層",
   "ko": "시디문 유적 35층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4322,7 +4322,7 @@
  "31140": {
   "en": "Stimen Vaults Floor 40",
   "zh": "司第门遗迹40层",
-  "ja": "スティメン遺跡40層",
+  "ja": "レグディニス遺跡40層",
   "ko": "시디문 유적 40층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4367,7 +4367,7 @@
  "31145": {
   "en": "Stimen Vaults Floor 45",
   "zh": "司第门遗迹45层",
-  "ja": "スティメン遺跡45層",
+  "ja": "レグディニス遺跡45層",
   "ko": "시디문 유적 45층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4376,7 +4376,7 @@
  "31146": {
   "en": "Floor 46",
   "zh": "司第门遗迹46层",
-  "ja": "スティメン遺跡46層",
+  "ja": "レグディニス遺跡46層",
   "ko": "시디문 유적 46층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4385,7 +4385,7 @@
  "31147": {
   "en": "Floor 47",
   "zh": "司第门遗迹47层",
-  "ja": "スティメン遺跡47層",
+  "ja": "レグディニス遺跡47層",
   "ko": "시디문 유적 47층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4394,7 +4394,7 @@
  "31148": {
   "en": "Floor 48",
   "zh": "司第门遗迹48层",
-  "ja": "スティメン遺跡48層",
+  "ja": "レグディニス遺跡48層",
   "ko": "시디문 유적 48층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4403,7 +4403,7 @@
  "31149": {
   "en": "Floor 49",
   "zh": "司第门遗迹49层",
-  "ja": "スティメン遺跡49層",
+  "ja": "レグディニス遺跡49層",
   "ko": "시디문 유적 49층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4412,7 +4412,7 @@
  "31150": {
   "en": "Stimen Vaults Floor 50",
   "zh": "司第门遗迹50层",
-  "ja": "スティメン遺跡50層",
+  "ja": "レグディニス遺跡50層",
   "ko": "시디문 유적 50층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4421,7 +4421,7 @@
  "31151": {
   "en": "Floor 51",
   "zh": "司第门遗迹51层",
-  "ja": "スティメン遺跡51層",
+  "ja": "レグディニス遺跡51層",
   "ko": "시디문 유적 51층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4430,7 +4430,7 @@
  "31152": {
   "en": "Floor 52",
   "zh": "司第门遗迹52层",
-  "ja": "スティメン遺跡52層",
+  "ja": "レグディニス遺跡52層",
   "ko": "시디문 유적 52층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4439,7 +4439,7 @@
  "31153": {
   "en": "Floor 53",
   "zh": "司第门遗迹53层",
-  "ja": "スティメン遺跡53層",
+  "ja": "レグディニス遺跡53層",
   "ko": "시디문 유적 53층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4448,7 +4448,7 @@
  "31154": {
   "en": "Floor 54",
   "zh": "司第门遗迹54层",
-  "ja": "スティメン遺跡54層",
+  "ja": "レグディニス遺跡54層",
   "ko": "시디문 유적 54층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4457,7 +4457,7 @@
  "31155": {
   "en": "Stimen Vaults Floor 55",
   "zh": "司第门遗迹55层",
-  "ja": "スティメン遺跡55層",
+  "ja": "レグディニス遺跡55層",
   "ko": "시디문 유적 55층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4466,7 +4466,7 @@
  "31156": {
   "en": "Floor 56",
   "zh": "司第门遗迹56层",
-  "ja": "スティメン遺跡56層",
+  "ja": "レグディニス遺跡56層",
   "ko": "시디문 유적 56층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4475,7 +4475,7 @@
  "31157": {
   "en": "Floor 57",
   "zh": "司第门遗迹57层",
-  "ja": "スティメン遺跡57層",
+  "ja": "レグディニス遺跡57層",
   "ko": "시디문 유적 57층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4484,7 +4484,7 @@
  "31158": {
   "en": "Floor 58",
   "zh": "司第门遗迹58层",
-  "ja": "スティメン遺跡58層",
+  "ja": "レグディニス遺跡58層",
   "ko": "시디문 유적 58층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4493,7 +4493,7 @@
  "31159": {
   "en": "Floor 59",
   "zh": "司第门遗迹59层",
-  "ja": "スティメン遺跡59層",
+  "ja": "レグディニス遺跡59層",
   "ko": "시디문 유적 59층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4502,7 +4502,7 @@
  "31160": {
   "en": "Stimen Vaults Floor 60",
   "zh": "司第门遗迹60层",
-  "ja": "スティメン遺跡60層",
+  "ja": "レグディニス遺跡60層",
   "ko": "시디문 유적 60층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4645,548 +4645,548 @@
  },
  "32101": {
   "en": "Floor 1",
-  "zh": "司第门遗迹1层",
-  "ja": "スティメン遺跡1層",
-  "ko": "시디문 유적 1층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 1",
+  "ja": "Floor 1",
+  "ko": "Floor 1",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32102": {
   "en": "Floor 2",
-  "zh": "司第门遗迹2层",
-  "ja": "スティメン遺跡2層",
-  "ko": "시디문 유적 2층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 2",
+  "ja": "Floor 2",
+  "ko": "Floor 2",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32103": {
   "en": "Floor 3",
-  "zh": "司第门遗迹3层",
-  "ja": "スティメン遺跡3層",
-  "ko": "시디문 유적 3층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 3",
+  "ja": "Floor 3",
+  "ko": "Floor 3",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32104": {
   "en": "Floor 4",
-  "zh": "司第门遗迹4层",
-  "ja": "スティメン遺跡4層",
-  "ko": "시디문 유적 4층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 4",
+  "ja": "Floor 4",
+  "ko": "Floor 4",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32105": {
   "en": "Floor 5",
-  "zh": "司第门遗迹5层",
-  "ja": "スティメン遺跡5層",
-  "ko": "시디문 유적 5층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 5",
+  "ja": "Floor 5",
+  "ko": "Floor 5",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32106": {
   "en": "Floor 6",
-  "zh": "司第门遗迹6层",
-  "ja": "スティメン遺跡6層",
-  "ko": "시디문 유적 6층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 6",
+  "ja": "Floor 6",
+  "ko": "Floor 6",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32107": {
   "en": "Floor 7",
-  "zh": "司第门遗迹7层",
-  "ja": "スティメン遺跡7層",
-  "ko": "시디문 유적 7층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 7",
+  "ja": "Floor 7",
+  "ko": "Floor 7",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32108": {
   "en": "Floor 8",
-  "zh": "司第门遗迹8层",
-  "ja": "スティメン遺跡8層",
-  "ko": "시디문 유적 8층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 8",
+  "ja": "Floor 8",
+  "ko": "Floor 8",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32109": {
   "en": "Floor 9",
-  "zh": "司第门遗迹9层",
-  "ja": "スティメン遺跡9層",
-  "ko": "시디문 유적 9층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 9",
+  "ja": "Floor 9",
+  "ko": "Floor 9",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32110": {
   "en": "Floor 10",
-  "zh": "司第门遗迹10层",
-  "ja": "スティメン遺跡10層",
-  "ko": "시디문 유적 10층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 10",
+  "ja": "Floor 10",
+  "ko": "Floor 10",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32111": {
   "en": "Floor 11",
-  "zh": "司第门遗迹11层",
-  "ja": "スティメン遺跡11層",
-  "ko": "시디문 유적 11층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 11",
+  "ja": "Floor 11",
+  "ko": "Floor 11",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32112": {
   "en": "Floor 12",
-  "zh": "司第门遗迹12层",
-  "ja": "スティメン遺跡12層",
-  "ko": "시디문 유적 12층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 12",
+  "ja": "Floor 12",
+  "ko": "Floor 12",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32113": {
   "en": "Floor 13",
-  "zh": "司第门遗迹13层",
-  "ja": "スティメン遺跡13層",
-  "ko": "시디문 유적 13층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 13",
+  "ja": "Floor 13",
+  "ko": "Floor 13",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32114": {
   "en": "Floor 14",
-  "zh": "司第门遗迹14层",
-  "ja": "スティメン遺跡14層",
-  "ko": "시디문 유적 14층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 14",
+  "ja": "Floor 14",
+  "ko": "Floor 14",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32115": {
   "en": "Floor 15",
-  "zh": "司第门遗迹15层",
-  "ja": "スティメン遺跡15層",
-  "ko": "시디문 유적 15층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 15",
+  "ja": "Floor 15",
+  "ko": "Floor 15",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32116": {
   "en": "Floor 16",
-  "zh": "司第门遗迹16层",
-  "ja": "スティメン遺跡16層",
-  "ko": "시디문 유적 16층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 16",
+  "ja": "Floor 16",
+  "ko": "Floor 16",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32117": {
   "en": "Floor 17",
-  "zh": "司第门遗迹17层",
-  "ja": "スティメン遺跡17層",
-  "ko": "시디문 유적 17층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 17",
+  "ja": "Floor 17",
+  "ko": "Floor 17",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32118": {
   "en": "Floor 18",
-  "zh": "司第门遗迹18层",
-  "ja": "スティメン遺跡18層",
-  "ko": "시디문 유적 18층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 18",
+  "ja": "Floor 18",
+  "ko": "Floor 18",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32119": {
   "en": "Floor 19",
-  "zh": "司第门遗迹19层",
-  "ja": "スティメン遺跡19層",
-  "ko": "시디문 유적 19층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 19",
+  "ja": "Floor 19",
+  "ko": "Floor 19",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32120": {
   "en": "Floor 20",
-  "zh": "司第门遗迹20层",
-  "ja": "スティメン遺跡20層",
-  "ko": "시디문 유적 20층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 20",
+  "ja": "Floor 20",
+  "ko": "Floor 20",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32121": {
   "en": "Floor 21",
-  "zh": "司第门遗迹21层",
-  "ja": "スティメン遺跡21層",
-  "ko": "시디문 유적 21층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 21",
+  "ja": "Floor 21",
+  "ko": "Floor 21",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32122": {
   "en": "Floor 22",
-  "zh": "司第门遗迹22层",
-  "ja": "スティメン遺跡22層",
-  "ko": "시디문 유적 22층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 22",
+  "ja": "Floor 22",
+  "ko": "Floor 22",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32123": {
   "en": "Floor 23",
-  "zh": "司第门遗迹23层",
-  "ja": "スティメン遺跡23層",
-  "ko": "시디문 유적 23층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 23",
+  "ja": "Floor 23",
+  "ko": "Floor 23",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32124": {
   "en": "Floor 24",
-  "zh": "司第门遗迹24层",
-  "ja": "スティメン遺跡24層",
-  "ko": "시디문 유적 24층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 24",
+  "ja": "Floor 24",
+  "ko": "Floor 24",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32125": {
   "en": "Floor 25",
-  "zh": "司第门遗迹25层",
-  "ja": "スティメン遺跡25層",
-  "ko": "시디문 유적 25층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 25",
+  "ja": "Floor 25",
+  "ko": "Floor 25",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32126": {
   "en": "Floor 26",
-  "zh": "司第门遗迹26层",
-  "ja": "スティメン遺跡26層",
-  "ko": "시디문 유적 26층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 26",
+  "ja": "Floor 26",
+  "ko": "Floor 26",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32127": {
   "en": "Floor 27",
-  "zh": "司第门遗迹27层",
-  "ja": "スティメン遺跡27層",
-  "ko": "시디문 유적 27층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 27",
+  "ja": "Floor 27",
+  "ko": "Floor 27",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32128": {
   "en": "Floor 28",
-  "zh": "司第门遗迹28层",
-  "ja": "スティメン遺跡28層",
-  "ko": "시디문 유적 28층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 28",
+  "ja": "Floor 28",
+  "ko": "Floor 28",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32129": {
   "en": "Floor 29",
-  "zh": "司第门遗迹29层",
-  "ja": "スティメン遺跡29層",
-  "ko": "시디문 유적 29층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 29",
+  "ja": "Floor 29",
+  "ko": "Floor 29",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32130": {
   "en": "Floor 30",
-  "zh": "司第门遗迹30层",
-  "ja": "スティメン遺跡30層",
-  "ko": "시디문 유적 30층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 30",
+  "ja": "Floor 30",
+  "ko": "Floor 30",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32131": {
   "en": "Floor 31",
-  "zh": "司第门遗迹31层",
-  "ja": "スティメン遺跡31層",
-  "ko": "시디문 유적 31층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 31",
+  "ja": "Floor 31",
+  "ko": "Floor 31",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32132": {
   "en": "Floor 32",
-  "zh": "司第门遗迹32层",
-  "ja": "スティメン遺跡32層",
-  "ko": "시디문 유적 32층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 32",
+  "ja": "Floor 32",
+  "ko": "Floor 32",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32133": {
   "en": "Floor 33",
-  "zh": "司第门遗迹33层",
-  "ja": "スティメン遺跡33層",
-  "ko": "시디문 유적 33층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 33",
+  "ja": "Floor 33",
+  "ko": "Floor 33",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32134": {
   "en": "Floor 34",
-  "zh": "司第门遗迹34层",
-  "ja": "スティメン遺跡34層",
-  "ko": "시디문 유적 34층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 34",
+  "ja": "Floor 34",
+  "ko": "Floor 34",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32135": {
   "en": "Floor 35",
-  "zh": "司第门遗迹35层",
-  "ja": "スティメン遺跡35層",
-  "ko": "시디문 유적 35층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 35",
+  "ja": "Floor 35",
+  "ko": "Floor 35",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32136": {
   "en": "Floor 36",
-  "zh": "司第门遗迹36层",
-  "ja": "スティメン遺跡36層",
-  "ko": "시디문 유적 36층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 36",
+  "ja": "Floor 36",
+  "ko": "Floor 36",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32137": {
   "en": "Floor 37",
-  "zh": "司第门遗迹37层",
-  "ja": "スティメン遺跡37層",
-  "ko": "시디문 유적 37층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 37",
+  "ja": "Floor 37",
+  "ko": "Floor 37",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32138": {
   "en": "Floor 38",
-  "zh": "司第门遗迹38层",
-  "ja": "スティメン遺跡38層",
-  "ko": "시디문 유적 38층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 38",
+  "ja": "Floor 38",
+  "ko": "Floor 38",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32139": {
   "en": "Floor 39",
-  "zh": "司第门遗迹39层",
-  "ja": "スティメン遺跡39層",
-  "ko": "시디문 유적 39층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 39",
+  "ja": "Floor 39",
+  "ko": "Floor 39",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32140": {
   "en": "Floor 40",
-  "zh": "司第门遗迹40层",
-  "ja": "スティメン遺跡40層",
-  "ko": "시디문 유적 40층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 40",
+  "ja": "Floor 40",
+  "ko": "Floor 40",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32141": {
   "en": "Floor 41",
-  "zh": "司第门遗迹41层",
-  "ja": "スティメン遺跡41層",
-  "ko": "시디문 유적 41층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 41",
+  "ja": "Floor 41",
+  "ko": "Floor 41",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32142": {
   "en": "Floor 42",
-  "zh": "司第门遗迹42层",
-  "ja": "スティメン遺跡42層",
-  "ko": "시디문 유적 42층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 42",
+  "ja": "Floor 42",
+  "ko": "Floor 42",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32143": {
   "en": "Floor 43",
-  "zh": "司第门遗迹43层",
-  "ja": "スティメン遺跡43層",
-  "ko": "시디문 유적 43층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 43",
+  "ja": "Floor 43",
+  "ko": "Floor 43",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32144": {
   "en": "Floor 44",
-  "zh": "司第门遗迹44层",
-  "ja": "スティメン遺跡44層",
-  "ko": "시디문 유적 44층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 44",
+  "ja": "Floor 44",
+  "ko": "Floor 44",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32145": {
   "en": "Floor 45",
-  "zh": "司第门遗迹45层",
-  "ja": "スティメン遺跡45層",
-  "ko": "시디문 유적 45층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 45",
+  "ja": "Floor 45",
+  "ko": "Floor 45",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32146": {
   "en": "Floor 46",
-  "zh": "司第门遗迹46层",
-  "ja": "スティメン遺跡46層",
-  "ko": "시디문 유적 46층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 46",
+  "ja": "Floor 46",
+  "ko": "Floor 46",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32147": {
   "en": "Floor 47",
-  "zh": "司第门遗迹47层",
-  "ja": "スティメン遺跡47層",
-  "ko": "시디문 유적 47층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 47",
+  "ja": "Floor 47",
+  "ko": "Floor 47",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32148": {
   "en": "Floor 48",
-  "zh": "司第门遗迹48层",
-  "ja": "スティメン遺跡48層",
-  "ko": "시디문 유적 48층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 48",
+  "ja": "Floor 48",
+  "ko": "Floor 48",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32149": {
   "en": "Floor 49",
-  "zh": "司第门遗迹49层",
-  "ja": "スティメン遺跡49層",
-  "ko": "시디문 유적 49층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 49",
+  "ja": "Floor 49",
+  "ko": "Floor 49",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32150": {
   "en": "Floor 50",
-  "zh": "司第门遗迹50层",
-  "ja": "スティメン遺跡50層",
-  "ko": "시디문 유적 50층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 50",
+  "ja": "Floor 50",
+  "ko": "Floor 50",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32151": {
   "en": "Floor 51",
-  "zh": "司第门遗迹51层",
-  "ja": "スティメン遺跡51層",
-  "ko": "시디문 유적 51층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 51",
+  "ja": "Floor 51",
+  "ko": "Floor 51",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32152": {
   "en": "Floor 52",
-  "zh": "司第门遗迹52层",
-  "ja": "スティメン遺跡52層",
-  "ko": "시디문 유적 52층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 52",
+  "ja": "Floor 52",
+  "ko": "Floor 52",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32153": {
   "en": "Floor 53",
-  "zh": "司第门遗迹53层",
-  "ja": "スティメン遺跡53層",
-  "ko": "시디문 유적 53층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 53",
+  "ja": "Floor 53",
+  "ko": "Floor 53",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32154": {
   "en": "Floor 54",
-  "zh": "司第门遗迹54层",
-  "ja": "スティメン遺跡54層",
-  "ko": "시디문 유적 54층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 54",
+  "ja": "Floor 54",
+  "ko": "Floor 54",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32155": {
   "en": "Floor 55",
-  "zh": "司第门遗迹55层",
-  "ja": "スティメン遺跡55層",
-  "ko": "시디문 유적 55층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 55",
+  "ja": "Floor 55",
+  "ko": "Floor 55",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32156": {
   "en": "Floor 56",
-  "zh": "司第门遗迹56层",
-  "ja": "スティメン遺跡56層",
-  "ko": "시디문 유적 56층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 56",
+  "ja": "Floor 56",
+  "ko": "Floor 56",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32157": {
   "en": "Floor 57",
-  "zh": "司第门遗迹57层",
-  "ja": "スティメン遺跡57層",
-  "ko": "시디문 유적 57층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 57",
+  "ja": "Floor 57",
+  "ko": "Floor 57",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32158": {
   "en": "Floor 58",
-  "zh": "司第门遗迹58层",
-  "ja": "スティメン遺跡58層",
-  "ko": "시디문 유적 58층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 58",
+  "ja": "Floor 58",
+  "ko": "Floor 58",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32159": {
   "en": "Floor 59",
-  "zh": "司第门遗迹59层",
-  "ja": "スティメン遺跡59層",
-  "ko": "시디문 유적 59층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 59",
+  "ja": "Floor 59",
+  "ko": "Floor 59",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "32160": {
   "en": "Floor 60",
-  "zh": "司第门遗迹60层",
-  "ja": "スティメン遺跡60層",
-  "ko": "시디문 유적 60층",
-  "zh_fallback": false,
-  "ja_fallback": false,
-  "ko_fallback": false
+  "zh": "Floor 60",
+  "ja": "Floor 60",
+  "ko": "Floor 60",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
  },
  "40001": {
   "en": "Homestead House",
   "zh": "家园房屋",
-  "ja": "ホームハウス",
+  "ja": "ホームマップ1",
   "ko": "가든 주택",
   "zh_fallback": false,
   "ja_fallback": false,
