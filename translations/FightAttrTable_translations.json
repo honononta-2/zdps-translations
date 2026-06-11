@@ -13,7 +13,7 @@
   "zh": "（废弃）当前GS",
   "ja": "（废弃）当前GS",
   "ko": "（废弃）当前GS",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -22,7 +22,7 @@
   "zh": "（废弃）历史最高GS",
   "ja": "（废弃）历史最高GS",
   "ko": "（废弃）历史最高GS",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -146,19 +146,19 @@
  "11010": {
   "en": "力量",
   "zh": "力量",
-  "ja": "力量",
+  "ja": "筋力",
   "ko": "힘",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11020": {
   "en": "智力",
   "zh": "智力",
-  "ja": "智力",
+  "ja": "知力",
   "ko": "지력",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11030": {
@@ -167,22 +167,22 @@
   "ja": "敏捷",
   "ko": "민첩",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11040": {
   "en": "耐力",
   "zh": "耐力",
-  "ja": "耐力",
+  "ja": "耐久力",
   "ko": "내구력",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11110": {
   "en": "暴击",
   "zh": "暴击",
-  "ja": "ファスト",
+  "ja": "会心",
   "ko": "치명타",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -200,7 +200,7 @@
  "11130": {
   "en": "幸运",
   "zh": "幸运",
-  "ja": "器用さ",
+  "ja": "幸運",
   "ko": "행운",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -218,7 +218,7 @@
  "11150": {
   "en": "全能",
   "zh": "全能",
-  "ja": "ブロック",
+  "ja": "万能",
   "ko": "만능",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -236,7 +236,7 @@
  "11170": {
   "en": "格挡",
   "zh": "格挡",
-  "ja": "レジスト",
+  "ja": "ブロック",
   "ko": "막기",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -247,35 +247,35 @@
   "zh": "当前生命",
   "ja": "当前生命",
   "ko": "当前生命",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "11320": {
   "en": "生命上限",
   "zh": "生命上限",
-  "ja": "生命上限",
+  "ja": "最大HP",
   "ko": "최대 체력",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11330": {
   "en": "物理攻击",
   "zh": "物理攻击",
-  "ja": "物理攻击",
+  "ja": "物理攻撃",
   "ko": "물리 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11340": {
   "en": "魔法攻击",
   "zh": "魔法攻击",
-  "ja": "魔法攻击",
+  "ja": "精練物攻",
   "ko": "마법 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11350": {
@@ -284,7 +284,7 @@
   "ja": "物理防御",
   "ko": "물리 방어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11360": {
@@ -293,25 +293,25 @@
   "ja": "魔法防御",
   "ko": "마법 방어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11370": {
   "en": "忽视物理防御",
   "zh": "忽视物理防御",
-  "ja": "忽视物理防御",
+  "ja": "物理防御力無視",
   "ko": "물리 방어 무시",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11380": {
   "en": "忽视魔法防御",
   "zh": "忽视魔法防御",
-  "ja": "忽视魔法防御",
+  "ja": "魔法防御力無視",
   "ko": "마법 방어 무시",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11390": {
@@ -335,28 +335,28 @@
  "11410": {
   "en": "精炼物攻",
   "zh": "精炼物攻",
-  "ja": "精炼物攻",
+  "ja": "魔攻精練",
   "ko": "정제 물리 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11420": {
   "en": "精炼防御",
   "zh": "精炼防御",
-  "ja": "精炼防御",
+  "ja": "精錬防御力",
   "ko": "정제 방어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11430": {
   "en": "精炼魔攻",
   "zh": "精炼魔攻",
-  "ja": "精炼魔攻",
+  "ja": "魔攻精錬",
   "ko": "정제 마법 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11440": {
@@ -373,89 +373,89 @@
   "zh": "赛季治疗虚弱",
   "ja": "赛季治疗虚弱",
   "ko": "赛季治疗虚弱",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "11500": {
   "en": "全元素攻击",
   "zh": "全元素攻击",
-  "ja": "全元素攻击",
+  "ja": "全属性攻撃力",
   "ko": "모든 원소 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11510": {
   "en": "火元素攻击",
   "zh": "火元素攻击",
-  "ja": "火元素攻击",
+  "ja": "火属性攻撃",
   "ko": "불 원소 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11520": {
   "en": "冰元素攻击",
   "zh": "冰元素攻击",
-  "ja": "冰元素攻击",
+  "ja": "氷属性攻撃力",
   "ko": "얼음 원소 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11530": {
   "en": "森元素攻击",
   "zh": "森元素攻击",
-  "ja": "森元素攻击",
+  "ja": "森属性攻撃",
   "ko": "나무 원소 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11540": {
   "en": "雷元素攻击",
   "zh": "雷元素攻击",
-  "ja": "雷元素攻击",
+  "ja": "雷属性攻撃",
   "ko": "번개 원소 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11550": {
   "en": "风元素攻击",
   "zh": "风元素攻击",
-  "ja": "风元素攻击",
+  "ja": "風属性攻撃",
   "ko": "바람 원소 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11560": {
   "en": "岩元素攻击",
   "zh": "岩元素攻击",
-  "ja": "岩元素攻击",
+  "ja": "岩属性攻撃",
   "ko": "바위 원소 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11570": {
   "en": "光元素攻击",
   "zh": "光元素攻击",
-  "ja": "光元素攻击",
+  "ja": "光属性攻撃",
   "ko": "빛 원소 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11580": {
   "en": "暗元素攻击",
   "zh": "暗元素攻击",
-  "ja": "暗元素攻击",
+  "ja": "闇属性攻撃力",
   "ko": "어둠 원소 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11710": {
@@ -490,7 +490,7 @@
   "zh": "蓄力速度万分比",
   "ja": "蓄力速度万分比",
   "ko": "蓄力速度万分比",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -499,7 +499,7 @@
   "zh": "技能冷却缩减毫秒",
   "ja": "技能冷却缩减毫秒",
   "ko": "技能冷却缩减毫秒",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -508,7 +508,7 @@
   "zh": "技能冷却缩减万分比",
   "ja": "技能冷却缩减万分比",
   "ko": "技能冷却缩减万分比",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -517,7 +517,7 @@
   "zh": "DOT效率万分比",
   "ja": "DOT效率万分比",
   "ko": "DOT效率万分比",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -526,16 +526,16 @@
   "zh": "幸运万分比",
   "ja": "幸运万分比",
   "ko": "幸运万分比",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "11790": {
   "en": "治疗强度万分比",
-  "zh": "治疗强度万分比",
+  "zh": "灵魂乐手DODGE_f",
   "ja": "治疗强度万分比",
   "ko": "治疗强度万分比",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -571,7 +571,7 @@
   "zh": "破韧效率万分比",
   "ja": "破韧效率万分比",
   "ko": "破韧效率万分比",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -598,7 +598,7 @@
   "zh": "（废弃）碎裂强度万分比",
   "ja": "（废弃）碎裂强度万分比",
   "ko": "（废弃）碎裂强度万分比",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -634,7 +634,7 @@
   "zh": "（废弃）鼓舞比例万分比",
   "ja": "（废弃）鼓舞比例万分比",
   "ko": "（废弃）鼓舞比例万分比",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -940,7 +940,7 @@
   "zh": "关卡用增伤",
   "ja": "关卡用增伤",
   "ko": "关卡用增伤",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -967,7 +967,7 @@
   "zh": "（被治疗者）重伤",
   "ja": "（被治疗者）重伤",
   "ko": "（被治疗者）重伤",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -992,10 +992,10 @@
  "13000": {
   "en": "全元素强度",
   "zh": "全元素强度",
-  "ja": "全元素强度",
+  "ja": "全属性強度",
   "ko": "모든 원소 강도",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "13010": {
@@ -1037,10 +1037,10 @@
  "13050": {
   "en": "风元素强度",
   "zh": "风元素强度",
-  "ja": "风元素强度",
+  "ja": "風属性強度",
   "ko": "바람 원소 강도",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "13060": {
@@ -1066,7 +1066,7 @@
   "zh": "暗属性强度",
   "ja": "暗属性强度",
   "ko": "暗属性强度",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1154,82 +1154,82 @@
  "13200": {
   "en": "全元素抗性",
   "zh": "全元素抗性",
-  "ja": "全元素抗性",
+  "ja": "全属性耐性",
   "ko": "모든 원소 저항",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "13210": {
   "en": "火元素抗性",
   "zh": "火元素抗性",
-  "ja": "火元素抗性",
+  "ja": "火属性耐性",
   "ko": "불 원소 저항",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "13220": {
   "en": "冰元素抗性",
   "zh": "冰元素抗性",
-  "ja": "冰元素抗性",
+  "ja": "氷属性耐性",
   "ko": "얼음 원소 저항",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "13230": {
   "en": "森元素抗性",
   "zh": "森元素抗性",
-  "ja": "森元素抗性",
+  "ja": "森属性耐性",
   "ko": "나무 원소 저항",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "13240": {
   "en": "雷元素抗性",
   "zh": "雷元素抗性",
-  "ja": "雷元素抗性",
+  "ja": "雷属性耐性",
   "ko": "번개 원소 저항",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "13250": {
   "en": "风元素抗性",
   "zh": "风元素抗性",
-  "ja": "风元素抗性",
+  "ja": "風属性耐性",
   "ko": "바람 원소 저항",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "13260": {
   "en": "岩元素抗性",
   "zh": "岩元素抗性",
-  "ja": "岩元素抗性",
+  "ja": "岩属性耐性",
   "ko": "바위 원소 저항",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "13270": {
   "en": "光元素抗性",
   "zh": "光元素抗性",
-  "ja": "光元素抗性",
+  "ja": "光属性耐性",
   "ko": "빛 원소 저항",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "13280": {
   "en": "暗元素抗性",
   "zh": "暗元素抗性",
-  "ja": "暗元素抗性",
+  "ja": "闇属性耐性",
   "ko": "어둠 원소 저항",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "13310": {
@@ -1237,7 +1237,7 @@
   "zh": "元素减伤万分比",
   "ja": "元素减伤万分比",
   "ko": "元素减伤万分比",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1315,12 +1315,12 @@
  },
  "13400": {
   "en": "玩法生命最大值限制",
-  "zh": "玩法生命最大值限制",
+  "zh": "躲猫猫-反射盾",
   "ja": "玩法生命最大值限制",
-  "ko": "玩法生命最大值限制",
-  "zh_fallback": true,
+  "ko": "愈合流",
+  "zh_fallback": false,
   "ja_fallback": true,
-  "ko_fallback": true
+  "ko_fallback": false
  },
  "13410": {
   "en": "玩法防御",

@@ -2,10 +2,10 @@
  "Profession_Unknown": {
   "en": "Unknown",
   "zh": "未知",
-  "ja": "Unknown",
+  "ja": "未知",
   "ko": "미지",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "Profession_Stormblade": {
@@ -65,7 +65,7 @@
  "Profession_Marksman": {
   "en": "Marksman",
   "zh": "神射手",
-  "ja": "ディバイン<br>アーチャー",
+  "ja": "ディバインアーチャー",
   "ko": "디바인 아처",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -74,7 +74,7 @@
  "Profession_ShieldKnight": {
   "en": "Shield Knight",
   "zh": "神盾骑士",
-  "ja": "シールド<br>ファイター",
+  "ja": "シールドファイター",
   "ko": "실드 나이트",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -83,181 +83,172 @@
  "Profession_BeatPerformer": {
   "en": "Beat Performer",
   "zh": "灵魂乐手",
-  "ja": "ビート<br>パフォーマー",
+  "ja": "ビートパフォーマー",
   "ko": "비트 퍼포머",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
- "SubProfession_Unknown": {
-  "en": "Unknown",
-  "zh": "未知",
-  "ja": "Unknown",
-  "ko": "미지",
-  "zh_fallback": false,
-  "ja_fallback": true,
-  "ko_fallback": false
- },
  "SubProfession_Skyward": {
   "en": "Skyward",
-  "zh": "空枪",
-  "ja": "Skyward",
-  "ko": "Skyward",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "zh": "空战流",
+  "ja": "乱風",
+  "ko": "난무 계열",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "SubProfession_Block": {
   "en": "Block",
-  "zh": "格挡",
-  "ja": "レジスト",
-  "ko": "막기",
+  "zh": "格挡流",
+  "ja": "剛守",
+  "ko": "가드 계열",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "SubProfession_Concerto": {
   "en": "Concerto",
-  "zh": "协奏",
-  "ja": "Concerto",
-  "ko": "협주",
+  "zh": "协奏流",
+  "ja": "響奏",
+  "ko": "협주 계열",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "SubProfession_Falconry": {
   "en": "Falconry",
-  "zh": "鹰弓",
-  "ja": "Falconry",
-  "ko": "Falconry",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "zh": "驯鹰流",
+  "ja": "鷹弓",
+  "ko": "맹금 조련사 계열",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "SubProfession_Iaido": {
   "en": "Iaido",
-  "zh": "居合",
-  "ja": "Iaido",
-  "ko": "Iaido",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "zh": "居合斩流",
+  "ja": "雷刃",
+  "ko": "발도 계열",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "SubProfession_Frostbeam": {
   "en": "Frostbeam",
-  "zh": "寒冰射线",
-  "ja": "氷霜ビーム",
-  "ko": "프로스트 레이",
+  "zh": "射线流",
+  "ja": "霜天",
+  "ko": "레이 계열",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "SubProfession_Icicle": {
   "en": "Icicle",
-  "zh": "冰矛",
-  "ja": "Icicle",
-  "ko": "Icicle",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "zh": "冰矛流",
+  "ja": "氷牙",
+  "ko": "스피어 계열",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "SubProfession_Lifebind": {
   "en": "Lifebind",
-  "zh": "愈合",
-  "ja": "ヒーリング",
-  "ko": "치유",
+  "zh": "愈合流",
+  "ja": "森癒",
+  "ko": "숲의 치유 계열",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "SubProfession_Shield": {
   "en": "Shield",
-  "zh": "护盾",
-  "ja": "シールド",
-  "ko": "실드",
+  "zh": "光盾回复流",
+  "ja": "光盾",
+  "ko": "광휘의 축복 계열",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "SubProfession_Moonstrike": {
   "en": "Moonstrike",
-  "zh": "苍之冠·月影",
-  "ja": "蒼き冠・月影",
-  "ko": "푸른 왕관・월영",
+  "zh": "月刃召唤流",
+  "ja": "月影",
+  "ko": "월광의 낫 계열",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "SubProfession_Vanguard": {
   "en": "Vanguard",
-  "zh": "重装",
-  "ja": "Vanguard",
-  "ko": "Vanguard",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "zh": "重装流",
+  "ja": "烈風",
+  "ko": "질풍 계열",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "SubProfession_Recovery": {
   "en": "Recovery",
-  "zh": "回复",
-  "ja": "Recovery",
-  "ko": "회복",
+  "zh": "防护回复流",
+  "ja": "光砕",
+  "ko": "신성한 방패 계열",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "SubProfession_Dissonance": {
   "en": "Dissonance",
-  "zh": "狂音",
-  "ja": "Dissonance",
-  "ko": "Dissonance",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "zh": "狂音流",
+  "ja": "狂音",
+  "ko": "음파 계열",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "SubProfession_Earthfort": {
   "en": "Earthfort",
-  "zh": "岩盾",
-  "ja": "Earthfort",
-  "ko": "Earthfort",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "zh": "岩盾流",
+  "ja": "剛身",
+  "ko": "암석 방패 계열",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "SubProfession_Smite": {
   "en": "Smite",
-  "zh": "惩戒",
-  "ja": "Smite",
-  "ko": "Smite",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "zh": "惩击流",
+  "ja": "威咲",
+  "ko": "숲의 심판 계열",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "SubProfession_Wildpack": {
   "en": "Wildpack",
-  "zh": "狼弓",
-  "ja": "Wildpack",
-  "ko": "Wildpack",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "zh": "驭兽流",
+  "ja": "狼弓",
+  "ko": "야수 조련사 계열",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "SubProfession_FormlessExpertise": {
   "en": "Formless",
-  "zh": "无相",
-  "ja": "Formless",
-  "ko": "Formless",
-  "zh_fallback": true,
-  "ja_fallback": true,
-  "ko_fallback": true
+  "zh": "无相流",
+  "ja": "無相流",
+  "ko": "무상 계열",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
  },
  "SubProfession_CrimsonExpertise": {
   "en": "Crimson",
-  "zh": "绯红色",
-  "ja": "Crimson",
-  "ko": "루비색",
+  "zh": "赤红流",
+  "ja": "赤紅流",
+  "ko": "적홍 계열",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  }
 }

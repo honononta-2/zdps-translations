@@ -544,7 +544,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -553,7 +553,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -562,7 +562,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -571,7 +571,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -580,7 +580,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -589,7 +589,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -598,7 +598,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -607,7 +607,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -616,7 +616,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -625,7 +625,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -634,7 +634,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -643,7 +643,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -652,7 +652,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -661,7 +661,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -670,7 +670,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -679,7 +679,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -688,7 +688,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -697,7 +697,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -706,7 +706,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -715,7 +715,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -724,7 +724,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -733,7 +733,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -742,7 +742,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -751,7 +751,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -760,7 +760,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -769,7 +769,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -778,7 +778,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -787,7 +787,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -796,7 +796,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -805,7 +805,7 @@
   "zh": "博伊斯ATK_03",
   "ja": "博伊斯ATK_03",
   "ko": "博伊斯ATK_03",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1624,7 +1624,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1633,7 +1633,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1642,7 +1642,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1651,7 +1651,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1660,7 +1660,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1669,7 +1669,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1678,7 +1678,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1687,7 +1687,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1696,7 +1696,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1705,7 +1705,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1714,7 +1714,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1723,7 +1723,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1732,7 +1732,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1741,7 +1741,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1750,7 +1750,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1759,7 +1759,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1768,7 +1768,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1777,7 +1777,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1786,7 +1786,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1795,7 +1795,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1804,7 +1804,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1813,7 +1813,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1822,7 +1822,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1831,7 +1831,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1840,7 +1840,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1849,7 +1849,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1858,7 +1858,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1867,7 +1867,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1876,7 +1876,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1885,7 +1885,7 @@
   "zh": "博伊斯SKILL_01",
   "ja": "博伊斯SKILL_01",
   "ko": "博伊斯SKILL_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4594,7 +4594,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4603,7 +4603,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4612,7 +4612,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4621,7 +4621,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4630,7 +4630,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4639,7 +4639,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4648,7 +4648,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4657,7 +4657,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4666,7 +4666,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4675,7 +4675,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4684,7 +4684,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4693,7 +4693,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4702,7 +4702,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4711,7 +4711,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4720,7 +4720,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4729,7 +4729,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4738,7 +4738,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4747,7 +4747,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4756,7 +4756,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4765,7 +4765,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4774,7 +4774,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4783,7 +4783,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4792,7 +4792,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4801,7 +4801,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4810,7 +4810,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4819,7 +4819,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4828,7 +4828,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4837,7 +4837,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4846,7 +4846,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -4855,7 +4855,7 @@
   "zh": "博伊斯SKILL_EX2_废弃",
   "ja": "博伊斯SKILL_EX2_废弃",
   "ko": "博伊斯SKILL_EX2_废弃",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -8911,271 +8911,271 @@
  },
  "141501": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141502": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141503": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141504": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141505": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141506": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141507": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141508": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141509": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141510": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141511": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141512": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141513": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141514": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141515": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141516": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141517": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141518": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141519": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141520": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141521": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141522": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141523": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141524": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141525": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141526": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141527": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141528": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141529": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "141530": {
   "en": "蒂娜切换技",
-  "zh": "蒂娜切换技",
+  "zh": "灵魂乐手炎舞奏者",
   "ja": "蒂娜切换技",
   "ko": "蒂娜切换技",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15664,7 +15664,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15673,7 +15673,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15682,7 +15682,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15691,7 +15691,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15700,7 +15700,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15709,7 +15709,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15718,7 +15718,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15727,7 +15727,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15736,7 +15736,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15745,7 +15745,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15754,7 +15754,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15763,7 +15763,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15772,7 +15772,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15781,7 +15781,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15790,7 +15790,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15799,7 +15799,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15808,7 +15808,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15817,7 +15817,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15826,7 +15826,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15835,7 +15835,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15844,7 +15844,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15853,7 +15853,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15862,7 +15862,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15871,7 +15871,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15880,7 +15880,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15889,7 +15889,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15898,7 +15898,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15907,7 +15907,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15916,7 +15916,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -15925,7 +15925,7 @@
   "zh": "塔塔特攻SKILL_02",
   "ja": "塔塔特攻SKILL_02",
   "ko": "塔塔特攻SKILL_02",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -16471,271 +16471,271 @@
  },
  "160901": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160902": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160903": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160904": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160905": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160906": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160907": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160908": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160909": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160910": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160911": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160912": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160913": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160914": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160915": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160916": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160917": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160918": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160919": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160920": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160921": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160922": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160923": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160924": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160925": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160926": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160927": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160928": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160929": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "160930": {
   "en": "塔塔可选SKILL_02-2",
-  "zh": "塔塔可选SKILL_02-2",
+  "zh": "塔塔SKILL_01",
   "ja": "塔塔可选SKILL_02-2",
   "ko": "塔塔可选SKILL_02-2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17014,7 +17014,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17023,7 +17023,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17032,7 +17032,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17041,7 +17041,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17050,7 +17050,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17059,7 +17059,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17068,7 +17068,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17077,7 +17077,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17086,7 +17086,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17095,7 +17095,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17104,7 +17104,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17113,7 +17113,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17122,7 +17122,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17131,7 +17131,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17140,7 +17140,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17149,7 +17149,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17158,7 +17158,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17167,7 +17167,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17176,7 +17176,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17185,7 +17185,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17194,7 +17194,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17203,7 +17203,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17212,7 +17212,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17221,7 +17221,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17230,7 +17230,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17239,7 +17239,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17248,7 +17248,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17257,7 +17257,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17266,7 +17266,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -17275,7 +17275,7 @@
   "zh": "塔塔可选SKILL_02-4",
   "ja": "塔塔可选SKILL_02-4",
   "ko": "塔塔可选SKILL_02-4",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18634,7 +18634,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18643,7 +18643,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18652,7 +18652,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18661,7 +18661,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18670,7 +18670,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18679,7 +18679,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18688,7 +18688,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18697,7 +18697,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18706,7 +18706,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18715,7 +18715,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18724,7 +18724,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18733,7 +18733,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18742,7 +18742,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18751,7 +18751,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18760,7 +18760,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18769,7 +18769,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18778,7 +18778,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18787,7 +18787,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18796,7 +18796,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18805,7 +18805,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18814,7 +18814,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18823,7 +18823,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18832,7 +18832,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18841,7 +18841,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18850,7 +18850,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18859,7 +18859,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18868,7 +18868,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18877,7 +18877,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18886,7 +18886,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -18895,7 +18895,7 @@
   "zh": "塔塔可选SKILL_08",
   "ja": "塔塔可选SKILL_08",
   "ko": "塔塔可选SKILL_08",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19174,7 +19174,7 @@
   "zh": "塔塔特攻SKILL_01-1",
   "ja": "塔塔特攻SKILL_01-1",
   "ko": "塔塔特攻SKILL_01-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19192,7 +19192,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19201,7 +19201,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19210,7 +19210,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19219,7 +19219,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19228,7 +19228,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19237,7 +19237,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19246,7 +19246,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19255,7 +19255,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19264,7 +19264,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19273,7 +19273,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19282,7 +19282,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19291,7 +19291,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19300,7 +19300,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19309,7 +19309,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19318,7 +19318,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19327,7 +19327,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19336,7 +19336,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19345,7 +19345,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19354,7 +19354,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19363,7 +19363,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19372,7 +19372,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19381,7 +19381,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19390,7 +19390,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19399,7 +19399,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19408,7 +19408,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19417,7 +19417,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19426,7 +19426,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19435,7 +19435,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19444,7 +19444,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -19453,7 +19453,7 @@
   "zh": "塔塔可选SKILL_05-1",
   "ja": "塔塔可选SKILL_05-1",
   "ko": "塔塔可选SKILL_05-1",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23782,7 +23782,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23791,7 +23791,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23800,7 +23800,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23809,7 +23809,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23818,7 +23818,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23827,7 +23827,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23836,7 +23836,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23845,7 +23845,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23854,7 +23854,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23863,7 +23863,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23872,7 +23872,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23881,7 +23881,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23890,7 +23890,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23899,7 +23899,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23908,7 +23908,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23917,7 +23917,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23926,7 +23926,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23935,7 +23935,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23944,7 +23944,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23953,7 +23953,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23962,7 +23962,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23971,7 +23971,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23980,7 +23980,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23989,7 +23989,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -23998,7 +23998,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -24007,7 +24007,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -24016,7 +24016,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -24025,7 +24025,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -24034,7 +24034,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -24043,7 +24043,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -25399,271 +25399,271 @@
  },
  "190101": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190102": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190103": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190104": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190105": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190106": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190107": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190108": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190109": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190110": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190111": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190112": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190113": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190114": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190115": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190116": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190117": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190118": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190119": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190120": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190121": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190122": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190123": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190124": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190125": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190126": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190127": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190128": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190129": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190130": {
   "en": "杰拉德ATK_01",
-  "zh": "杰拉德ATK_01",
+  "zh": "激进黯影剑士-被动叠层",
   "ja": "杰拉德ATK_01",
   "ko": "杰拉德ATK_01",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -29179,271 +29179,271 @@
  },
  "191501": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191502": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191503": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191504": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191505": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191506": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191507": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191508": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191509": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191510": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191511": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191512": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191513": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191514": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191515": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191516": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191517": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191518": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191519": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191520": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191521": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191522": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191523": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191524": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191525": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191526": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191527": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191528": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191529": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "191530": {
   "en": "杰拉德向后极限闪避",
-  "zh": "杰拉德向后极限闪避",
+  "zh": "蒂娜向前极限闪避",
   "ja": "杰拉德向后极限闪避",
   "ko": "杰拉德向后极限闪避",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34132,7 +34132,7 @@
   "zh": "破霸体",
   "ja": "破霸体",
   "ko": "破霸体",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34141,7 +34141,7 @@
   "zh": "破霸体",
   "ja": "破霸体",
   "ko": "破霸体",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34150,7 +34150,7 @@
   "zh": "破霸体",
   "ja": "破霸体",
   "ko": "破霸体",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34159,7 +34159,7 @@
   "zh": "破霸体",
   "ja": "破霸体",
   "ko": "破霸体",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34168,7 +34168,7 @@
   "zh": "破霸体",
   "ja": "破霸体",
   "ko": "破霸体",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34177,7 +34177,7 @@
   "zh": "破霸体",
   "ja": "破霸体",
   "ko": "破霸体",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34186,7 +34186,7 @@
   "zh": "破霸体",
   "ja": "破霸体",
   "ko": "破霸体",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34195,7 +34195,7 @@
   "zh": "破霸体",
   "ja": "破霸体",
   "ko": "破霸体",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34204,7 +34204,7 @@
   "zh": "破霸体",
   "ja": "破霸体",
   "ko": "破霸体",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34213,7 +34213,7 @@
   "zh": "破霸体",
   "ja": "破霸体",
   "ko": "破霸体",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34400,91 +34400,91 @@
  "310201": {
   "en": "治疗",
   "zh": "治疗",
-  "ja": "治疗",
+  "ja": "回復",
   "ko": "치료",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310202": {
   "en": "治疗",
   "zh": "治疗",
-  "ja": "治疗",
+  "ja": "回復",
   "ko": "치료",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310203": {
   "en": "治疗",
   "zh": "治疗",
-  "ja": "治疗",
+  "ja": "回復",
   "ko": "치료",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310204": {
   "en": "治疗",
   "zh": "治疗",
-  "ja": "治疗",
+  "ja": "回復",
   "ko": "치료",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310205": {
   "en": "治疗",
   "zh": "治疗",
-  "ja": "治疗",
+  "ja": "回復",
   "ko": "치료",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310206": {
   "en": "治疗",
   "zh": "治疗",
-  "ja": "治疗",
+  "ja": "回復",
   "ko": "치료",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310207": {
   "en": "治疗",
   "zh": "治疗",
-  "ja": "治疗",
+  "ja": "回復",
   "ko": "치료",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310208": {
   "en": "治疗",
   "zh": "治疗",
-  "ja": "治疗",
+  "ja": "回復",
   "ko": "치료",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310209": {
   "en": "治疗",
   "zh": "治疗",
-  "ja": "治疗",
+  "ja": "回復",
   "ko": "치료",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310210": {
   "en": "治疗",
   "zh": "治疗",
-  "ja": "治疗",
+  "ja": "回復",
   "ko": "치료",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310301": {
@@ -34670,91 +34670,91 @@
  "310501": {
   "en": "控制",
   "zh": "控制",
-  "ja": "控制",
+  "ja": "行動制限",
   "ko": "제어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310502": {
   "en": "控制",
   "zh": "控制",
-  "ja": "控制",
+  "ja": "行動制限",
   "ko": "제어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310503": {
   "en": "控制",
   "zh": "控制",
-  "ja": "控制",
+  "ja": "行動制限",
   "ko": "제어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310504": {
   "en": "控制",
   "zh": "控制",
-  "ja": "控制",
+  "ja": "行動制限",
   "ko": "제어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310505": {
   "en": "控制",
   "zh": "控制",
-  "ja": "控制",
+  "ja": "行動制限",
   "ko": "제어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310506": {
   "en": "控制",
   "zh": "控制",
-  "ja": "控制",
+  "ja": "行動制限",
   "ko": "제어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310507": {
   "en": "控制",
   "zh": "控制",
-  "ja": "控制",
+  "ja": "行動制限",
   "ko": "제어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310508": {
   "en": "控制",
   "zh": "控制",
-  "ja": "控制",
+  "ja": "行動制限",
   "ko": "제어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310509": {
   "en": "控制",
   "zh": "控制",
-  "ja": "控制",
+  "ja": "行動制限",
   "ko": "제어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310510": {
   "en": "控制",
   "zh": "控制",
-  "ja": "控制",
+  "ja": "行動制限",
   "ko": "제어",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "310601": {
@@ -34852,7 +34852,7 @@
   "zh": "治疗流",
   "ja": "治疗流",
   "ko": "治疗流",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34861,7 +34861,7 @@
   "zh": "治疗流",
   "ja": "治疗流",
   "ko": "治疗流",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34870,7 +34870,7 @@
   "zh": "治疗流",
   "ja": "治疗流",
   "ko": "治疗流",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34879,7 +34879,7 @@
   "zh": "治疗流",
   "ja": "治疗流",
   "ko": "治疗流",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34888,7 +34888,7 @@
   "zh": "治疗流",
   "ja": "治疗流",
   "ko": "治疗流",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34897,7 +34897,7 @@
   "zh": "治疗流",
   "ja": "治疗流",
   "ko": "治疗流",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34906,7 +34906,7 @@
   "zh": "治疗流",
   "ja": "治疗流",
   "ko": "治疗流",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34915,7 +34915,7 @@
   "zh": "治疗流",
   "ja": "治疗流",
   "ko": "治疗流",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34924,7 +34924,7 @@
   "zh": "治疗流",
   "ja": "治疗流",
   "ko": "治疗流",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -34933,7 +34933,7 @@
   "zh": "治疗流",
   "ja": "治疗流",
   "ko": "治疗流",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -35032,7 +35032,7 @@
   "zh": "近战辅",
   "ja": "近战辅",
   "ko": "近战辅",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -35041,7 +35041,7 @@
   "zh": "近战辅",
   "ja": "近战辅",
   "ko": "近战辅",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -35050,7 +35050,7 @@
   "zh": "近战辅",
   "ja": "近战辅",
   "ko": "近战辅",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -35059,7 +35059,7 @@
   "zh": "近战辅",
   "ja": "近战辅",
   "ko": "近战辅",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -35068,7 +35068,7 @@
   "zh": "近战辅",
   "ja": "近战辅",
   "ko": "近战辅",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -35077,7 +35077,7 @@
   "zh": "近战辅",
   "ja": "近战辅",
   "ko": "近战辅",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -35086,7 +35086,7 @@
   "zh": "近战辅",
   "ja": "近战辅",
   "ko": "近战辅",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -35095,7 +35095,7 @@
   "zh": "近战辅",
   "ja": "近战辅",
   "ko": "近战辅",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -35104,7 +35104,7 @@
   "zh": "近战辅",
   "ja": "近战辅",
   "ko": "近战辅",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -35113,7 +35113,7 @@
   "zh": "近战辅",
   "ja": "近战辅",
   "ko": "近战辅",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -35210,91 +35210,91 @@
  "340201": {
   "en": "回复",
   "zh": "回复",
-  "ja": "回复",
+  "ja": "回復",
   "ko": "회복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "340202": {
   "en": "回复",
   "zh": "回复",
-  "ja": "回复",
+  "ja": "回復",
   "ko": "회복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "340203": {
   "en": "回复",
   "zh": "回复",
-  "ja": "回复",
+  "ja": "回復",
   "ko": "회복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "340204": {
   "en": "回复",
   "zh": "回复",
-  "ja": "回复",
+  "ja": "回復",
   "ko": "회복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "340205": {
   "en": "回复",
   "zh": "回复",
-  "ja": "回复",
+  "ja": "回復",
   "ko": "회복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "340206": {
   "en": "回复",
   "zh": "回复",
-  "ja": "回复",
+  "ja": "回復",
   "ko": "회복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "340207": {
   "en": "回复",
   "zh": "回复",
-  "ja": "回复",
+  "ja": "回復",
   "ko": "회복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "340208": {
   "en": "回复",
   "zh": "回复",
-  "ja": "回复",
+  "ja": "回復",
   "ko": "회복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "340209": {
   "en": "回复",
   "zh": "回复",
-  "ja": "回复",
+  "ja": "回復",
   "ko": "회복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "340210": {
   "en": "回复",
   "zh": "回复",
-  "ja": "回复",
+  "ja": "回復",
   "ko": "회복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "340301": {
@@ -36472,7 +36472,7 @@
   "zh": "猛袭加护",
   "ja": "猛袭加护",
   "ko": "猛袭加护",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36481,7 +36481,7 @@
   "zh": "猛袭加护",
   "ja": "猛袭加护",
   "ko": "猛袭加护",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36490,7 +36490,7 @@
   "zh": "猛袭加护",
   "ja": "猛袭加护",
   "ko": "猛袭加护",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36499,7 +36499,7 @@
   "zh": "猛袭加护",
   "ja": "猛袭加护",
   "ko": "猛袭加护",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36508,7 +36508,7 @@
   "zh": "猛袭加护",
   "ja": "猛袭加护",
   "ko": "猛袭加护",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36517,7 +36517,7 @@
   "zh": "猛袭加护",
   "ja": "猛袭加护",
   "ko": "猛袭加护",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36526,7 +36526,7 @@
   "zh": "猛袭加护",
   "ja": "猛袭加护",
   "ko": "猛袭加护",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36535,7 +36535,7 @@
   "zh": "猛袭加护",
   "ja": "猛袭加护",
   "ko": "猛袭加护",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36544,7 +36544,7 @@
   "zh": "猛袭加护",
   "ja": "猛袭加护",
   "ko": "猛袭加护",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36553,7 +36553,7 @@
   "zh": "猛袭加护",
   "ja": "猛袭加护",
   "ko": "猛袭加护",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36586,10 +36586,10 @@
  },
  "1019901": {
   "en": "丰饶效果",
-  "zh": "丰饶效果",
+  "zh": "寒冰领域",
   "ja": "丰饶效果",
   "ko": "丰饶效果",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36829,10 +36829,10 @@
  },
  "10050401": {
   "en": "巫师哥布林呼唤同伴",
-  "zh": "巫师哥布林呼唤同伴",
+  "zh": "巫师哥布林攻击旗帜",
   "ja": "巫师哥布林呼唤同伴",
   "ko": "巫师哥布林呼唤同伴",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -36849,10 +36849,10 @@
   "en": "巫师哥布林多目标陨石术",
   "zh": "巫师哥布林多目标陨石术",
   "ja": "巫师哥布林多目标陨石术",
-  "ko": "巫师哥布林多目标陨石术",
-  "zh_fallback": true,
+  "ko": "追击身法",
+  "zh_fallback": false,
   "ja_fallback": true,
-  "ko_fallback": true
+  "ko_fallback": false
  },
  "10050701": {
   "en": "巫师哥布林瞬移",
@@ -36964,10 +36964,10 @@
  },
  "10070601": {
   "en": "弩箭哥布林右跳",
-  "zh": "弩箭哥布林右跳",
+  "zh": "雄鹰右跳",
   "ja": "弩箭哥布林右跳",
   "ko": "弩箭哥布林右跳",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37018,10 +37018,10 @@
  },
  "10071201": {
   "en": "弩箭哥布林贯通射击",
-  "zh": "弩箭哥布林贯通射击",
+  "zh": "召魂监听",
   "ja": "弩箭哥布林贯通射击",
   "ko": "弩箭哥布林贯通射击",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37111,7 +37111,7 @@
   "zh": "巨斧哥布林（虚蚀）重斩",
   "ja": "巨斧哥布林（虚蚀）重斩",
   "ko": "巨斧哥布林（虚蚀）重斩",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37180,10 +37180,10 @@
  },
  "10120101": {
   "en": "火焰兽人践踏",
-  "zh": "火焰兽人践踏",
+  "zh": "小刀哥布林致命跳劈",
   "ja": "火焰兽人践踏",
   "ko": "火焰兽人践踏",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37297,10 +37297,10 @@
  },
  "10122001": {
   "en": "火焰食人魔拍肚皮",
-  "zh": "火焰食人魔拍肚皮",
+  "zh": "纯转身180度",
   "ja": "火焰食人魔拍肚皮",
   "ko": "火焰食人魔拍肚皮",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37360,10 +37360,10 @@
  },
  "10130601": {
   "en": "巨龙甩尾360",
-  "zh": "巨龙甩尾360",
+  "zh": "虚雾喷洒-右",
   "ja": "巨龙甩尾360",
   "ko": "巨龙甩尾360",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37390,7 +37390,7 @@
   "zh": "巨龙激昂表演",
   "ja": "巨龙激昂表演",
   "ko": "巨龙激昂表演",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37405,10 +37405,10 @@
  },
  "10131101": {
   "en": "巨龙三连甩尾360",
-  "zh": "巨龙三连甩尾360",
+  "zh": "滚石攻击",
   "ja": "巨龙三连甩尾360",
   "ko": "巨龙三连甩尾360",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37489,7 +37489,7 @@
   "zh": "巨龙跳跃转向180",
   "ja": "巨龙跳跃转向180",
   "ko": "巨龙跳跃转向180",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37561,7 +37561,7 @@
   "zh": "巨龙空中吐息",
   "ja": "巨龙空中吐息",
   "ko": "巨龙空中吐息",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37603,10 +37603,10 @@
  },
  "10160201": {
   "en": "特殊nappo跳出地面",
-  "zh": "特殊nappo跳出地面",
+  "zh": "小岩蛇-炸出地面",
   "ja": "特殊nappo跳出地面",
   "ko": "特殊nappo跳出地面",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37621,10 +37621,10 @@
  },
  "10180101": {
   "en": "巫妖哥布林陨石术",
-  "zh": "巫妖哥布林陨石术",
+  "zh": "特殊nappo钻地",
   "ja": "巫妖哥布林陨石术",
   "ko": "巫妖哥布林陨石术",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37639,10 +37639,10 @@
  },
  "10180301": {
   "en": "巫妖哥布林呼唤同伴",
-  "zh": "巫妖哥布林呼唤同伴",
+  "zh": "巫妖哥布林-攻击旗帜增加攻击力buff",
   "ja": "巫妖哥布林呼唤同伴",
   "ko": "巫妖哥布林呼唤同伴",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37657,10 +37657,10 @@
  },
  "10180501": {
   "en": "巫妖哥布林嘴炮",
-  "zh": "巫妖哥布林嘴炮",
+  "zh": "亢奋2",
   "ja": "巫妖哥布林嘴炮",
   "ko": "巫妖哥布林嘴炮",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37721,7 +37721,7 @@
  "11020101": {
   "en": "边缘之刃-圆月斩",
   "zh": "边缘之刃-圆月斩",
-  "ja": "──だからね、第２ラウンドを用意したの！ 今回は超難しい変装をチョイスしたから、絶対に簡単には見つからないはず！x冒険者さん、また会ったわね。フフン……前回の敗北は……今もずっと覚えているわよ。mじゃあ、今日はここまで！<br>暇があったら……次回また別のゲームをしましょ！iなにしろ、氷雪祭",
+  "ja": "──だからね、第２ラウンドを用意したの！ 今回は超難しい変装をチョイスしたから、絶対に簡単には見つからないはず！x冒険者さん、また会ったわね。フフン……前回の敗北は……今もずっと覚えているわよ。mじゃあ、今日はここまで！暇があったら……次回また別のゲームをしましょ！iなにしろ、氷雪祭",
   "ko": "边缘之刃-圆月斩",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -37738,7 +37738,7 @@
  },
  "11020301": {
   "en": "炸弹来喽",
-  "zh": "炸弹来喽",
+  "zh": "蓄力火力全开",
   "ja": "炸弹来喽",
   "ko": "炸弹来喽",
   "zh_fallback": false,
@@ -37747,10 +37747,10 @@
  },
  "11030101": {
   "en": "能量精魄-屏障",
-  "zh": "能量精魄-屏障",
+  "zh": "受伤击退",
   "ja": "能量精魄-屏障",
   "ko": "能量精魄-屏障",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37801,10 +37801,10 @@
  },
  "11040401": {
   "en": "Type-δ弹幕机器人-屏障",
-  "zh": "Type-δ弹幕机器人-屏障",
+  "zh": "高原大世界弹簧-静止",
   "ja": "Type-δ弹幕机器人-屏障",
   "ko": "Type-δ弹幕机器人-屏障",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37819,10 +37819,10 @@
  },
  "11050301": {
   "en": "炒鸡自爆",
-  "zh": "炒鸡自爆",
+  "zh": "哥布林风暴聚拢",
   "ja": "炒鸡自爆",
   "ko": "炒鸡自爆",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37840,7 +37840,7 @@
   "zh": "Type-Ω主战机-超载",
   "ja": "Type-Ω主战机-超载",
   "ko": "Type-Ω主战机-超载",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37864,10 +37864,10 @@
  },
  "11060501": {
   "en": "Type-Ω主战机-坠击",
-  "zh": "Type-Ω主战机-坠击",
+  "zh": "肉鸽本-角羊的散落子弹",
   "ja": "Type-Ω主战机-坠击",
   "ko": "Type-Ω主战机-坠击",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37876,7 +37876,7 @@
   "zh": "机甲B变身普攻-拳击",
   "ja": "机甲B变身普攻-拳击",
   "ko": "机甲B变身普攻-拳击",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37909,10 +37909,10 @@
  },
  "11061101": {
   "en": "机甲B变身四技能-冲锋",
-  "zh": "机甲B变身四技能-冲锋",
+  "zh": "卡尼曼战神插旗-英雄本",
   "ja": "机甲B变身四技能-冲锋",
   "ko": "机甲B变身四技能-冲锋",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37945,19 +37945,19 @@
  },
  "11061701": {
   "en": "机甲C变身二技能-天堂炮火",
-  "zh": "机甲C变身二技能-天堂炮火",
+  "zh": "战斗机像03型-血盾",
   "ja": "机甲C变身二技能-天堂炮火",
   "ko": "机甲C变身二技能-天堂炮火",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "11061801": {
   "en": "机甲C变身三技能-激光",
-  "zh": "机甲C变身三技能-激光",
+  "zh": "双子正在释放核心技（标记用）",
   "ja": "机甲C变身三技能-激光",
   "ko": "机甲C变身三技能-激光",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -37966,7 +37966,7 @@
   "zh": "机甲C变身大招-贯穿爆发",
   "ja": "机甲C变身大招-贯穿爆发",
   "ko": "机甲C变身大招-贯穿爆发",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38038,7 +38038,7 @@
   "zh": "遗留自动机像-能量轰击",
   "ja": "遗留自动机像-能量轰击",
   "ko": "遗留自动机像-能量轰击",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38125,10 +38125,10 @@
  },
  "11071601": {
   "en": "小睡一会",
-  "zh": "小睡一会",
+  "zh": "遗留自动机像-溅射激光",
   "ja": "小睡一会",
   "ko": "小睡一会",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38143,10 +38143,10 @@
  },
  "11072101": {
   "en": "机甲A变身一技能-下砸",
-  "zh": "机甲A变身一技能-下砸",
+  "zh": "机甲D变身一技能-召唤奶棒",
   "ja": "机甲A变身一技能-下砸",
   "ko": "机甲A变身一技能-下砸",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38182,7 +38182,7 @@
   "zh": "极电领域-扩",
   "ja": "极电领域-扩",
   "ko": "极电领域-扩",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38209,16 +38209,16 @@
   "zh": "极电领域-十字",
   "ja": "极电领域-十字",
   "ko": "极电领域-十字",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "11073201": {
   "en": "机甲D变身三技能-唤雷",
-  "zh": "机甲D变身三技能-唤雷",
+  "zh": "小型凝滞奇点",
   "ja": "机甲D变身三技能-唤雷",
   "ko": "机甲D变身三技能-唤雷",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38233,10 +38233,10 @@
  },
  "11073401": {
   "en": "机甲D召唤物技能-治疗奶棒",
-  "zh": "机甲D召唤物技能-治疗奶棒",
+  "zh": "晕TMD",
   "ja": "机甲D召唤物技能-治疗奶棒",
   "ko": "机甲D召唤物技能-治疗奶棒",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38254,7 +38254,7 @@
   "zh": "引导激光",
   "ja": "引导激光",
   "ko": "引导激光",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38263,7 +38263,7 @@
   "zh": "引导激光",
   "ja": "引导激光",
   "ko": "引导激光",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38272,7 +38272,7 @@
   "zh": "引导激光",
   "ja": "引导激光",
   "ko": "引导激光",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38281,7 +38281,7 @@
   "zh": "引导激光",
   "ja": "引导激光",
   "ko": "引导激光",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38290,7 +38290,7 @@
   "zh": "引导激光",
   "ja": "引导激光",
   "ko": "引导激光",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38299,7 +38299,7 @@
   "zh": "引导激光",
   "ja": "引导激光",
   "ko": "引导激光",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38314,10 +38314,10 @@
  },
  "11100201": {
   "en": "左腿击",
-  "zh": "左腿击",
+  "zh": "导弹技能失败",
   "ja": "左腿击",
   "ko": "左腿击",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38480,15 +38480,15 @@
   "ja": "虚弱",
   "ko": "허약",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11102201": {
   "en": "转向90",
-  "zh": "转向90",
+  "zh": "虚蚀龙-分摊",
   "ja": "转向90",
   "ko": "转向90",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38503,10 +38503,10 @@
  },
  "11102401": {
   "en": "召唤激光地面",
-  "zh": "召唤激光地面",
+  "zh": "通用吼叫",
   "ja": "召唤激光地面",
   "ko": "召唤激光地面",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38558,10 +38558,10 @@
  "11103001": {
   "en": "位移",
   "zh": "位移",
-  "ja": "位移",
+  "ja": "移動",
   "ko": "이동",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "11103101": {
@@ -38737,10 +38737,10 @@
  },
  "11104601": {
   "en": "无目标回复生命值",
-  "zh": "无目标回复生命值",
+  "zh": "玩家拉回",
   "ja": "无目标回复生命值",
   "ko": "无目标回复生命值",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38758,7 +38758,7 @@
   "zh": "激光束·X右",
   "ja": "激光束·X右",
   "ko": "激光束·X右",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38776,7 +38776,7 @@
   "zh": "吹风特效",
   "ja": "吹风特效",
   "ko": "吹风特效",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38812,7 +38812,7 @@
   "zh": "激光·集束左",
   "ja": "激光·集束左",
   "ko": "激光·集束左",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38893,7 +38893,7 @@
   "zh": "转阶段黑洞",
   "ja": "转阶段黑洞",
   "ko": "转阶段黑洞",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38920,7 +38920,7 @@
   "zh": "二阶段激昂·表演",
   "ja": "二阶段激昂·表演",
   "ko": "二阶段激昂·表演",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38938,7 +38938,7 @@
   "zh": "高爆弹·裂变",
   "ja": "高爆弹·裂变",
   "ko": "高爆弹·裂变",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38965,7 +38965,7 @@
   "zh": "高爆弹-裂变-追踪",
   "ja": "高爆弹-裂变-追踪",
   "ko": "高爆弹-裂变-追踪",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38974,7 +38974,7 @@
   "zh": "高爆弹-裂变-追踪",
   "ja": "高爆弹-裂变-追踪",
   "ko": "高爆弹-裂变-追踪",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38983,7 +38983,7 @@
   "zh": "高爆弹-裂变-追踪",
   "ja": "高爆弹-裂变-追踪",
   "ko": "高爆弹-裂变-追踪",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -38992,7 +38992,7 @@
   "zh": "高爆弹-裂变-追踪",
   "ja": "高爆弹-裂变-追踪",
   "ko": "高爆弹-裂变-追踪",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -39001,7 +39001,7 @@
   "zh": "高爆弹-裂变-追踪",
   "ja": "高爆弹-裂变-追踪",
   "ko": "高爆弹-裂变-追踪",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40909,7 +40909,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40918,7 +40918,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40927,7 +40927,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40936,7 +40936,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40945,7 +40945,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40954,7 +40954,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40963,7 +40963,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40972,7 +40972,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40981,7 +40981,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40990,7 +40990,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40999,7 +40999,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41008,7 +41008,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41017,7 +41017,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41026,7 +41026,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41035,7 +41035,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41044,7 +41044,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41053,7 +41053,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41062,7 +41062,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41071,7 +41071,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41080,7 +41080,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41089,7 +41089,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41098,7 +41098,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41107,7 +41107,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41116,7 +41116,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41125,7 +41125,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41134,7 +41134,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41143,7 +41143,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41152,7 +41152,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41161,7 +41161,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41170,7 +41170,7 @@
   "zh": "占位-恩格伤害技能",
   "ja": "占位-恩格伤害技能",
   "ko": "占位-恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41179,7 +41179,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41188,7 +41188,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41197,7 +41197,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41206,7 +41206,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41215,7 +41215,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41224,7 +41224,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41233,7 +41233,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41242,7 +41242,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41251,7 +41251,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41260,7 +41260,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41269,7 +41269,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41278,7 +41278,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41287,7 +41287,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41296,7 +41296,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41305,7 +41305,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41314,7 +41314,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41323,7 +41323,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41332,7 +41332,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41341,7 +41341,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41350,7 +41350,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41359,7 +41359,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41368,7 +41368,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41377,7 +41377,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41386,7 +41386,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41395,7 +41395,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41404,7 +41404,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41413,7 +41413,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41422,7 +41422,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41431,7 +41431,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41440,7 +41440,7 @@
   "zh": "恩格伤害技能",
   "ja": "恩格伤害技能",
   "ko": "恩格伤害技能",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41528,10 +41528,10 @@
  "30040601": {
   "en": "子弹发射",
   "zh": "子弹发射",
-  "ja": "子弹发射",
+  "ja": "銃弾発射",
   "ko": "탄환 발사",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "30040701": {
@@ -41563,10 +41563,10 @@
  },
  "30041001": {
   "en": "突刺·无位移",
-  "zh": "突刺·无位移",
+  "zh": "石头人碎地重拳",
   "ja": "突刺·无位移",
   "ko": "突刺·无位移",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41656,7 +41656,7 @@
   "zh": "雷电食人魔强力挥击",
   "ja": "雷电食人魔强力挥击",
   "ko": "雷电食人魔强力挥击",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41710,7 +41710,7 @@
   "zh": "姆克王哦哟哟",
   "ja": "姆克王哦哟哟",
   "ko": "姆克王哦哟哟",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41728,7 +41728,7 @@
   "zh": "奶妈NPC治疗",
   "ja": "奶妈NPC治疗",
   "ko": "奶妈NPC治疗",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41746,7 +41746,7 @@
   "zh": "TNPC护盾",
   "ja": "TNPC护盾",
   "ko": "TNPC护盾",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -41798,10 +41798,10 @@
  "301000201": {
   "en": "烟雾弹",
   "zh": "烟雾弹",
-  "ja": "烟雾弹",
+  "ja": "発煙弾",
   "ko": "연막탄",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "301000301": {
@@ -41845,7 +41845,7 @@
   "zh": "投掷匕首pro",
   "ja": "投掷匕首pro",
   "ko": "投掷匕首pro",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },

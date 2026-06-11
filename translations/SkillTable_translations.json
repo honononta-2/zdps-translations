@@ -551,7 +551,7 @@
  "1401": {
   "en": "Windborne Grace",
   "zh": "风华翔舞",
-  "ja": "ウィンドダンス",
+  "ja": "翔舞",
   "ko": "바람의 춤",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -560,28 +560,28 @@
  "1402": {
   "en": "Basic Attack",
   "zh": "普攻",
-  "ja": "Basic Attack",
+  "ja": "通常攻撃",
   "ko": "일반 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1403": {
   "en": "Basic Attack",
   "zh": "普攻",
-  "ja": "Basic Attack",
+  "ja": "通常攻撃",
   "ko": "일반 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1404": {
   "en": "Basic Attack",
   "zh": "普攻",
-  "ja": "Basic Attack",
+  "ja": "通常攻撃",
   "ko": "일반 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1405": {
@@ -605,10 +605,10 @@
  "1407": {
   "en": "Typhoon",
   "zh": "风神",
-  "ja": "Typhoon",
+  "ja": "風神",
   "ko": "풍신",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1408": {
@@ -838,9 +838,9 @@
  },
  "1433": {
   "en": "Falcon Strike",
-  "zh": "飞鸟极",
-  "ja": "バードスロー・極",
-  "ko": "팔콘 토스・극",
+  "zh": "猎鹰出击",
+  "ja": "臣鷹出撃",
+  "ko": "팔콘 출격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -866,10 +866,10 @@
  "1436": {
   "en": "Finale! Valor Cyclone",
   "zh": "完结！勇气风环",
-  "ja": "Finale! Valor Cyclone",
+  "ja": "完結！勇心風環",
   "ko": "완결! 윈드 오라",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1437": {
@@ -1100,7 +1100,7 @@
  "1524": {
   "en": "Fast Growth",
   "zh": "加速生长",
-  "ja": "ファストグロウス",
+  "ja": "急速生長",
   "ko": "가속 성장",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1252,27 +1252,27 @@
  },
  "1557": {
   "en": "Plant",
-  "zh": "盆栽",
-  "ja": "鉢植え",
-  "ko": "분재",
+  "zh": "植物",
+  "ja": "植物",
+  "ko": "식물",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "1558": {
   "en": "Plant",
-  "zh": "盆栽",
-  "ja": "鉢植え",
-  "ko": "분재",
+  "zh": "植物",
+  "ja": "植物",
+  "ko": "식물",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "1559": {
   "en": "Plant",
-  "zh": "盆栽",
-  "ja": "鉢植え",
-  "ko": "분재",
+  "zh": "植物",
+  "ja": "植物",
+  "ko": "식물",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -1334,7 +1334,7 @@
  "1601": {
   "en": "Blazing Swing",
   "zh": "炽热挥击",
-  "ja": "赤焔アサルト",
+  "ja": "通常攻撃・ブレイズスラッシュ",
   "ko": "불꽃 휘두르기",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1343,7 +1343,7 @@
  "1602": {
   "en": "Blazing Swing",
   "zh": "炽热挥击",
-  "ja": "赤焔アサルト",
+  "ja": "通常攻撃・ブレイズスラッシュ",
   "ko": "불꽃 휘두르기",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1352,7 +1352,7 @@
  "1603": {
   "en": "Blazing Swing",
   "zh": "炽热挥击",
-  "ja": "赤焔アサルト",
+  "ja": "通常攻撃・ブレイズスラッシュ",
   "ko": "불꽃 휘두르기",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1361,7 +1361,7 @@
  "1604": {
   "en": "Blazing Swing",
   "zh": "炽热挥击",
-  "ja": "赤焔アサルト",
+  "ja": "通常攻撃・ブレイズスラッシュ",
   "ko": "불꽃 휘두르기",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1370,7 +1370,7 @@
  "1605": {
   "en": "Blazing Ascension",
   "zh": "炽烈升腾",
-  "ja": "通常攻撃・ブレイズスラッシュ",
+  "ja": "熾烈なる昇天",
   "ko": "작열 승천",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1397,7 +1397,7 @@
  "1608": {
   "en": "Rage Cleave",
   "zh": "暴怒劈斩",
-  "ja": "通常攻撃・ブレイズスラッシュ",
+  "ja": "紅蓮",
   "ko": "분노 강타",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1406,7 +1406,7 @@
  "1609": {
   "en": "Rage Cleave",
   "zh": "暴怒劈斩",
-  "ja": "通常攻撃・ブレイズスラッシュ",
+  "ja": "紅蓮",
   "ko": "분노 강타",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1415,7 +1415,7 @@
  "1610": {
   "en": "Rage Cleave",
   "zh": "暴怒劈斩",
-  "ja": "通常攻撃・ブレイズスラッシュ",
+  "ja": "紅蓮",
   "ko": "분노 강타",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1424,7 +1424,7 @@
  "1611": {
   "en": "Rage Cleave",
   "zh": "暴怒劈斩",
-  "ja": "通常攻撃・ブレイズスラッシュ",
+  "ja": "紅蓮",
   "ko": "분노 강타",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1442,7 +1442,7 @@
  "1613": {
   "en": "Wildfire Dance",
   "zh": "迷狂炎舞",
-  "ja": "迷いと狂い炎舞",
+  "ja": "濁流焚滅",
   "ko": "광염 난무",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1451,7 +1451,7 @@
  "1614": {
   "en": "Unbound Meteor",
   "zh": "无羁坠星",
-  "ja": "自由なる墜星",
+  "ja": "炎魔",
   "ko": "추락하는 별",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1460,10 +1460,10 @@
  "1615": {
   "en": "Wasteland's End",
   "zh": "荒川之寂灭",
-  "ja": "Wasteland's End",
+  "ja": "濁流焚滅",
   "ko": "황천의 적멸",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1616": {
@@ -1496,7 +1496,7 @@
  "1619": {
   "en": "Blazing Ascension",
   "zh": "炽烈升腾",
-  "ja": "通常攻撃・ブレイズスラッシュ",
+  "ja": "熾烈なる昇天",
   "ko": "작열 승천",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1505,19 +1505,19 @@
  "1620": {
   "en": "Soaring Flame",
   "zh": "飞腾炎华",
-  "ja": "Soaring Flame",
+  "ja": "飛翔炎華",
   "ko": "비상하는 화염",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1621": {
   "en": "Falling Hellfire.",
   "zh": "炎魔天落杀",
-  "ja": "Falling Hellfire.",
+  "ja": "炎魔天落殺",
   "ko": "염마천락살",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1622": {
@@ -1613,7 +1613,7 @@
  "1701": {
   "en": "Judgment Cut",
   "zh": "我流刀法·诛恶",
-  "ja": "我流刀法・断罪",
+  "ja": "刃影",
   "ko": "아류도법・멸악",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1648,9 +1648,9 @@
  },
  "1705": {
   "en": "Overdrive",
-  "zh": "极限跃动·套装",
-  "ja": "エクストリームダイブ・セット",
-  "ko": "익스트림 점핑・세트",
+  "zh": "超高出力",
+  "ja": "超高出力",
+  "ko": "초고출력",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -1703,19 +1703,19 @@
  "1711": {
   "en": "Blade Technique",
   "zh": "我流秘刀法",
-  "ja": "Blade Technique",
+  "ja": "我流秘刀法",
   "ko": "아류비도법",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1712": {
   "en": "Blade Technique",
   "zh": "我流秘刀法",
-  "ja": "Blade Technique",
+  "ja": "我流秘刀法",
   "ko": "아류비도법",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1713": {
@@ -1730,10 +1730,10 @@
  "1714": {
   "en": "Iaido Slash",
   "zh": "居合斩",
-  "ja": "Iaido Slash",
+  "ja": "居合斬",
   "ko": "발도",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1715": {
@@ -1747,18 +1747,18 @@
  },
  "1716": {
   "en": "Overdrive",
-  "zh": "极限跃动·套装",
-  "ja": "エクストリームダイブ・セット",
-  "ko": "익스트림 점핑・세트",
+  "zh": "超高出力",
+  "ja": "超高出力",
+  "ko": "초고출력",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "1717": {
   "en": "Flash Strike",
-  "zh": "闪击",
-  "ja": "フラッシュストライク",
-  "ko": "섬격",
+  "zh": "一闪",
+  "ja": "一閃",
+  "ko": "일섬",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -1775,7 +1775,7 @@
  "1719": {
   "en": "Scythe Wheel",
   "zh": "镰车",
-  "ja": "スパイラルサイス",
+  "ja": "旋廻鎌",
   "ko": "차륜의 낫",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1783,9 +1783,9 @@
  },
  "1720": {
   "en": "True Sight",
-  "zh": "洞悉",
-  "ja": "インサイト",
-  "ko": "통찰",
+  "zh": "心眼",
+  "ja": "心眼",
+  "ko": "심안",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -1901,16 +1901,16 @@
  "1734": {
   "en": "Thunder Iaido Slash",
   "zh": "雷霆居合斩",
-  "ja": "Thunder Iaido Slash",
+  "ja": "雷霆居合斬",
   "ko": "천둥 발도",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1735": {
   "en": "Dragonhammer",
   "zh": "龙槌闪",
-  "ja": "ドラゴンハンマー",
+  "ja": "重撃槌",
   "ko": "용추섬",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1990,20 +1990,20 @@
  },
  "1744": {
   "en": "​True Sight​",
-  "zh": "奥尔维拉因子心眼",
+  "zh": "崩裂词缀自爆虚拟体",
   "ja": "​True Sight​",
   "ko": "​True Sight​",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "1745": {
   "en": "Thunder Iaido Slash",
   "zh": "雷霆居合斩",
-  "ja": "Thunder Iaido Slash",
+  "ja": "雷霆居合斬",
   "ko": "천둥 발도",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1790": {
@@ -2063,10 +2063,10 @@
  "1799": {
   "en": "Thunderreign Art",
   "zh": "御雷式",
-  "ja": "Thunderreign Art",
+  "ja": "操雷式",
   "ko": "어뢰식",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1801": {
@@ -2117,10 +2117,10 @@
  "1806": {
   "en": "Thunder Zone",
   "zh": "雷域",
-  "ja": "Thunder Zone",
+  "ja": "雷領域",
   "ko": "번개 영역",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1807": {
@@ -2405,7 +2405,7 @@
  "1923": {
   "en": "Sandward",
   "zh": "砂岩守护",
-  "ja": "サンドガード",
+  "ja": "堅石守護",
   "ko": "사암의 수호",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -2431,9 +2431,9 @@
  },
  "1926": {
   "en": "Sandgrip",
-  "zh": "砂岩之握精进",
-  "ja": "サンドグリップEX",
-  "ko": "움켜쥐는 사암 정진",
+  "zh": "砂岩之握",
+  "ja": "砂岩握",
+  "ko": "움켜쥐는 사암",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2575,9 +2575,9 @@
  },
  "1942": {
   "en": "Rupture",
-  "zh": "崩裂",
-  "ja": "クラック",
-  "ko": "붕괴",
+  "zh": "千疮百孔",
+  "ja": "裂傷",
+  "ko": "만신창이",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2611,9 +2611,9 @@
  },
  "2001": {
   "en": "Float",
-  "zh": "飘浮和滑翔",
-  "ja": "浮遊と滑空",
-  "ko": "부유와 활공",
+  "zh": "漂浮",
+  "ja": "浮遊",
+  "ko": "부유",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2674,9 +2674,9 @@
  },
  "2106": {
   "en": "Flash Strike",
-  "zh": "闪击",
-  "ja": "フラッシュストライク",
-  "ko": "섬격",
+  "zh": "一闪",
+  "ja": "一閃",
+  "ko": "일섬",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2684,19 +2684,19 @@
  "2107": {
   "en": "Summon Wedge Pillar",
   "zh": "召唤楔柱",
-  "ja": "Summon Wedge Pillar",
+  "ja": "楔柱召喚",
   "ko": "기둥 소환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "2108": {
   "en": "Spirit Possession",
   "zh": "神灵凭依",
-  "ja": "Spirit Possession",
+  "ja": "憑依",
   "ko": "신령 빙의",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "2109": {
@@ -2873,7 +2873,7 @@
  "2201": {
   "en": "Bullseye",
   "zh": "弹无虚发",
-  "ja": "ブルズアイ",
+  "ja": "パーフェクトショット",
   "ko": "백발백중",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -3052,9 +3052,9 @@
  },
  "2231": {
   "en": "Focus",
-  "zh": "聚能",
-  "ja": "エナジー",
-  "ko": "집중",
+  "zh": "精神凝聚",
+  "ja": "メンタルフォーカス",
+  "ko": "정신 집중",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -3197,7 +3197,7 @@
  "2292": {
   "en": "Phantom Direwolves",
   "zh": "幻影魔狼",
-  "ja": "ファントムウルフ",
+  "ja": "幻影魔狼",
   "ko": "환영 늑대 마수",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -3250,9 +3250,9 @@
  },
  "2301": {
   "en": "Resonant Strings",
-  "zh": "灵魂乐手ATK_01",
-  "ja": "ビートパフォーマーATK_01",
-  "ko": "비트 퍼포머ATK_01",
+  "zh": "琴弦撩拨",
+  "ja": "スラップビート",
+  "ko": "스트로크",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -3872,7 +3872,7 @@
  "2421": {
   "en": "Sacred Blade",
   "zh": "圣剑",
-  "ja": "ホーリーソード",
+  "ja": "聖剣",
   "ko": "성스러운 검",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -3953,7 +3953,7 @@
  "2453": {
   "en": "Sacred Blade",
   "zh": "圣剑",
-  "ja": "ホーリーソード",
+  "ja": "聖剣",
   "ko": "성스러운 검",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -3962,10 +3962,10 @@
  "2454": {
   "en": "Rhapsody's Pursuit",
   "zh": "狂想追击",
-  "ja": "Rhapsody's Pursuit",
+  "ja": "狂想追撃",
   "ko": "광상 추격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "2499": {
@@ -4124,10 +4124,10 @@
  "3011": {
   "en": "Mocking Roar",
   "zh": "强制受击",
-  "ja": "Mocking Roar",
+  "ja": "強制被弾",
   "ko": "강제 피격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3012": {
@@ -4304,10 +4304,10 @@
  "3314": {
   "en": "Silent Command",
   "zh": "静息指令",
-  "ja": "Silent Command",
+  "ja": "静息指令",
   "ko": "정적 지령",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3399": {
@@ -4430,10 +4430,10 @@
  "3611": {
   "en": "Overclock Wave",
   "zh": "超频震爆",
-  "ja": "Overclock Wave",
+  "ja": "震爆",
   "ko": "초주파 폭발",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3612": {
@@ -4547,7 +4547,7 @@
  "3902": {
   "en": "Arcane! Thunderfall Grasp",
   "zh": "奥义！雷霆天引",
-  "ja": "奥義！サンダーコール",
+  "ja": "ULT！サンダーコール",
   "ko": "오의! 하늘을 울리는 번개",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4619,7 +4619,7 @@
  "3910": {
   "en": "Stunt! Chaotic Barrage",
   "zh": "绝技！缭乱飞弹",
-  "ja": "絶技！カオスミサイル",
+  "ja": "ULTスキル！カオスミサイル",
   "ko": "비기! 화려한 탄환",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4655,7 +4655,7 @@
  "3915": {
   "en": "Stunt! Frenzied Shot",
   "zh": "绝技！乱射",
-  "ja": "ULTスキル！乱射",
+  "ja": "絶技！乱射",
   "ko": "비기! 난사",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4727,7 +4727,7 @@
  "3923": {
   "en": "Arcane! Furious Hammer",
   "zh": "奥义！重锤狂袭",
-  "ja": "奥義！マッドハンマー",
+  "ja": "ULT！マッドハンマー",
   "ko": "오의! 광란의 해머",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4826,7 +4826,7 @@
  "3934": {
   "en": "Stunt! Blink Ambush",
   "zh": "绝技！瞬步奇袭",
-  "ja": "絶技！フラッシュレイド",
+  "ja": "ULTスキル！フラッシュレイド",
   "ko": "비기! 재빠른 기습",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4952,7 +4952,7 @@
  "3948": {
   "en": "Arcane! Divine Reliance",
   "zh": "奥义！神灵依凭",
-  "ja": "ULTスキル！スパイラルブレイク",
+  "ja": "奥義！神霊憑依",
   "ko": "오의! 신령 의탁",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4961,7 +4961,7 @@
  "3949": {
   "en": "Arcane! Illusion Resonance",
   "zh": "奥义！幻象共鸣",
-  "ja": "ULTスキル！スパイラルブレイク",
+  "ja": "奥義！幻影共鳴",
   "ko": "오의! 환상 공명",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4970,37 +4970,37 @@
  "3950": {
   "en": "Arcane! Allscape Sublimation",
   "zh": "奥义！万象升华",
-  "ja": "Arcane! Allscape Sublimation",
+  "ja": "奥義！万象昇華",
   "ko": "오의! 만물 승화",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3951": {
   "en": "Arcane! Guardian's Boundary",
   "zh": "奥义！佑世边界",
-  "ja": "Arcane! Guardian's Boundary",
+  "ja": "奥義！加護結界",
   "ko": "오의! 세계를 수호하는 경계",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3952": {
   "en": "Arcane! Blazing Flames",
   "zh": "奥义！熊熊烈焰",
-  "ja": "Arcane! Blazing Flames",
+  "ja": "奥義！爆炎奔流",
   "ko": "오의! 타오르는 화염",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3953": {
   "en": "Arcane! Peerless Thrust",
   "zh": "奥义！无双突刺",
-  "ja": "Arcane! Peerless Thrust",
+  "ja": "奥義！無双突撃",
   "ko": "오의! 무쌍 찌르기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3954": {
@@ -5069,10 +5069,10 @@
  "3961": {
   "en": "Stunt! Carpet Bombing",
   "zh": "绝技！全场轰炸",
-  "ja": "Stunt! Carpet Bombing",
+  "ja": "絶技！全域爆撃",
   "ko": "비기! 필드 폭격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3962": {
@@ -5312,10 +5312,10 @@
  "4000": {
   "en": "Exit transformation",
   "zh": "退出变身",
-  "ja": "Exit transformation",
+  "ja": "変身終了",
   "ko": "변신 종료하기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4001": {
@@ -5330,10 +5330,10 @@
  "4002": {
   "en": "Reshape",
   "zh": "重塑",
-  "ja": "Reshape",
+  "ja": "再構築",
   "ko": "재조형",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4003": {
@@ -5347,20 +5347,20 @@
  },
  "4004": {
   "en": "Accelerate Summon",
-  "zh": "加速目标",
-  "ja": "ターゲット加速",
-  "ko": "목표 가속",
+  "zh": "加速号召",
+  "ja": "招集加速",
+  "ko": "호출 가속",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "4005": {
   "en": "Accelerate Summon",
-  "zh": "命令民众加速-授勋护送",
-  "ja": "Accelerate Summon",
-  "ko": "시민 가속 명령 - 서훈 호송",
+  "zh": "加速号召",
+  "ja": "招集加速",
+  "ko": "호출 가속",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4006": {
@@ -5402,10 +5402,10 @@
  "4010": {
   "en": "Pass on",
   "zh": "虚蚀传递",
-  "ja": "Pass on",
+  "ja": "虚蝕伝播",
   "ko": "허무의 침식 전달",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4011": {
@@ -5473,9 +5473,9 @@
  },
  "4018": {
   "en": "Frostbeam",
-  "zh": "冰雪射线-关卡用",
-  "ja": "氷雪ビーム-ステージ用",
-  "ko": "얼음 광선 - 스테이지용",
+  "zh": "寒冰射线",
+  "ja": "氷霜ビーム",
+  "ko": "프로스트 레이",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -5492,10 +5492,10 @@
  "4020": {
   "en": "Rally",
   "zh": "集结",
-  "ja": "Rally",
+  "ja": "集結",
   "ko": "집결",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4021": {
@@ -5510,10 +5510,10 @@
  "4022": {
   "en": "Divine Blessing",
   "zh": "神佑",
-  "ja": "Divine Blessing",
+  "ja": "天祐",
   "ko": "신의 축복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4023": {
@@ -5564,10 +5564,10 @@
  "4041": {
   "en": "Place explosive barrel.",
   "zh": "放置爆桶",
-  "ja": "Place explosive barrel.",
+  "ja": "爆薬設置",
   "ko": "폭발통 배치하기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4050": {
@@ -5600,46 +5600,46 @@
  "4100": {
   "en": "Crystal Burst",
   "zh": "碎晶雷",
-  "ja": "Crystal Burst",
+  "ja": "砕晶雷",
   "ko": "결정 파쇄뢰",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4101": {
   "en": "Crystal Burst",
   "zh": "碎晶雷",
-  "ja": "Crystal Burst",
+  "ja": "砕晶雷",
   "ko": "결정 파쇄뢰",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4102": {
   "en": "Flame Thrower",
   "zh": "火焰喷射器",
-  "ja": "Flame Thrower",
+  "ja": "火炎放射器",
   "ko": "화염 방사기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4103": {
   "en": "Wooden Stick",
   "zh": "木棍",
-  "ja": "Wooden Stick",
+  "ja": "棍棒",
   "ko": "나무막대",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4104": {
   "en": "Food Supplies",
   "zh": "食物补充",
-  "ja": "Food Supplies",
+  "ja": "食料補給",
   "ko": "음식 보급",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4301": {
@@ -5879,10 +5879,10 @@
  "4527": {
   "en": "Flowing Lightstream",
   "zh": "流光追影",
-  "ja": "Flowing Lightstream",
+  "ja": "流光追影",
   "ko": "유광 추적",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4528": {
@@ -5996,10 +5996,10 @@
  "4552": {
   "en": "Colossus Strike",
   "zh": "巨像出击",
-  "ja": "Colossus Strike",
+  "ja": "巨像出撃",
   "ko": "골렘 출격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4553": {
@@ -6014,10 +6014,10 @@
  "4554": {
   "en": "Colossus Strike",
   "zh": "巨像出击",
-  "ja": "Colossus Strike",
+  "ja": "巨像出撃",
   "ko": "골렘 출격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4555": {
@@ -6041,10 +6041,10 @@
  "4571": {
   "en": "3D \"Torpedo\"",
   "zh": "立体“鱼雷”",
-  "ja": "3D \"Torpedo\"",
+  "ja": "立体「魚雷」",
   "ko": "입체 '어뢰'",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4572": {
@@ -6112,9 +6112,9 @@
  },
  "4611": {
   "en": "Rhythmic Beat",
-  "zh": "律动节奏",
-  "ja": "リズムビート",
-  "ko": "리듬의 율동",
+  "zh": "律动节拍",
+  "ja": "リズミックビート",
+  "ko": "경쾌한 비트",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -6203,19 +6203,19 @@
  "4651": {
   "en": "Acceleration Blast",
   "zh": "爆轰加速",
-  "ja": "Acceleration Blast",
+  "ja": "爆音加速",
   "ko": "폭발 가속",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4652": {
   "en": "Acceleration Blast",
   "zh": "爆轰加速",
-  "ja": "Acceleration Blast",
+  "ja": "爆音加速",
   "ko": "폭발 가속",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4653": {
@@ -6266,10 +6266,10 @@
  "4671": {
   "en": "Icefeather Flight",
   "zh": "冰羽飞行",
-  "ja": "Icefeather Flight",
+  "ja": "氷羽飛行",
   "ko": "얼음 날개의 비행",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4672": {
@@ -6284,10 +6284,10 @@
  "4673": {
   "en": "Icefeather Flight",
   "zh": "冰羽飞行",
-  "ja": "Icefeather Flight",
+  "ja": "氷羽飛行",
   "ko": "얼음 날개의 비행",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4674": {
@@ -6329,10 +6329,10 @@
  "4691": {
   "en": "Catapult Acceleration",
   "zh": "弹射加速",
-  "ja": "Catapult Acceleration",
+  "ja": "射出加速",
   "ko": "발사 가속",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4692": {
@@ -6356,10 +6356,10 @@
  "4694": {
   "en": "Catapult Acceleration",
   "zh": "弹射加速",
-  "ja": "Catapult Acceleration",
+  "ja": "射出加速",
   "ko": "발사 가속",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4701": {
@@ -6410,28 +6410,28 @@
  "4706": {
   "en": "Moon-Piercing Leap",
   "zh": "贯月腾跃",
-  "ja": "Moon-Piercing Leap",
+  "ja": "貫月跳翔",
   "ko": "달을 넘는 도약",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4707": {
   "en": "Dance of the Long Dragon",
   "zh": "长龙共舞",
-  "ja": "Dance of the Long Dragon",
+  "ja": "長龍共舞",
   "ko": "용 무리의 군무",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4708": {
   "en": "Dance of the Pride",
   "zh": "群狮贺瑞",
-  "ja": "Dance of the Pride",
+  "ja": "群獅招福",
   "ko": "사자 무리의 축복",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4709": {
@@ -6527,19 +6527,19 @@
  "4903": {
   "en": "Cancel Transformation",
   "zh": "取消变身",
-  "ja": "Cancel Transformation",
+  "ja": "変身取消",
   "ko": "변신 취소",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5000": {
   "en": "Exit Toy",
   "zh": "退出玩具",
-  "ja": "Exit Toy",
+  "ja": "玩具終了",
   "ko": "장난감 종료",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5101": {
@@ -6868,9 +6868,9 @@
  },
  "5138": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "爱意满满",
+  "ja": "愛情満点",
+  "ko": "하트뿅뿅",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -7013,28 +7013,28 @@
  "5520": {
   "en": "Ice Burst",
   "zh": "冰爆",
-  "ja": "Ice Burst",
+  "ja": "氷爆",
   "ko": "얼음 폭발",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5521": {
   "en": "Summon lightning",
   "zh": "召唤落雷",
-  "ja": "Summon lightning",
+  "ja": "落雷召喚",
   "ko": "낙뢰 소환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5522": {
   "en": "Smoke Bomb",
   "zh": "烟雾弹",
-  "ja": "Smoke Bomb",
+  "ja": "発煙弾",
   "ko": "연막탄",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5523": {
@@ -7049,10 +7049,10 @@
  "5524": {
   "en": "Timed Explosion",
   "zh": "定时自爆",
-  "ja": "Timed Explosion",
+  "ja": "時限自爆",
   "ko": "타이머 자폭",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5525": {
@@ -7103,10 +7103,10 @@
  "5543": {
   "en": "Low Gravity Potion",
   "zh": "低重力药剂",
-  "ja": "Low Gravity Potion",
+  "ja": "低重力薬",
   "ko": "저중력 포션",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5544": {
@@ -7157,55 +7157,55 @@
  "5555": {
   "en": "Summon Flame Turret",
   "zh": "召唤火焰炮台",
-  "ja": "Summon Flame Turret",
+  "ja": "火炎砲台召喚",
   "ko": "화염 포탑 소환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5556": {
   "en": "Summon Barrage Turret",
   "zh": "召唤弹幕炮台",
-  "ja": "Summon Barrage Turret",
+  "ja": "弾幕砲台召喚",
   "ko": "탄막 포탑 소환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5557": {
   "en": "Summon Skyfire Turret",
   "zh": "召唤天火炮台",
-  "ja": "Summon Skyfire Turret",
+  "ja": "烈火砲台召喚",
   "ko": "하늘 불길 포탑 소환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5558": {
   "en": "Summon Slow Device",
   "zh": "召唤减速装置",
-  "ja": "Summon Slow Device",
+  "ja": "減速装置召喚",
   "ko": "둔화 장치 소환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5559": {
   "en": "Summon Gravity Device",
   "zh": "召唤引力装置",
-  "ja": "Summon Gravity Device",
+  "ja": "重力装置召喚",
   "ko": "중력 장치 소환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5560": {
   "en": "Freeze in Place",
   "zh": "静止不动",
-  "ja": "Freeze in Place",
+  "ja": "静止不動",
   "ko": "정지 부동",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5600": {
@@ -7220,19 +7220,19 @@
  "5601": {
   "en": "Timed Explosion",
   "zh": "定时自爆",
-  "ja": "Timed Explosion",
+  "ja": "時限自爆",
   "ko": "타이머 자폭",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5602": {
   "en": "Smoke Bomb",
   "zh": "烟雾弹",
-  "ja": "Smoke Bomb",
+  "ja": "発煙弾",
   "ko": "연막탄",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5603": {
@@ -7256,10 +7256,10 @@
  "5605": {
   "en": "Static",
   "zh": "静止",
-  "ja": "Static",
+  "ja": "静止",
   "ko": "정지",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5620": {
@@ -7274,10 +7274,10 @@
  "5621": {
   "en": "Firecracker Attack",
   "zh": "爆竹攻击",
-  "ja": "Firecracker Attack",
+  "ja": "爆竹攻撃",
   "ko": "폭죽 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "5622": {
@@ -7373,55 +7373,55 @@
  "6005": {
   "en": "Bomb",
   "zh": "炸弹",
-  "ja": "Bomb",
+  "ja": "爆弾",
   "ko": "폭탄",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6006": {
   "en": "Place explosive charge.",
   "zh": "放置炸药",
-  "ja": "Place explosive charge.",
+  "ja": "爆薬設置",
   "ko": "폭약 배치",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6007": {
   "en": "Detonate",
   "zh": "引爆",
-  "ja": "Detonate",
+  "ja": "起爆",
   "ko": "폭발",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6008": {
   "en": "Throw Barrel",
   "zh": "投掷爆桶",
-  "ja": "Throw Barrel",
+  "ja": "爆薬投擲",
   "ko": "폭발통 투척",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6010": {
   "en": "Detonate Bomb",
   "zh": "引爆炸弹",
-  "ja": "Detonate Bomb",
+  "ja": "爆弾起爆",
   "ko": "폭탄 기폭",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6011": {
   "en": "Detonate",
   "zh": "引爆",
-  "ja": "Detonate",
+  "ja": "起爆",
   "ko": "폭발",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6012": {
@@ -7436,10 +7436,10 @@
  "6013": {
   "en": "Place Device",
   "zh": "放置装置",
-  "ja": "Place Device",
+  "ja": "装置設置",
   "ko": "장치 배치",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6014": {
@@ -7472,55 +7472,55 @@
  "6501": {
   "en": "Lock",
   "zh": "固定",
-  "ja": "Lock",
+  "ja": "固定",
   "ko": "고정",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6502": {
   "en": "Unlock Position",
   "zh": "取消固定",
-  "ja": "Unlock Position",
+  "ja": "固定解除",
   "ko": "고정 해제",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6503": {
   "en": "Cancel Transformation",
   "zh": "取消变身",
-  "ja": "Cancel Transformation",
+  "ja": "変身取消",
   "ko": "변신 취소",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6504": {
   "en": "Targeted Transformation",
   "zh": "定向变幻",
-  "ja": "Targeted Transformation",
+  "ja": "特定変幻",
   "ko": "지정 변환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6507": {
   "en": "Security Upgrade",
   "zh": "警备升级",
-  "ja": "Security Upgrade",
+  "ja": "警戒強化",
   "ko": "경비 업그레이드",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6508": {
   "en": "Super Electromagnetic Cannon",
   "zh": "超电磁炮",
-  "ja": "Super Electromagnetic Cannon",
+  "ja": "超電磁砲",
   "ko": "초전자포",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6511": {
@@ -7544,37 +7544,37 @@
  "6513": {
   "en": "Gigantification",
   "zh": "极巨化",
-  "ja": "Gigantification",
+  "ja": "超巨大化",
   "ko": "거대화",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6514": {
   "en": "Encroaching Tide",
   "zh": "慢潮翻涌",
-  "ja": "Encroaching Tide",
+  "ja": "悠潮",
   "ko": "느리지만 거센 파도",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6515": {
   "en": "Flash Step",
   "zh": "瞬步",
-  "ja": "Flash Step",
+  "ja": "瞬歩",
   "ko": "순보",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6516": {
   "en": "Gardener",
   "zh": "园艺师",
-  "ja": "Gardener",
+  "ja": "庭師",
   "ko": "원예사",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6517": {
@@ -7589,10 +7589,10 @@
  "6518": {
   "en": "Fog",
   "zh": "迷雾",
-  "ja": "Fog",
+  "ja": "迷霧",
   "ko": "안개",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6519": {
@@ -7616,10 +7616,10 @@
  "6523": {
   "en": "No Limit",
   "zh": "无上限",
-  "ja": "No Limit",
+  "ja": "無敵化",
   "ko": "무상한",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6524": {
@@ -7643,19 +7643,19 @@
  "6526": {
   "en": "Flash Step",
   "zh": "瞬步",
-  "ja": "Flash Step",
+  "ja": "瞬歩",
   "ko": "순보",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6527": {
   "en": "Projection Magic",
   "zh": "投影魔法",
-  "ja": "Projection Magic",
+  "ja": "複製",
   "ko": "투영 마법",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6528": {
@@ -7679,19 +7679,19 @@
  "6550": {
   "en": "Radar Sense",
   "zh": "探测术",
-  "ja": "Radar Sense",
+  "ja": "探知術",
   "ko": "탐지술",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6551": {
   "en": "Heaven's Wrath",
   "zh": "天雷召来",
-  "ja": "Heaven's Wrath",
+  "ja": "天雷召来",
   "ko": "낙뢰 소환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "6552": {
@@ -7940,19 +7940,19 @@
  "50101": {
   "en": "Five-Stage Resonance",
   "zh": "五阶段共鸣",
-  "ja": "Five-Stage Resonance",
+  "ja": "5段階共鳴",
   "ko": "5단계 공명",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "50201": {
   "en": "Five-Stage Resonance",
   "zh": "五阶段共鸣",
-  "ja": "Five-Stage Resonance",
+  "ja": "5段階共鳴",
   "ko": "5단계 공명",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "50301": {
@@ -10217,10 +10217,10 @@
  "101106": {
   "en": "Gust",
   "zh": "吹风",
-  "ja": "Gust",
+  "ja": "突風",
   "ko": "바람 불기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "101110": {
@@ -10558,9 +10558,9 @@
  },
  "101235": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "分摊陨石-辅助试炼",
+  "ja": "隕石分担-支援試練",
+  "ko": "운석 분담 - 지원 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -11080,9 +11080,9 @@
  },
  "101350": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "炸弹",
+  "ja": "爆弾",
+  "ko": "폭탄",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -11117,10 +11117,10 @@
  "101354": {
   "en": "Dragon Share",
   "zh": "巨龙分摊",
-  "ja": "Dragon Share",
+  "ja": "巨竜分担",
   "ko": "거룡 분담",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "101355": {
@@ -11216,7 +11216,7 @@
  "101409": {
   "en": "Avalanche",
   "zh": "雪崩",
-  "ja": "アバランチ",
+  "ja": "雪崩",
   "ko": "눈사태",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -11297,7 +11297,7 @@
  "101418": {
   "en": "Heart-piercing Lance",
   "zh": "锥心冰矛",
-  "ja": "アイスピアス",
+  "ja": "氷槍",
   "ko": "심장을 꿰뚫는 얼음 창",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -11458,9 +11458,9 @@
  },
  "101489": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "废弃",
+  "ja": "破棄",
+  "ko": "폐기한다",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -11548,9 +11548,9 @@
  },
  "101500": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "废弃",
+  "ja": "破棄",
+  "ko": "폐기한다",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -11647,9 +11647,9 @@
  },
  "102601": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "猪突猛进",
+  "ja": "猪突猛進",
+  "ko": "돼지의 돌진",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -12251,10 +12251,10 @@
  "110323": {
   "en": "Stone Summoning",
   "zh": "唤石术",
-  "ja": "Stone Summoning",
+  "ja": "喚石術",
   "ko": "바위 소환술",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "110401": {
@@ -12413,10 +12413,10 @@
  "110503": {
   "en": "Self-Destruct",
   "zh": "自爆",
-  "ja": "Self-Destruct",
+  "ja": "自爆",
   "ko": "자폭",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "110504": {
@@ -12431,10 +12431,10 @@
  "110505": {
   "en": "Self-Destruct",
   "zh": "自爆",
-  "ja": "Self-Destruct",
+  "ja": "自爆",
   "ko": "자폭",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "110506": {
@@ -13447,9 +13447,9 @@
  },
  "111021": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "虚弱",
+  "ja": "虚弱",
+  "ko": "허약",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -14042,10 +14042,10 @@
  "111087": {
   "en": "Dimensional Oblivion!!!",
   "zh": "次元湮灭！！！",
-  "ja": "Dimensional Oblivion!!!",
+  "ja": "次元崩壊！！！",
   "ko": "차원 소멸!!!",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "111088": {
@@ -14698,9 +14698,9 @@
  },
  "140001": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "自爆",
+  "ja": "自爆",
+  "ko": "자폭",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -14923,9 +14923,9 @@
  },
  "140123": {
   "en": "Charge Attraction",
-  "zh": "能量吸收",
-  "ja": "エネルギー吸収",
-  "ko": "에너지 흡수",
+  "zh": "电荷吸引",
+  "ja": "電荷吸引",
+  "ko": "전하 인력",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -15095,10 +15095,10 @@
  "140142": {
   "en": "Charge Attraction",
   "zh": "电荷吸引",
-  "ja": "Charge Attraction",
+  "ja": "電荷吸引",
   "ko": "전하 인력",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "140143": {
@@ -15293,10 +15293,10 @@
  "140183": {
   "en": "Fireseed Toss",
   "zh": "投掷火种",
-  "ja": "Fireseed Toss",
+  "ja": "火種投擲",
   "ko": "불씨 투척",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "140190": {
@@ -15563,10 +15563,10 @@
  "141102": {
   "en": "Red Bee Self-Destruct",
   "zh": "红蜂自爆",
-  "ja": "Red Bee Self-Destruct",
+  "ja": "赤蜂自爆",
   "ko": "붉은 벌 자폭",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "141103": {
@@ -15941,10 +15941,10 @@
  "170103": {
   "en": "Pursuit",
   "zh": "追击",
-  "ja": "Pursuit",
+  "ja": "追撃",
   "ko": "추격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "170104": {
@@ -15995,10 +15995,10 @@
  "170109": {
   "en": "Void Corruption: Cleave!",
   "zh": "虚蚀劫刃断！",
-  "ja": "Void Corruption: Cleave!",
+  "ja": "虚蝕劫剣！",
   "ko": "허무의 침식 격참단!",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "170110": {
@@ -16075,9 +16075,9 @@
  },
  "170203": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "追击",
+  "ja": "追撃",
+  "ko": "추격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -16130,10 +16130,10 @@
  "170209": {
   "en": "Void Residue",
   "zh": "虚蚀残留",
-  "ja": "Void Residue",
+  "ja": "虚蝕残留",
   "ko": "침식의 잔해",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "170210": {
@@ -16157,10 +16157,10 @@
  "170212": {
   "en": "Void Corruption Waning",
   "zh": "虚蚀衰减",
-  "ja": "Void Corruption Waning",
+  "ja": "虚蝕減衰",
   "ko": "허무의 침식 약화",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "170250": {
@@ -16184,28 +16184,28 @@
  "170252": {
   "en": "Void Residue",
   "zh": "虚蚀残留",
-  "ja": "Void Residue",
+  "ja": "虚蝕残留",
   "ko": "침식의 잔해",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "170253": {
   "en": "Void Corruption Floor",
   "zh": "虚蚀地板",
-  "ja": "Void Corruption Floor",
+  "ja": "虚蝕床",
   "ko": "허무의 침식 바닥",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "170254": {
   "en": "Void Corruption AOE",
   "zh": "虚蚀aoe",
-  "ja": "Void Corruption AOE",
+  "ja": "虚蝕AOE",
   "ko": "허무의 침식 광역 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "170255": {
@@ -16220,28 +16220,28 @@
  "170256": {
   "en": "Void Corruption Floor",
   "zh": "虚蚀地板",
-  "ja": "Void Corruption Floor",
+  "ja": "虚蝕床",
   "ko": "허무의 침식 바닥",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "170257": {
   "en": "Void Corruption Floor",
   "zh": "虚蚀地板",
-  "ja": "Void Corruption Floor",
+  "ja": "虚蝕床",
   "ko": "허무의 침식 바닥",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "170258": {
   "en": "Void Corruption Floor",
   "zh": "虚蚀地板",
-  "ja": "Void Corruption Floor",
+  "ja": "虚蝕床",
   "ko": "허무의 침식 바닥",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "170259": {
@@ -16480,10 +16480,10 @@
  },
  "190551": {
   "en": "Starland - Pizza Selection",
-  "zh": "游星岛-暂时废弃",
+  "zh": "娜宝水晶-水晶标记buff",
   "ja": "Starland - Pizza Selection",
   "ko": "Starland - Pizza Selection",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -16507,19 +16507,19 @@
  },
  "190554": {
   "en": "Starland - Laser Dodge Phase 2",
-  "zh": "游星岛-暂时废弃",
+  "zh": "娜宝水晶-水晶标记buff",
   "ja": "Starland - Laser Dodge Phase 2",
   "ko": "Starland - Laser Dodge Phase 2",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
  "190555": {
   "en": "Starland - Volleyball Launcher",
-  "zh": "游星岛-暂时废弃",
+  "zh": "娜宝水晶-水晶标记buff",
   "ja": "Starland - Volleyball Launcher",
   "ko": "Starland - Volleyball Launcher",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -16633,9 +16633,9 @@
  },
  "230106": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "烈焰音符",
+  "ja": "烈炎音符",
+  "ko": "화염 음표",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -17138,10 +17138,10 @@
  "300077": {
   "en": "Void Residue",
   "zh": "虚蚀残留",
-  "ja": "Void Residue",
+  "ja": "虚蝕残留",
   "ko": "침식의 잔해",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "300078": {
@@ -17317,9 +17317,9 @@
  },
  "300406": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "子弹发射",
+  "ja": "銃弾発射",
+  "ko": "탄환 발사",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -17588,10 +17588,10 @@
  "300437": {
   "en": "Bullet Launch",
   "zh": "子弹发射",
-  "ja": "Bullet Launch",
+  "ja": "銃弾発射",
   "ko": "탄환 발사",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "300438": {
@@ -19126,9 +19126,9 @@
  },
  "304220": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "亡灵-连线禁锢吸血",
+  "ja": "死霊-接続拘束HP吸収",
+  "ko": "망령 - 연결 감금 흡혈",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -20018,7 +20018,7 @@
  "420140": {
   "en": "Stunt! Chaotic Barrage",
   "zh": "绝技！缭乱飞弹",
-  "ja": "絶技！カオスミサイル",
+  "ja": "ULTスキル！カオスミサイル",
   "ko": "비기! 화려한 탄환",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -20134,9 +20134,9 @@
  },
  "420172": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "引爆",
+  "ja": "起爆",
+  "ko": "폭발",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -20872,9 +20872,9 @@
  },
  "700610": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "普攻",
+  "ja": "通常攻撃",
+  "ko": "일반 공격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -20953,9 +20953,9 @@
  },
  "700619": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "普攻",
+  "ja": "通常攻撃",
+  "ko": "일반 공격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -21584,19 +21584,19 @@
  "710131": {
   "en": "Lunalusion - Place Fruit",
   "zh": "幻华-放置果实",
-  "ja": "Lunalusion - Place Fruit",
+  "ja": "幻華-果実設置",
   "ko": "환상의 빛 - 과일 배치",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "710132": {
   "en": "Solarshine - Place Fruit",
   "zh": "炎光-放置果实",
-  "ja": "Solarshine - Place Fruit",
+  "ja": "炎光-果実設置",
   "ko": "화염의 빛 - 과일 배치",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "800001": {
@@ -21718,9 +21718,9 @@
  },
  "866428": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "冰封领域",
+  "ja": "氷結領域",
+  "ko": "빙결 영역",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -21952,9 +21952,9 @@
  },
  "900052": {
   "en": "Dark Mist Fortress - Void Corruption",
-  "zh": "黯影堡垒 - 虚蚀侵蚀",
-  "ja": "暗霧要塞・虚蝕侵蝕",
-  "ko": "검은 안개 요새 - 허무의 침식 잠식",
+  "zh": "黯影堡垒-虚蚀层",
+  "ja": "暗霧要塞-虚蝕階",
+  "ko": "검은 안개 요새 - 허무의 침식층",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -21980,10 +21980,10 @@
  "900055": {
   "en": "Dark Mist Fortress - Falling Rocks",
   "zh": "黯影堡垒-落石",
-  "ja": "Dark Mist Fortress - Falling Rocks",
+  "ja": "暗霧要塞-落石",
   "ko": "검은 안개 요새 - 낙석",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "900056": {
@@ -22097,10 +22097,10 @@
  "920005": {
   "en": "Exploit Weakness",
   "zh": "洞察弱点",
-  "ja": "Exploit Weakness",
+  "ja": "弱点看破",
   "ko": "약점 간파",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "920006": {
@@ -22142,10 +22142,10 @@
  "920010": {
   "en": "Trichroma Halo",
   "zh": "三分光轮",
-  "ja": "Trichroma Halo",
+  "ja": "三分光輪",
   "ko": "삼분 광륜",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "920011": {
@@ -23159,19 +23159,19 @@
  "1005301": {
   "en": "Tetanus",
   "zh": "破伤风",
-  "ja": "Tetanus",
+  "ja": "破傷風",
   "ko": "파상풍",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1005302": {
   "en": "Shadow Instant Kill",
   "zh": "影之瞬杀",
-  "ja": "Shadow Instant Kill",
+  "ja": "瞬影殺",
   "ko": "그림자 일섬",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1005303": {
@@ -23231,10 +23231,10 @@
  "1005701": {
   "en": "Summon Companion",
   "zh": "召唤伙伴",
-  "ja": "Summon Companion",
+  "ja": "仲間召喚",
   "ko": "동료 소환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1005702": {
@@ -23339,10 +23339,10 @@
  "1005806": {
   "en": "Flurry",
   "zh": "乱舞",
-  "ja": "Flurry",
+  "ja": "乱舞",
   "ko": "난무",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1005807": {
@@ -23456,10 +23456,10 @@
  "1006401": {
   "en": "Throw Grenade",
   "zh": "丢手雷",
-  "ja": "Throw Grenade",
+  "ja": "手榴弾",
   "ko": "수류탄 던지기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1006402": {
@@ -23483,10 +23483,10 @@
  "1006404": {
   "en": "Single Shot",
   "zh": "单发",
-  "ja": "Single Shot",
+  "ja": "単発",
   "ko": "단발",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1006405": {
@@ -23519,10 +23519,10 @@
  "1006411": {
   "en": "Void Corruption Bullet Triple Shot",
   "zh": "虚蚀弹三连",
-  "ja": "Void Corruption Bullet Triple Shot",
+  "ja": "3連虚蝕弾",
   "ko": "허무의 침식 탄환 3콤보",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1006412": {
@@ -23546,10 +23546,10 @@
  "1006414": {
   "en": "Single Shot",
   "zh": "单发",
-  "ja": "Single Shot",
+  "ja": "単発",
   "ko": "단발",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1006450": {
@@ -24085,9 +24085,9 @@
  },
  "1008030": {
   "en": "Flaming Mire",
-  "zh": "烈火野猪-火地板-英雄本",
-  "ja": "ファイアボア-火の海-ヒロイックダンジョン",
-  "ko": "화염 멧돼지 - 불 바닥 - 영웅 던전",
+  "zh": "流火之沼",
+  "ja": "流火の沼",
+  "ko": "유화의 늪",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -24121,9 +24121,9 @@
  },
  "1008036": {
   "en": "Tornado",
-  "zh": "飓风野猪-龙卷风-英雄本",
-  "ja": "ハリケーンボア-竜巻-ヒロイックダンジョン",
-  "ko": "태풍 멧돼지 - 토네이도 - 영웅 던전",
+  "zh": "龙卷风",
+  "ja": "竜巻",
+  "ko": "토네이도",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -24221,10 +24221,10 @@
  "1008101": {
   "en": "Iron Fang Basic Attack",
   "zh": "铁牙普攻",
-  "ja": "Iron Fang Basic Attack",
+  "ja": "鉄牙-通常攻撃",
   "ko": "무쇠 이빨 일반 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1008102": {
@@ -24662,10 +24662,10 @@
  "1009701": {
   "en": "Basic Attack",
   "zh": "普攻",
-  "ja": "Basic Attack",
+  "ja": "通常攻撃",
   "ko": "일반 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1009702": {
@@ -24724,9 +24724,9 @@
  },
  "1009710": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "普攻",
+  "ja": "通常攻撃",
+  "ko": "일반 공격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -25202,19 +25202,19 @@
  "1010606": {
   "en": "Triple Shot",
   "zh": "子弹三连",
-  "ja": "Triple Shot",
+  "ja": "3連弾",
   "ko": "탄환 3콤보",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1010610": {
   "en": "Burning Charge",
   "zh": "灼烧弹",
-  "ja": "Burning Charge",
+  "ja": "燃焼弾",
   "ko": "화상 탄환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1010615": {
@@ -25598,17 +25598,17 @@
  "1011102": {
   "en": "Spiral Air Slash",
   "zh": "螺旋气流斩",
-  "ja": "Spiral Air Slash",
+  "ja": "螺旋気流斬",
   "ko": "나선 기류 베기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011103": {
   "en": "Double Slash",
-  "zh": "挥砍二连",
-  "ja": "ダブルスラッシュ",
-  "ko": "2단 베기",
+  "zh": "二连斩",
+  "ja": "2連撃",
+  "ko": "더블 참격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -25634,10 +25634,10 @@
  "1011111": {
   "en": "Spiral Air Slash",
   "zh": "螺旋气流斩",
-  "ja": "Spiral Air Slash",
+  "ja": "螺旋気流斬",
   "ko": "나선 기류 베기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011112": {
@@ -25697,19 +25697,19 @@
  "1011206": {
   "en": "Cabbage Mage Basic Attack",
   "zh": "卷心菜法师普攻",
-  "ja": "Cabbage Mage Basic Attack",
+  "ja": "甘藍魔術師-通常攻撃",
   "ko": "양배추 마법사 일반 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011207": {
   "en": "Stasis",
   "zh": "凝滞",
-  "ja": "Stasis",
+  "ja": "停滞",
   "ko": "지연",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011208": {
@@ -25724,10 +25724,10 @@
  "1011209": {
   "en": "Dash",
   "zh": "突进",
-  "ja": "Dash",
+  "ja": "突進",
   "ko": "돌진",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011210": {
@@ -25760,10 +25760,10 @@
  "1011213": {
   "en": "Cabbage Mage Basic Attack",
   "zh": "卷心菜法师普攻",
-  "ja": "Cabbage Mage Basic Attack",
+  "ja": "甘藍魔術師-通常攻撃",
   "ko": "양배추 마법사 일반 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011214": {
@@ -26056,9 +26056,9 @@
  },
  "1011801": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "普攻四连",
+  "ja": "4連通常攻撃",
+  "ko": "4단 일반 공격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -26129,10 +26129,10 @@
  "1011901": {
   "en": "Raging Fire Basic Attack",
   "zh": "烈火普攻",
-  "ja": "Raging Fire Basic Attack",
+  "ja": "烈火通常攻撃",
   "ko": "화염 일반 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011902": {
@@ -26156,28 +26156,28 @@
  "1011904": {
   "en": "Power up, power up!",
   "zh": "强化强化！",
-  "ja": "Power up, power up!",
+  "ja": "強化強化！",
   "ko": "강화 강화!",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011905": {
   "en": "I summon thee!",
   "zh": "召唤召唤!",
-  "ja": "I summon thee!",
+  "ja": "召喚召喚！",
   "ko": "소환 소환!",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011906": {
   "en": "Arcane! Blazing Flames",
   "zh": "奥义！熊熊烈焰",
-  "ja": "Arcane! Blazing Flames",
+  "ja": "奥義！爆炎奔流",
   "ko": "오의! 타오르는 화염",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011910": {
@@ -26192,10 +26192,10 @@
  "1011911": {
   "en": "Raging Fire Basic Attack",
   "zh": "烈火普攻",
-  "ja": "Raging Fire Basic Attack",
+  "ja": "烈火通常攻撃",
   "ko": "화염 일반 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011912": {
@@ -26210,10 +26210,10 @@
  "1011913": {
   "en": "Power up, power up!",
   "zh": "强化强化！",
-  "ja": "Power up, power up!",
+  "ja": "強化強化！",
   "ko": "강화 강화!",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1011920": {
@@ -26264,7 +26264,7 @@
  "1090502": {
   "en": "Dragonhammer",
   "zh": "龙槌闪",
-  "ja": "ドラゴンハンマー",
+  "ja": "重撃槌",
   "ko": "용추섬",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -26417,7 +26417,7 @@
  "1090899": {
   "en": "Phantom Direwolves",
   "zh": "幻影魔狼",
-  "ja": "ファントムウルフ",
+  "ja": "幻影魔狼",
   "ko": "환영 늑대 마수",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -26795,10 +26795,10 @@
  "1101204": {
   "en": "Stunt! Carpet Bombing",
   "zh": "绝技！全场轰炸",
-  "ja": "Stunt! Carpet Bombing",
+  "ja": "絶技！全域爆撃",
   "ko": "비기! 필드 폭격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1101211": {
@@ -26939,10 +26939,10 @@
  "1101440": {
   "en": "Arcane! Peerless Thrust",
   "zh": "奥义！无双突刺",
-  "ja": "Arcane! Peerless Thrust",
+  "ja": "奥義！無双突撃",
   "ko": "오의! 무쌍 찌르기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1102001": {
@@ -27029,10 +27029,10 @@
  "1102122": {
   "en": "Flamehorn - Triple Basic Attack",
   "zh": "炎角-普攻三连",
-  "ja": "Flamehorn - Triple Basic Attack",
+  "ja": "炎角-通常攻撃3連",
   "ko": "화염뿔 - 일반 공격 3콤보",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1102123": {
@@ -27101,10 +27101,10 @@
  "1102302": {
   "en": "Flamehorn - Triple Basic Attack",
   "zh": "炎角-普攻三连",
-  "ja": "Flamehorn - Triple Basic Attack",
+  "ja": "炎角-通常攻撃3連",
   "ko": "화염뿔 - 일반 공격 3콤보",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1102303": {
@@ -27929,10 +27929,10 @@
  "1301101": {
   "en": "Basic Attack Quadruple Hit",
   "zh": "普攻四连",
-  "ja": "Basic Attack Quadruple Hit",
+  "ja": "4連通常攻撃",
   "ko": "4단 일반 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1301102": {
@@ -28081,9 +28081,9 @@
  },
  "1700112": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "巨塔遗迹-可破坏箱子",
+  "ja": "皇家礼服",
+  "ko": "포하늘",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -28847,10 +28847,10 @@
  "1700403": {
   "en": "Shattered Stone Missile",
   "zh": "碎石飞弹",
-  "ja": "Shattered Stone Missile",
+  "ja": "砂利弾",
   "ko": "자갈 탄환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1700404": {
@@ -28910,7 +28910,7 @@
  "1700440": {
   "en": "Arcane! Furious Hammer",
   "zh": "奥义！重锤狂袭",
-  "ja": "奥義！マッドハンマー",
+  "ja": "ULT！マッドハンマー",
   "ko": "오의! 광란의 해머",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -29585,10 +29585,10 @@
  "1701101": {
   "en": "Basic Attack 01",
   "zh": "普攻01",
-  "ja": "Basic Attack 01",
+  "ja": "通常攻撃01",
   "ko": "일반 공격01",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1701102": {
@@ -29603,17 +29603,17 @@
  "1701103": {
   "en": "Instant Kill",
   "zh": "瞬杀",
-  "ja": "Instant Kill",
+  "ja": "瞬殺",
   "ko": "즉시 처치",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1701201": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "普攻",
+  "ja": "通常攻撃",
+  "ko": "일반 공격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -30215,10 +30215,10 @@
  "2001708": {
   "en": "Fan of Knives",
   "zh": "刀扇",
-  "ja": "Fan of Knives",
+  "ja": "刀扇",
   "ko": "부채칼",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "2001709": {
@@ -30233,10 +30233,10 @@
  "2001710": {
   "en": "Fan of Knives",
   "zh": "刀扇",
-  "ja": "Fan of Knives",
+  "ja": "刀扇",
   "ko": "부채칼",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "2001711": {
@@ -30386,7 +30386,7 @@
  "2001740": {
   "en": "Stunt! Blink Ambush",
   "zh": "绝技！瞬步奇袭",
-  "ja": "絶技！フラッシュレイド",
+  "ja": "ULTスキル！フラッシュレイド",
   "ko": "비기! 재빠른 기습",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -31214,7 +31214,7 @@
  "2002440": {
   "en": "Arcane! Thunderfall Grasp",
   "zh": "奥义！雷霆天引",
-  "ja": "奥義！サンダーコール",
+  "ja": "ULT！サンダーコール",
   "ko": "오의! 하늘을 울리는 번개",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -31447,9 +31447,9 @@
  },
  "2002742": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "虚弱",
+  "ja": "虚弱",
+  "ko": "허약",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -31645,9 +31645,9 @@
  },
  "2002827": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "虚弱",
+  "ja": "虚弱",
+  "ko": "허약",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -32122,9 +32122,9 @@
  },
  "2801004": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "普攻连射",
+  "ja": "通常攻撃連射",
+  "ko": "일반 공격 연사",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -32393,10 +32393,10 @@
  "2900442": {
   "en": "Thunder Zone",
   "zh": "雷域",
-  "ja": "Thunder Zone",
+  "ja": "雷領域",
   "ko": "번개 영역",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "2900501": {
@@ -32564,10 +32564,10 @@
  "2900715": {
   "en": "Arcane! Allscape Sublimation",
   "zh": "奥义！万象升华",
-  "ja": "Arcane! Allscape Sublimation",
+  "ja": "奥義！万象昇華",
   "ko": "오의! 만물 승화",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "2900716": {
@@ -32591,10 +32591,10 @@
  "2900740": {
   "en": "Arcane! Allscape Sublimation",
   "zh": "奥义！万象升华",
-  "ja": "Arcane! Allscape Sublimation",
+  "ja": "奥義！万象昇華",
   "ko": "오의! 만물 승화",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "2900770": {
@@ -32609,10 +32609,10 @@
  "2900840": {
   "en": "Arcane! Divine Assurance",
   "zh": "奥义！神灵凭依",
-  "ja": "Arcane! Divine Assurance",
+  "ja": "憑依",
   "ko": "오의! 신령 빙의",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "2900901": {
@@ -32663,10 +32663,10 @@
  "2900940": {
   "en": "Arcane! Guardian's Boundary",
   "zh": "奥义！佑世边界",
-  "ja": "Arcane! Guardian's Boundary",
+  "ja": "奥義！加護結界",
   "ko": "오의! 세계를 수호하는 경계",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "2900941": {
@@ -32689,9 +32689,9 @@
  },
  "3010002": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "烟雾弹",
+  "ja": "発煙弾",
+  "ko": "연막탄",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -33140,10 +33140,10 @@
  "3040303": {
   "en": "Dark Mist Legion Support",
   "zh": "黯影军团援护",
-  "ja": "Dark Mist Legion Support",
+  "ja": "暗霧分隊援護",
   "ko": "검은 안개 군단 엄호",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3040304": {
@@ -33652,9 +33652,9 @@
  },
  "3081009": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "裂地迸发",
+  "ja": "地裂発動",
+  "ko": "대지 파열 분출",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -33878,7 +33878,7 @@
  "3320101": {
   "en": "Tail Sweep",
   "zh": "扫尾",
-  "ja": "テイルスイープ",
+  "ja": "掃撃",
   "ko": "꼬리 휩쓸기",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -33932,10 +33932,10 @@
  "3320107": {
   "en": "Corrosive Liquid",
   "zh": "腐蚀液体",
-  "ja": "Corrosive Liquid",
+  "ja": "腐蝕液",
   "ko": "부식성 액체",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3320108": {
@@ -33977,10 +33977,10 @@
  "3320112": {
   "en": "Absorb Crystal",
   "zh": "吸收水晶",
-  "ja": "Absorb Crystal",
+  "ja": "水晶吸収",
   "ko": "수정 흡수",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3320120": {
@@ -34021,9 +34021,9 @@
  },
  "3320124": {
   "en": "Terra Sunder",
-  "zh": "地崩山摧",
-  "ja": "アースクラッシュ",
-  "ko": "대지 붕괴",
+  "zh": "地震",
+  "ja": "地震",
+  "ko": "지진",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -35354,10 +35354,10 @@
  "3350001": {
   "en": "Heavy Attack",
   "zh": "重击",
-  "ja": "Heavy Attack",
+  "ja": "重撃",
   "ko": "강타",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3350002": {
@@ -35489,10 +35489,10 @@
  "3350016": {
   "en": "Out of Control",
   "zh": "失控",
-  "ja": "Out of Control",
+  "ja": "制御不能",
   "ko": "폭주",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3350017": {
@@ -35840,19 +35840,19 @@
  "3350101": {
   "en": "Triple Basic Attack",
   "zh": "普攻三连",
-  "ja": "Triple Basic Attack",
+  "ja": "通常攻撃3連",
   "ko": "일반 공격 3콤보",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3350102": {
   "en": "Heavy Stomp",
   "zh": "重踩",
-  "ja": "Heavy Stomp",
+  "ja": "重踏撃",
   "ko": "강한 발구르기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3350103": {
@@ -35930,10 +35930,10 @@
  "3350111": {
   "en": "Spreading Calamity",
   "zh": "灾祸蔓延",
-  "ja": "Spreading Calamity",
+  "ja": "災禍拡散",
   "ko": "재해 확산",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3350112": {
@@ -36164,10 +36164,10 @@
  "3350153": {
   "en": "Spreading Calamity",
   "zh": "灾祸蔓延",
-  "ja": "Spreading Calamity",
+  "ja": "災禍拡散",
   "ko": "재해 확산",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3350154": {
@@ -36281,10 +36281,10 @@
  "3360110": {
   "en": "Illusory Plague Emerging",
   "zh": "幻祸浮现",
-  "ja": "Illusory Plague Emerging",
+  "ja": "幻災出現",
   "ko": "환상 재해 등장",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "3360111": {
@@ -36541,9 +36541,9 @@
  },
  "3380103": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "强化",
+  "ja": "強化",
+  "ko": "강화",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -36577,9 +36577,9 @@
  },
  "3380107": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "普攻",
+  "ja": "通常攻撃",
+  "ko": "일반 공격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -36694,9 +36694,9 @@
  },
  "3381304": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "普攻",
+  "ja": "通常攻撃",
+  "ko": "일반 공격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -36883,9 +36883,9 @@
  },
  "3390112": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "重启",
+  "ja": "再始動",
+  "ko": "재시작",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -37153,19 +37153,19 @@
  },
  "3520305": {
   "en": " ",
-  "zh": "动漫岛-旋转激光最终大风车",
-  "ja": "弊社のサービスをご利用になる前に、<color=#4971C8><link=\"contract\">ゲームライセンスおよびサービス規約</link></color>、<color=#4971C8><link=\"privacy_guide\">プライバシー保護ガイドライン</link></color>、<color=#4971C8><link=\"children_privacy\">児童プライバシー保護ガイドライン</link></color>をご確認ください。また、上述の規約において弊社の責任を免除または制限する条項、お客様の権利を制限する条項、紛争解決方法および合意管轄を規定する条項については特にご注意ください。上述の規約およびガイドラインに同意いただける場合は「同意する」を押してご利用を開始してください。",
-  "ko": "(번역 불필요)",
-  "zh_fallback": true,
+  "zh": "·护手",
+  "ja": "開発中",
+  "ko": "・장갑",
+  "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "3520306": {
   "en": " ",
-  "zh": "动漫岛-旋转激光最终大风车静止版",
-  "ja": "弊社のサービスをご利用になる前に、<color=#4971C8><link=\"contract\">ゲームライセンスおよびサービス規約</link></color>、<color=#4971C8><link=\"privacy_guide\">プライバシー保護ガイドライン</link></color>、<color=#4971C8><link=\"children_privacy\">児童プライバシー保護ガイドライン</link></color>をご確認ください。また、上述の規約において弊社の責任を免除または制限する条項、お客様の権利を制限する条項、紛争解決方法および合意管轄を規定する条項については特にご注意ください。上述の規約およびガイドラインに同意いただける場合は「同意する」を押してご利用を開始してください。",
-  "ko": "(번역 불필요)",
-  "zh_fallback": true,
+  "zh": "·护手",
+  "ja": "開発中",
+  "ko": "・장갑",
+  "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
@@ -37333,9 +37333,9 @@
  },
  "4001017": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "虚弱",
+  "ja": "虚弱",
+  "ko": "허약",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -38045,10 +38045,10 @@
  "4040008": {
   "en": "Soul Split",
   "zh": "灵魂分裂",
-  "ja": "Soul Split",
+  "ja": "魂分裂",
   "ko": "영혼 분열",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "4040009": {
@@ -38152,9 +38152,9 @@
  },
  "4050001": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "普攻-二连击",
+  "ja": "通常攻撃-2連撃",
+  "ko": "일반 공격 - 2콤보",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -38206,9 +38206,9 @@
  },
  "4050007": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "追击",
+  "ja": "追撃",
+  "ko": "추격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -38233,36 +38233,36 @@
  },
  "4050010": {
   "en": "Undead Revival",
-  "zh": "转阶段技能-亡灵还魂",
-  "ja": "フェーズ移行スキル-亡霊反魂",
-  "ko": "단계 전환 스킬 - 망령 환혼",
+  "zh": "亡灵还魂",
+  "ja": "亡霊反魂",
+  "ko": "망령 환혼",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "4050011": {
   "en": "Shackles of Souls",
-  "zh": "核心技能-缚魂之链",
-  "ja": "コアスキル-魂拘束の鎖",
-  "ko": "코어 스킬 - 영혼 속박의 사슬",
+  "zh": "缚魂之链",
+  "ja": "魂拘束の鎖",
+  "ko": "영혼 속박의 사슬",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "4050012": {
   "en": "Infected Laser",
-  "zh": "小技能-感染激光",
-  "ja": "サブスキル-感染レーザー",
-  "ko": "작은 스킬 - 감염 레이저",
+  "zh": "感染激光",
+  "ja": "感染レーザー",
+  "ko": "감염 레이저",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "4050013": {
   "en": "Gate of Wraith",
-  "zh": "小技能-恶灵之门",
-  "ja": "サブスキル-悪霊の門",
-  "ko": "작은 스킬 - 악령의 문",
+  "zh": "恶灵之门",
+  "ja": "悪霊の門",
+  "ko": "악령의 문",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -38719,9 +38719,9 @@
  },
  "6120201": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "烟雾弹",
+  "ja": "発煙弾",
+  "ko": "연막탄",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -39251,7 +39251,7 @@
  "8035621": {
   "en": "Tail Sweep",
   "zh": "扫尾",
-  "ja": "テイルスイープ",
+  "ja": "掃撃",
   "ko": "꼬리 휩쓸기",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -39314,10 +39314,10 @@
  "8110004": {
   "en": "Entrance",
   "zh": "登场",
-  "ja": "Entrance",
+  "ja": "登場",
   "ko": "등장",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "8110005": {
@@ -39377,10 +39377,10 @@
  "8110011": {
   "en": "Entrance 2",
   "zh": "登场2",
-  "ja": "Entrance 2",
+  "ja": "登場2",
   "ko": "등장2",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "8110012": {
@@ -39584,10 +39584,10 @@
  "8110904": {
   "en": "Consecutive Jump Slams",
   "zh": "连续跳砸",
-  "ja": "Consecutive Jump Slams",
+  "ja": "連続跳躍攻撃",
   "ko": "연속 점프 내려찍기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "8110905": {
@@ -39710,10 +39710,10 @@
  "10240104": {
   "en": "Void Dragon: DMG Sharing",
   "zh": "虚蚀龙-分摊",
-  "ja": "Void Dragon: DMG Sharing",
+  "ja": "虚蝕竜-分担",
   "ko": "허무의 침식 용 - 분담",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10240105": {
@@ -39746,10 +39746,10 @@
  "10240111": {
   "en": "Void Dragon: Spinning Bullets",
   "zh": "虚蚀龙-旋转子弹",
-  "ja": "Void Dragon: Spinning Bullets",
+  "ja": "虚蝕竜-回転弾",
   "ko": "허무의 침식 용 - 회전 탄환",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10240112": {
@@ -39818,19 +39818,19 @@
  "10240130": {
   "en": "Void Dragon: Erosive Annihilation",
   "zh": "虚蚀龙-虚蚀毁灭",
-  "ja": "Void Dragon: Erosive Annihilation",
+  "ja": "虚蝕竜-虚蝕壊滅",
   "ko": "허무의 침식 용 - 허무의 침식 섬멸",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10240131": {
   "en": "Void Dragon: Void Corruption Banishment",
   "zh": "虚蚀龙-虚蚀放逐",
-  "ja": "Void Dragon: Void Corruption Banishment",
+  "ja": "虚蝕竜-虚蝕追放",
   "ko": "허무의 침식 용 - 허무의 침식 방출",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10240132": {
@@ -40241,73 +40241,73 @@
  "10280001": {
   "en": "Solarshine - Basic Attack 01",
   "zh": "炎光普攻01",
-  "ja": "Solarshine - Basic Attack 01",
+  "ja": "炎光通常攻撃01",
   "ko": "화염의 빛 일반 공격01",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280002": {
   "en": "Solarshine - Basic Attack 02",
   "zh": "炎光普攻02",
-  "ja": "Solarshine - Basic Attack 02",
+  "ja": "炎光通常攻撃02",
   "ko": "화염의 빛 일반 공격02",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280003": {
   "en": "Solarshine - Basic Attack 03",
   "zh": "炎光普攻03",
-  "ja": "Solarshine - Basic Attack 03",
+  "ja": "炎光通常攻撃03",
   "ko": "화염의 빛 일반 공격03",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280004": {
   "en": "Solarshine - Basic Attack 04",
   "zh": "炎光普攻04",
-  "ja": "Solarshine - Basic Attack 04",
+  "ja": "炎光通常攻撃04",
   "ko": "화염의 빛 일반 공격04",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280005": {
   "en": "Solarshine - Full-Field AoE",
   "zh": "炎光全场aoe",
-  "ja": "Solarshine - Full-Field AoE",
+  "ja": "炎光全体攻撃",
   "ko": "화염의 빛 필드 전체 광역 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280006": {
   "en": "Solarshine - Ring AoE",
   "zh": "炎光环形aoe",
-  "ja": "Solarshine - Ring AoE",
+  "ja": "炎光環状攻撃",
   "ko": "화염의 빛 고리형 광역 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280007": {
   "en": "Solarshine - Teleport",
   "zh": "炎光瞬移",
-  "ja": "Solarshine - Teleport",
+  "ja": "炎光瞬間移動",
   "ko": "화염의 빛 순간 이동",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280008": {
   "en": "Solarshine - Territory Resonance",
   "zh": "炎光领地共鸣",
-  "ja": "Solarshine - Territory Resonance",
+  "ja": "炎光領地共鳴",
   "ko": "화염의 빛 영지 공명",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280009": {
@@ -40322,28 +40322,28 @@
  "10280010": {
   "en": "Solarshine Fruit",
   "zh": "炎光果实",
-  "ja": "Solarshine Fruit",
+  "ja": "炎光果実",
   "ko": "화염의 빛 과일",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280011": {
   "en": "Solarshine Territory Split Damage",
   "zh": "炎光领地分摊",
-  "ja": "Solarshine Territory Split Damage",
+  "ja": "炎光-領地分担",
   "ko": "화염의 빛 영지 분담",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280012": {
   "en": "Cross AoE - Vertical",
   "zh": "十字aoe_竖",
-  "ja": "Cross AoE - Vertical",
+  "ja": "十字攻撃_縦",
   "ko": "십자 광역 공격_세로",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280013": {
@@ -40394,19 +40394,19 @@
  "10280018": {
   "en": "Solarshine - Duel (Prep)",
   "zh": "炎光角斗准备",
-  "ja": "Solarshine - Duel (Prep)",
+  "ja": "炎光決闘準備",
   "ko": "화염의 빛 결투 준비",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280019": {
   "en": "Solarshine - Duel (Charge)",
   "zh": "炎光角斗-开冲",
-  "ja": "Solarshine - Duel (Charge)",
+  "ja": "炎光決闘-突撃開始",
   "ko": "화염의 빛 결투 - 출동",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280020": {
@@ -40439,100 +40439,100 @@
  "10280052": {
   "en": "Territory Execution",
   "zh": "领地致死",
-  "ja": "Territory Execution",
+  "ja": "領地即死",
   "ko": "영지 치명",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280053": {
   "en": "Lesser Light–Dark Explosion",
   "zh": "光暗小爆炸",
-  "ja": "Lesser Light–Dark Explosion",
+  "ja": "光闇小爆発",
   "ko": "빛 어둠 작은 폭발",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280054": {
   "en": "Target dies upon failing the duel.",
   "zh": "角斗失败致死",
-  "ja": "Target dies upon failing the duel.",
+  "ja": "決闘敗北即死",
   "ko": "결투 실패 치명",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280101": {
   "en": "Lunalusion - Basic Attack 01",
   "zh": "幻华普攻01",
-  "ja": "Lunalusion - Basic Attack 01",
+  "ja": "幻華通常攻撃01",
   "ko": "환상의 빛 일반 공격01",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280102": {
   "en": "Lunalusion - Basic Attack 02",
   "zh": "幻华普攻02",
-  "ja": "Lunalusion - Basic Attack 02",
+  "ja": "幻華通常攻撃02",
   "ko": "환상의 빛 일반 공격02",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280103": {
   "en": "Lunalusion - Basic Attack 03",
   "zh": "幻华普攻03",
-  "ja": "Lunalusion - Basic Attack 03",
+  "ja": "幻華通常攻撃03",
   "ko": "환상의 빛 일반 공격03",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280104": {
   "en": "Lunalusion - Basic Attack 04",
   "zh": "幻华普攻04",
-  "ja": "Lunalusion - Basic Attack 04",
+  "ja": "幻華通常攻撃04",
   "ko": "환상의 빛 일반 공격04",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280105": {
   "en": "Lunalusion - Full-Field AoE",
   "zh": "幻华全场aoe",
-  "ja": "Lunalusion - Full-Field AoE",
+  "ja": "幻華全体攻撃",
   "ko": "환상의 빛 필드 전체 광역 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280106": {
   "en": "Lunalusion - Ring AoE",
   "zh": "幻华环形aoe",
-  "ja": "Lunalusion - Ring AoE",
+  "ja": "幻華環状攻撃",
   "ko": "환상의 빛 고리형 광역 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280107": {
   "en": "Lunalusion - Territory Resonance",
   "zh": "幻华领地共鸣",
-  "ja": "Lunalusion - Territory Resonance",
+  "ja": "幻華領地共鳴",
   "ko": "환상의 빛 영지 공명",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280108": {
   "en": "Lunalusion - Teleport",
   "zh": "幻华瞬移",
-  "ja": "Lunalusion - Teleport",
+  "ja": "幻華瞬間移動",
   "ko": "환상의 빛 순간 이동",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280109": {
@@ -40547,28 +40547,28 @@
  "10280110": {
   "en": "Lunalusion Fruit",
   "zh": "幻华果实",
-  "ja": "Lunalusion Fruit",
+  "ja": "幻華果実",
   "ko": "환상의 빛 과일",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280111": {
   "en": "Lunalusion Territory Split Damage",
   "zh": "幻华领地分摊",
-  "ja": "Lunalusion Territory Split Damage",
+  "ja": "幻華-領地分担",
   "ko": "환상의 빛 영지 분담",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280112": {
   "en": "Cross AoE - Horizontal",
   "zh": "十字aoe_横",
-  "ja": "Cross AoE - Horizontal",
+  "ja": "十字攻撃_横",
   "ko": "십자 광역 공격_가로",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280113": {
@@ -40619,19 +40619,19 @@
  "10280118": {
   "en": "Lunalusion - Duel (Prep)",
   "zh": "幻华角斗准备",
-  "ja": "Lunalusion - Duel (Prep)",
+  "ja": "幻華決闘準備",
   "ko": "환상의 빛 결투 준비",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280119": {
   "en": "Lunalusion - Duel (Charge)",
   "zh": "幻华角斗-开冲",
-  "ja": "Lunalusion - Duel (Charge)",
+  "ja": "幻華決闘-突撃開始",
   "ko": "환상의 빛 결투 - 출동",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280120": {
@@ -40664,28 +40664,28 @@
  "10280152": {
   "en": "Territory Execution",
   "zh": "领地致死",
-  "ja": "Territory Execution",
+  "ja": "領地即死",
   "ko": "영지 치명",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10280153": {
   "en": "Target dies upon failing the duel.",
   "zh": "角斗失败致死",
-  "ja": "Target dies upon failing the duel.",
+  "ja": "決闘敗北即死",
   "ko": "결투 실패 치명",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10281201": {
   "en": "Link Start",
   "zh": "连线开始",
-  "ja": "Link Start",
+  "ja": "接続開始",
   "ko": "연결 시작",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10281202": {
@@ -40718,19 +40718,19 @@
  "10281205": {
   "en": "Territory Banish",
   "zh": "领地驱逐指令",
-  "ja": "Territory Banish",
+  "ja": "追放命令",
   "ko": "영지 추방 지령",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10281206": {
   "en": "Territory Resonance",
   "zh": "领地共鸣",
-  "ja": "Territory Resonance",
+  "ja": "領地共鳴",
   "ko": "영지 공명",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10281207": {
@@ -40763,10 +40763,10 @@
  "10281252": {
   "en": "Light–Dark Explosion",
   "zh": "光暗大爆炸",
-  "ja": "Light–Dark Explosion",
+  "ja": "光闇大爆発",
   "ko": "빛 어둠 대폭발",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10281253": {
@@ -40781,10 +40781,10 @@
  "10281254": {
   "en": "Full-field AoE",
   "zh": "全场aoe",
-  "ja": "Full-field AoE",
+  "ja": "全体攻撃",
   "ko": "필드 전체 광역 공격",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "10290101": {
@@ -41077,9 +41077,9 @@
  },
  "10300104": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "追击",
+  "ja": "追撃",
+  "ko": "추격",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -41104,9 +41104,9 @@
  },
  "10300107": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "心神剥夺",
+  "ja": "精神剥奪",
+  "ko": "심신 박탈",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -41230,9 +41230,9 @@
  },
  "10300204": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "炎弧斩",
+  "ja": "炎弧斬",
+  "ko": "염호참",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -41536,9 +41536,9 @@
  },
  "10310006": {
   "en": "场地标记01",
-  "zh": "场地标记01",
-  "ja": "フィールドマーク01",
-  "ko": "필드 표시01",
+  "zh": "分摊",
+  "ja": "分担",
+  "ko": "분담",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -42436,18 +42436,18 @@
  },
  "13312101": {
   "en": "Rift Leap",
-  "zh": "溃界迁跃-英雄本",
-  "ja": "崩壊ワープ-ヒロイックダンジョン",
-  "ko": "붕괴 세계 도약 - 영웅 던전",
+  "zh": "溃界迁跃",
+  "ja": "崩壊ワープ",
+  "ko": "붕괴 세계 도약",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "13312102": {
   "en": "Annihilation Pulse",
-  "zh": "湮灭脉冲-英雄本",
-  "ja": "ルインパルス-ヒロイックダンジョン",
-  "ko": "소멸 펄스 - 영웅 던전",
+  "zh": "湮灭脉冲",
+  "ja": "ルインパルス",
+  "ko": "소멸 펄스",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -42464,19 +42464,19 @@
  "1691": {
   "en": "Wasteland's End",
   "zh": "荒川之寂灭",
-  "ja": "Wasteland's End",
+  "ja": "濁流焚滅",
   "ko": "황천의 적멸",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1692": {
   "en": "Crimson Lotus",
   "zh": "红莲",
-  "ja": "Crimson Lotus",
+  "ja": "紅蓮",
   "ko": "홍련",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "80015001": {

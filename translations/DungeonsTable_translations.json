@@ -236,19 +236,19 @@
  "1301": {
   "en": "Dark Mist Fortress",
   "zh": "黯影堡垒",
-  "ja": "Dark Mist Fortress",
+  "ja": "暗霧要塞",
   "ko": "검은 안개 요새",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1302": {
   "en": "Dark Mist Fortress",
   "zh": "黯影堡垒",
-  "ja": "Dark Mist Fortress",
+  "ja": "暗霧要塞",
   "ko": "검은 안개 요새",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1311": {
@@ -272,28 +272,28 @@
  "1331": {
   "en": "Dark Mist Fortress",
   "zh": "黯影堡垒",
-  "ja": "Dark Mist Fortress",
+  "ja": "暗霧要塞",
   "ko": "검은 안개 요새",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1332": {
   "en": "Dark Mist Fortress",
   "zh": "黯影堡垒",
-  "ja": "Dark Mist Fortress",
+  "ja": "暗霧要塞",
   "ko": "검은 안개 요새",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1333": {
   "en": "Dark Mist Fortress",
   "zh": "黯影堡垒",
-  "ja": "Dark Mist Fortress",
+  "ja": "暗霧要塞",
   "ko": "검은 안개 요새",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "1399": {
@@ -380,7 +380,7 @@
  "1501": {
   "en": "Rock Serpent Lair",
   "zh": "岩蛇巢穴",
-  "ja": "巨塔の遺跡",
+  "ja": "ロックスネークの巣",
   "ko": "바위뱀 소굴",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -389,7 +389,7 @@
  "1502": {
   "en": "Rock Serpent Lair",
   "zh": "岩蛇巢穴",
-  "ja": "巨塔の遺跡",
+  "ja": "ロックスネークの巣",
   "ko": "바위뱀 소굴",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -416,7 +416,7 @@
  "1531": {
   "en": "Rock Serpent Lair",
   "zh": "岩蛇巢穴",
-  "ja": "巨塔の遺跡",
+  "ja": "ロックスネークの巣",
   "ko": "바위뱀 소굴",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -425,7 +425,7 @@
  "1532": {
   "en": "Rock Serpent Lair",
   "zh": "岩蛇巢穴",
-  "ja": "巨塔の遺跡",
+  "ja": "ロックスネークの巣",
   "ko": "바위뱀 소굴",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -434,7 +434,7 @@
  "1533": {
   "en": "Rock Serpent Lair",
   "zh": "岩蛇巢穴",
-  "ja": "巨塔の遺跡",
+  "ja": "ロックスネークの巣",
   "ko": "바위뱀 소굴",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -721,27 +721,27 @@
  },
  "6021": {
   "en": "Kanamia Trial",
-  "zh": "极限空间·卡尼曼试炼",
-  "ja": "極限空間・カナミアの試練",
-  "ko": "극한 공간・카나미아 시련",
+  "zh": "卡尼曼试炼",
+  "ja": "カナミアの試練",
+  "ko": "카나미아 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "6022": {
   "en": "Kanamia Trial",
-  "zh": "极限空间·卡尼曼试炼",
-  "ja": "極限空間・カナミアの試練",
-  "ko": "극한 공간・카나미아 시련",
+  "zh": "卡尼曼试炼",
+  "ja": "カナミアの試練",
+  "ko": "카나미아 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "6023": {
   "en": "Kanamia Trial",
-  "zh": "极限空间·卡尼曼试炼",
-  "ja": "極限空間・カナミアの試練",
-  "ko": "극한 공간・카나미아 시련",
+  "zh": "卡尼曼试炼",
+  "ja": "カナミアの試練",
+  "ko": "카나미아 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -794,7 +794,7 @@
  "6043": {
   "en": "Soundless City",
   "zh": "无音之都",
-  "ja": "カナミア族集落",
+  "ja": "静寂の都",
   "ko": "소리 없는 도시",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -803,7 +803,7 @@
  "6044": {
   "en": "Soundless City",
   "zh": "无音之都",
-  "ja": "カナミア族集落",
+  "ja": "静寂の都",
   "ko": "소리 없는 도시",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -812,7 +812,7 @@
  "6045": {
   "en": "Soundless City",
   "zh": "无音之都",
-  "ja": "カナミア族集落",
+  "ja": "静寂の都",
   "ko": "소리 없는 도시",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -839,7 +839,7 @@
  "6121": {
   "en": "Wraith Shrine",
   "zh": "荒灵祭所",
-  "ja": "ゴブリンの巣窟",
+  "ja": "荒魂の祭殿",
   "ko": "황령 제단",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -848,7 +848,7 @@
  "6122": {
   "en": "Wraith Shrine",
   "zh": "荒灵祭所",
-  "ja": "ゴブリンの巣窟",
+  "ja": "荒魂の祭殿",
   "ko": "황령 제단",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -857,7 +857,7 @@
  "6123": {
   "en": "Wraith Shrine",
   "zh": "荒灵祭所",
-  "ja": "ゴブリンの巣窟",
+  "ja": "荒魂の祭殿",
   "ko": "황령 제단",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -884,7 +884,7 @@
  "6221": {
   "en": "Depths of Decay",
   "zh": "衰败深处",
-  "ja": "ティナ・精神領域",
+  "ja": "衰亡の深淵",
   "ko": "쇠락의 심연",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -893,7 +893,7 @@
  "6222": {
   "en": "Depths of Decay",
   "zh": "衰败深处",
-  "ja": "ティナ・精神領域",
+  "ja": "衰亡の深淵",
   "ko": "쇠락의 심연",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -902,7 +902,7 @@
  "6223": {
   "en": "Depths of Decay",
   "zh": "衰败深处",
-  "ja": "ティナ・精神領域",
+  "ja": "衰亡の深淵",
   "ko": "쇠락의 심연",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -911,7 +911,7 @@
  "6311": {
   "en": "Unstable - Devourer Cage",
   "zh": "不稳定空间·噬光牢笼",
-  "ja": "不安定な空間・光亡き牢",
+  "ja": "不安定な空間・光に飢えし檻",
   "ko": "불안정 공간・빛을 삼키는 감옥",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -920,7 +920,7 @@
  "6321": {
   "en": "Unstable - Devourer Cage",
   "zh": "不稳定空间·噬光牢笼",
-  "ja": "不安定な空間・光亡き牢",
+  "ja": "不安定な空間・光に飢えし檻",
   "ko": "불안정 공간・빛을 삼키는 감옥",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -974,7 +974,7 @@
  "6421": {
   "en": "Soundless City",
   "zh": "无音之都",
-  "ja": "カナミア族集落",
+  "ja": "静寂の都",
   "ko": "소리 없는 도시",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -983,7 +983,7 @@
  "6422": {
   "en": "Soundless City",
   "zh": "无音之都",
-  "ja": "カナミア族集落",
+  "ja": "静寂の都",
   "ko": "소리 없는 도시",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -992,7 +992,7 @@
  "6423": {
   "en": "Soundless City",
   "zh": "无音之都",
-  "ja": "カナミア族集落",
+  "ja": "静寂の都",
   "ko": "소리 없는 도시",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -1261,36 +1261,36 @@
  },
  "7055": {
   "en": "Defeat the Goblin Mage",
-  "zh": "击败虚蚀巫师",
-  "ja": "エルダーゴブリンを倒す",
-  "ko": "고블린 샤먼 처치하기",
+  "zh": "讨伐哥布林巫师",
+  "ja": "虚蝕エルダー討伐",
+  "ko": "고블린 샤먼 토벌하기",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "7056": {
   "en": "Defeat the Goblin Mage",
-  "zh": "击败虚蚀巫师",
-  "ja": "エルダーゴブリンを倒す",
-  "ko": "고블린 샤먼 처치하기",
+  "zh": "讨伐哥布林巫师",
+  "ja": "虚蝕エルダー討伐",
+  "ko": "고블린 샤먼 토벌하기",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "7057": {
   "en": "Defeat the Goblin Mage",
-  "zh": "击败虚蚀巫师",
-  "ja": "エルダーゴブリンを倒す",
-  "ko": "고블린 샤먼 처치하기",
+  "zh": "讨伐哥布林巫师",
+  "ja": "虚蝕エルダー討伐",
+  "ko": "고블린 샤먼 토벌하기",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "7058": {
   "en": "Defeat the Goblin Mage",
-  "zh": "击败虚蚀巫师",
-  "ja": "エルダーゴブリンを倒す",
-  "ko": "고블린 샤먼 처치하기",
+  "zh": "讨伐哥布林巫师",
+  "ja": "虚蝕エルダー討伐",
+  "ko": "고블린 샤먼 토벌하기",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -1315,9 +1315,9 @@
  },
  "7065": {
   "en": "Urgent Delivery",
-  "zh": "进入委托区域-快递紧急运送",
-  "ja": "依頼エリアに入る-緊急配送",
-  "ko": "의뢰 구역 - 긴급 택배 배송에 진입합니다.",
+  "zh": "快递紧急运输",
+  "ja": "緊急輸送",
+  "ko": "긴급 택배 운송",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -1388,10 +1388,10 @@
  "7080": {
   "en": "Wind Turbulence",
   "zh": "风元素乱流",
-  "ja": "Wind Turbulence",
+  "ja": "風属性乱流",
   "ko": "바람 원소 난류",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "7085": {
@@ -1495,18 +1495,18 @@
  },
  "8005": {
   "en": "Urgent Delivery",
-  "zh": "进入委托区域-快递紧急运送",
-  "ja": "依頼エリアに入る-緊急配送",
-  "ko": "의뢰 구역 - 긴급 택배 배송에 진입합니다.",
+  "zh": "快递紧急运输",
+  "ja": "緊急輸送",
+  "ko": "긴급 택배 운송",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "8006": {
   "en": "Urgent Delivery",
-  "zh": "进入委托区域-快递紧急运送",
-  "ja": "依頼エリアに入る-緊急配送",
-  "ko": "의뢰 구역 - 긴급 택배 배송에 진입합니다.",
+  "zh": "快递紧急运输",
+  "ja": "緊急輸送",
+  "ko": "긴급 택배 운송",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -1586,10 +1586,10 @@
  "9002": {
   "en": "Defeat the Year Demon",
   "zh": "驱逐年兽",
-  "ja": "Defeat the Year Demon",
+  "ja": "歳魔撃退",
   "ko": "새해 몬스터 물리치기",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  },
  "9200": {
@@ -2503,18 +2503,18 @@
  },
  "20401": {
   "en": "Guardian 5",
-  "zh": "守护之路5：怪物讨伐",
-  "ja": "防御の道5：モンスター討伐",
-  "ko": "수호의 길 5: 몬스터 토벌",
+  "zh": "守护之路5：职责试炼",
+  "ja": "防御の道5：役割試練",
+  "ko": "수호의 길 5: 포지션 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "20402": {
   "en": "Guardian 16",
-  "zh": "守护之路16：怪物讨伐",
-  "ja": "防御の道16：モンスター討伐",
-  "ko": "수호의 길 16: 몬스터 토벌",
+  "zh": "守护之路16：职责试炼",
+  "ja": "防御の道16：役割試練",
+  "ko": "수호의 길 16: 포지션 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2602,108 +2602,108 @@
  },
  "21301": {
   "en": "Guardian 6",
-  "zh": "守护之路6：团队守护",
-  "ja": "防御の道6：パーティ防衛",
-  "ko": "수호의 길 6: 단체 수호",
+  "zh": "守护之路6：攻防试炼",
+  "ja": "防御の道6：攻防試練",
+  "ko": "수호의 길 6: 공방 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "21302": {
   "en": "Guardian 12",
-  "zh": "守护之路12：团队守护",
-  "ja": "防御の道12：パーティ防衛",
-  "ko": "수호의 길 12: 단체 수호",
+  "zh": "守护之路12：攻防试炼",
+  "ja": "防御の道12：攻防試練",
+  "ko": "수호의 길 12: 공방 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "21303": {
   "en": "Guardian 18",
-  "zh": "守护之路18：团队守护",
-  "ja": "防御の道18：パーティ防衛",
-  "ko": "수호의 길 18: 단체 수호",
+  "zh": "守护之路18：攻防试炼",
+  "ja": "防御の道18：攻防試練",
+  "ko": "수호의 길 18: 공방 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "21304": {
   "en": "Guardian 24",
-  "zh": "守护之路24：团队守护",
-  "ja": "防御の道24：パーティ防衛",
-  "ko": "수호의 길 24: 단체 수호",
+  "zh": "守护之路24：攻防试炼",
+  "ja": "防御の道24：攻防試練",
+  "ko": "수호의 길 24: 공방 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "21305": {
   "en": "Guardian 30",
-  "zh": "守护之路30：团队守护",
-  "ja": "防御の道30：パーティ防衛",
-  "ko": "수호의 길 30: 단체 수호",
+  "zh": "守护之路30：攻防试炼",
+  "ja": "防御の道30：攻防試練",
+  "ko": "수호의 길 30: 공방 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "21306": {
   "en": "Guardian 3",
-  "zh": "守护之路3：团队守护",
-  "ja": "防御の道3：パーティ防衛",
-  "ko": "수호의 길 3: 단체 수호",
+  "zh": "守护之路3：攻防试炼",
+  "ja": "防御の道3：攻防試練",
+  "ko": "수호의 길 3: 공방 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "21307": {
   "en": "Guardian 9",
-  "zh": "守护之路9：团队守护",
-  "ja": "防御の道9：パーティ防衛",
-  "ko": "수호의 길 9: 단체 수호",
+  "zh": "守护之路9：攻防试炼",
+  "ja": "防御の道9：攻防試練",
+  "ko": "수호의 길 9: 공방 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "21308": {
   "en": "Guardian 15",
-  "zh": "守护之路15：团队守护",
-  "ja": "防御の道15：パーティ防衛",
-  "ko": "수호의 길 15: 단체 수호",
+  "zh": "守护之路15：攻防试炼",
+  "ja": "防御の道15：攻防試練",
+  "ko": "수호의 길 15: 공방 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "21309": {
   "en": "Guardian 21",
-  "zh": "守护之路21：团队守护",
-  "ja": "防御の道21：パーティ防衛",
-  "ko": "수호의 길 21: 단체 수호",
+  "zh": "守护之路21：攻防试炼",
+  "ja": "防御の道21：攻防試練",
+  "ko": "수호의 길 21: 공방 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "21310": {
   "en": "Guardian 27",
-  "zh": "守护之路27：团队守护",
-  "ja": "防御の道27：パーティ防衛",
-  "ko": "수호의 길 27: 단체 수호",
+  "zh": "守护之路27：攻防试炼",
+  "ja": "防御の道27：攻防試練",
+  "ko": "수호의 길 27: 공방 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "21401": {
   "en": "Guardian 11",
-  "zh": "守护之路11：团队守护",
-  "ja": "防御の道11：パーティ防衛",
-  "ko": "수호의 길 11: 단체 수호",
+  "zh": "守护之路11：职责试炼",
+  "ja": "防御の道11：役割試練",
+  "ko": "수호의 길 11: 포지션 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "21402": {
   "en": "Guardian 28",
-  "zh": "守护之路28：团队守护",
-  "ja": "防御の道28：パーティ防衛",
-  "ko": "수호의 길 28: 단체 수호",
+  "zh": "守护之路28：职责试炼",
+  "ja": "防御の道28：役割試練",
+  "ko": "수호의 길 28: 포지션 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2746,18 +2746,18 @@
  },
  "22401": {
   "en": "Attack 13",
-  "zh": "力量之路13：怪物讨伐",
-  "ja": "力の道13：モンスター討伐",
-  "ko": "힘의 길 13: 몬스터 토벌",
+  "zh": "力量之路13：木桩试炼",
+  "ja": "力の道13：訓練用ダミー試練",
+  "ko": "힘의 길 13: 더미 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "22402": {
   "en": "Attack 19",
-  "zh": "力量之路19：怪物讨伐",
-  "ja": "力の道19：モンスター討伐",
-  "ko": "힘의 길 19: 몬스터 토벌",
+  "zh": "力量之路19：木桩试炼",
+  "ja": "力の道19：訓練用ダミー試練",
+  "ko": "힘의 길 19: 더미 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -2845,45 +2845,45 @@
  },
  "23101": {
   "en": "Attack 3",
-  "zh": "力量之路3：怪物讨伐",
-  "ja": "力の道3：モンスター討伐",
-  "ko": "힘의 길 3: 몬스터 토벌",
+  "zh": "力量之路3：木桩试炼",
+  "ja": "力の道3：訓練用ダミー試練",
+  "ko": "힘의 길 3: 더미 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "23102": {
   "en": "Attack 9",
-  "zh": "力量之路9：怪物讨伐",
-  "ja": "力の道9：モンスター討伐",
-  "ko": "힘의 길 9: 몬스터 토벌",
+  "zh": "力量之路9：木桩试炼",
+  "ja": "力の道9：訓練用ダミー試練",
+  "ko": "힘의 길 9: 더미 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "23103": {
   "en": "Attack 15",
-  "zh": "力量之路15：怪物讨伐",
-  "ja": "力の道15：モンスター討伐",
-  "ko": "힘의 길 15: 몬스터 토벌",
+  "zh": "力量之路15：木桩试炼",
+  "ja": "力の道15：訓練用ダミー試練",
+  "ko": "힘의 길 15: 더미 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "23104": {
   "en": "Attack 21",
-  "zh": "力量之路21：怪物讨伐",
-  "ja": "力の道21：モンスター討伐",
-  "ko": "힘의 길 21: 몬스터 토벌",
+  "zh": "力量之路21：木桩试炼",
+  "ja": "力の道21：訓練用ダミー試練",
+  "ko": "힘의 길 21: 더미 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
  },
  "23105": {
   "en": "Attack 27",
-  "zh": "力量之路27：怪物讨伐",
-  "ja": "力の道27：モンスター討伐",
-  "ko": "힘의 길 27: 몬스터 토벌",
+  "zh": "力量之路27：木桩试炼",
+  "ja": "力の道27：訓練用ダミー試練",
+  "ko": "힘의 길 27: 더미 시련",
   "zh_fallback": false,
   "ja_fallback": false,
   "ko_fallback": false
@@ -3980,7 +3980,7 @@
  "31102": {
   "en": "Stimen Vaults Floor 2",
   "zh": "司第门遗迹2层",
-  "ja": "スティメン遺跡2層",
+  "ja": "レグディニス遺跡2層",
   "ko": "시디문 유적 2층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -3989,7 +3989,7 @@
  "31103": {
   "en": "Stimen Vaults Floor 3",
   "zh": "司第门遗迹3层",
-  "ja": "スティメン遺跡3層",
+  "ja": "レグディニス遺跡3層",
   "ko": "시디문 유적 3층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -3998,7 +3998,7 @@
  "31104": {
   "en": "Stimen Vaults Floor 4",
   "zh": "司第门遗迹4层",
-  "ja": "スティメン遺跡4層",
+  "ja": "レグディニス遺跡4層",
   "ko": "시디문 유적 4층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4025,7 +4025,7 @@
  "31107": {
   "en": "Stimen Vaults Floor 7",
   "zh": "司第门遗迹7层",
-  "ja": "スティメン遺跡7層",
+  "ja": "レグディニス遺跡7層",
   "ko": "시디문 유적 7층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4034,7 +4034,7 @@
  "31108": {
   "en": "Stimen Vaults Floor 8",
   "zh": "司第门遗迹8层",
-  "ja": "スティメン遺跡8層",
+  "ja": "レグディニス遺跡8層",
   "ko": "시디문 유적 8층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4043,7 +4043,7 @@
  "31109": {
   "en": "Stimen Vaults Floor 9",
   "zh": "司第门遗迹9层",
-  "ja": "スティメン遺跡9層",
+  "ja": "レグディニス遺跡9層",
   "ko": "시디문 유적 9층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4061,7 +4061,7 @@
  "31111": {
   "en": "Stimen Vaults Floor 11",
   "zh": "司第门遗迹11层",
-  "ja": "スティメン遺跡11層",
+  "ja": "レグディニス遺跡11層",
   "ko": "시디문 유적 11층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4070,7 +4070,7 @@
  "31112": {
   "en": "Stimen Vaults Floor 12",
   "zh": "司第门遗迹12层",
-  "ja": "スティメン遺跡12層",
+  "ja": "レグディニス遺跡12層",
   "ko": "시디문 유적 12층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4079,7 +4079,7 @@
  "31113": {
   "en": "Stimen Vaults Floor 13",
   "zh": "司第门遗迹13层",
-  "ja": "スティメン遺跡13層",
+  "ja": "レグディニス遺跡13層",
   "ko": "시디문 유적 13층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4088,7 +4088,7 @@
  "31114": {
   "en": "Stimen Vaults Floor 14",
   "zh": "司第门遗迹14层",
-  "ja": "スティメン遺跡14層",
+  "ja": "レグディニス遺跡14層",
   "ko": "시디문 유적 14층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4115,7 +4115,7 @@
  "31117": {
   "en": "Stimen Vaults Floor 17",
   "zh": "司第门遗迹17层",
-  "ja": "スティメン遺跡17層",
+  "ja": "レグディニス遺跡17層",
   "ko": "시디문 유적 17층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4124,7 +4124,7 @@
  "31118": {
   "en": "Stimen Vaults Floor 18",
   "zh": "司第门遗迹18层",
-  "ja": "スティメン遺跡18層",
+  "ja": "レグディニス遺跡18層",
   "ko": "시디문 유적 18층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4133,7 +4133,7 @@
  "31119": {
   "en": "Stimen Vaults Floor 19",
   "zh": "司第门遗迹19层",
-  "ja": "スティメン遺跡19層",
+  "ja": "レグディニス遺跡19層",
   "ko": "시디문 유적 19층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4151,7 +4151,7 @@
  "31121": {
   "en": "Stimen Vaults Floor 21",
   "zh": "司第门遗迹21层",
-  "ja": "スティメン遺跡21層",
+  "ja": "レグディニス遺跡21層",
   "ko": "시디문 유적 21층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4160,7 +4160,7 @@
  "31122": {
   "en": "Stimen Vaults Floor 22",
   "zh": "司第门遗迹22层",
-  "ja": "スティメン遺跡22層",
+  "ja": "レグディニス遺跡22層",
   "ko": "시디문 유적 22층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4169,7 +4169,7 @@
  "31123": {
   "en": "Stimen Vaults Floor 23",
   "zh": "司第门遗迹23层",
-  "ja": "スティメン遺跡23層",
+  "ja": "レグディニス遺跡23層",
   "ko": "시디문 유적 23층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4178,7 +4178,7 @@
  "31124": {
   "en": "Stimen Vaults Floor 24",
   "zh": "司第门遗迹24层",
-  "ja": "スティメン遺跡24層",
+  "ja": "レグディニス遺跡24層",
   "ko": "시디문 유적 24층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4196,7 +4196,7 @@
  "31126": {
   "en": "Stimen Vaults Floor 26",
   "zh": "司第门遗迹26层",
-  "ja": "スティメン遺跡26層",
+  "ja": "レグディニス遺跡26層",
   "ko": "시디문 유적 26층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4205,7 +4205,7 @@
  "31127": {
   "en": "Stimen Vaults Floor 27",
   "zh": "司第门遗迹27层",
-  "ja": "スティメン遺跡27層",
+  "ja": "レグディニス遺跡27層",
   "ko": "시디문 유적 27층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4214,7 +4214,7 @@
  "31128": {
   "en": "Stimen Vaults Floor 28",
   "zh": "司第门遗迹28层",
-  "ja": "スティメン遺跡28層",
+  "ja": "レグディニス遺跡28層",
   "ko": "시디문 유적 28층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4223,7 +4223,7 @@
  "31129": {
   "en": "Stimen Vaults Floor 29",
   "zh": "司第门遗迹29层",
-  "ja": "スティメン遺跡29層",
+  "ja": "レグディニス遺跡29層",
   "ko": "시디문 유적 29층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4241,7 +4241,7 @@
  "31131": {
   "en": "Stimen Vaults Floor 31",
   "zh": "司第门遗迹31层",
-  "ja": "スティメン遺跡31層",
+  "ja": "レグディニス遺跡31層",
   "ko": "시디문 유적 31층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4250,7 +4250,7 @@
  "31132": {
   "en": "Stimen Vaults Floor 32",
   "zh": "司第门遗迹32层",
-  "ja": "スティメン遺跡32層",
+  "ja": "レグディニス遺跡32層",
   "ko": "시디문 유적 32층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4259,7 +4259,7 @@
  "31133": {
   "en": "Stimen Vaults Floor 33",
   "zh": "司第门遗迹33层",
-  "ja": "スティメン遺跡33層",
+  "ja": "レグディニス遺跡33層",
   "ko": "시디문 유적 33층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4268,7 +4268,7 @@
  "31134": {
   "en": "Stimen Vaults Floor 34",
   "zh": "司第门遗迹34层",
-  "ja": "スティメン遺跡34層",
+  "ja": "レグディニス遺跡34層",
   "ko": "시디문 유적 34층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4286,7 +4286,7 @@
  "31136": {
   "en": "Stimen Vaults Floor 36",
   "zh": "司第门遗迹36层",
-  "ja": "スティメン遺跡36層",
+  "ja": "レグディニス遺跡36層",
   "ko": "시디문 유적 36층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4295,7 +4295,7 @@
  "31137": {
   "en": "Stimen Vaults Floor 37",
   "zh": "司第门遗迹37层",
-  "ja": "スティメン遺跡37層",
+  "ja": "レグディニス遺跡37層",
   "ko": "시디문 유적 37층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4304,7 +4304,7 @@
  "31138": {
   "en": "Stimen Vaults Floor 38",
   "zh": "司第门遗迹38层",
-  "ja": "スティメン遺跡38層",
+  "ja": "レグディニス遺跡38層",
   "ko": "시디문 유적 38층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4313,7 +4313,7 @@
  "31139": {
   "en": "Stimen Vaults Floor 39",
   "zh": "司第门遗迹39层",
-  "ja": "スティメン遺跡39層",
+  "ja": "レグディニス遺跡39層",
   "ko": "시디문 유적 39층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4331,7 +4331,7 @@
  "31141": {
   "en": "Stimen Vaults Floor 41",
   "zh": "司第门遗迹41层",
-  "ja": "スティメン遺跡41層",
+  "ja": "レグディニス遺跡41層",
   "ko": "시디문 유적 41층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4340,7 +4340,7 @@
  "31142": {
   "en": "Stimen Vaults Floor 42",
   "zh": "司第门遗迹42层",
-  "ja": "スティメン遺跡42層",
+  "ja": "レグディニス遺跡42層",
   "ko": "시디문 유적 42층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4349,7 +4349,7 @@
  "31143": {
   "en": "Stimen Vaults Floor 43",
   "zh": "司第门遗迹43层",
-  "ja": "スティメン遺跡43層",
+  "ja": "レグディニス遺跡43層",
   "ko": "시디문 유적 43층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -4358,7 +4358,7 @@
  "31144": {
   "en": "Stimen Vaults Floor 44",
   "zh": "司第门遗迹44层",
-  "ja": "スティメン遺跡44層",
+  "ja": "レグディニス遺跡44層",
   "ko": "시디문 유적 44층",
   "zh_fallback": false,
   "ja_fallback": false,
@@ -5195,10 +5195,10 @@
  "171001": {
   "en": "Isolated Island",
   "zh": "孤岛",
-  "ja": "Isolated Island",
+  "ja": "孤島",
   "ko": "외딴섬",
   "zh_fallback": false,
-  "ja_fallback": true,
+  "ja_fallback": false,
   "ko_fallback": false
  }
 }

@@ -4,7 +4,7 @@
   "zh": "全子弹大小",
   "ja": "全子弹大小",
   "ko": "全子弹大小",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -40,7 +40,7 @@
   "zh": "所有战斗资源扣除减少",
   "ja": "所有战斗资源扣除减少",
   "ko": "所有战斗资源扣除减少",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -424,10 +424,10 @@
  },
  "90048": {
   "en": "闪避充能时间缩减",
-  "zh": "闪避充能时间缩减",
+  "zh": "脉动",
   "ja": "闪避充能时间缩减",
   "ko": "闪避充能时间缩减",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -454,7 +454,7 @@
   "zh": "武器在后台时减少技能cd",
   "ja": "武器在后台时减少技能cd",
   "ko": "武器在后台时减少技能cd",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -670,7 +670,7 @@
   "zh": "天赋爆发冷却缩减",
   "ja": "天赋爆发冷却缩减",
   "ko": "天赋爆发冷却缩减",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -748,10 +748,10 @@
  },
  "90084": {
   "en": "【治疗】技能冷却缩减",
-  "zh": "【治疗】技能冷却缩减",
+  "zh": "班哈尔特盾兵监听削减生命值比例后破防",
   "ja": "【治疗】技能冷却缩减",
   "ko": "【治疗】技能冷却缩减",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -856,10 +856,10 @@
  },
  "90096": {
   "en": "【扫射型变身机甲】冷却缩减",
-  "zh": "【扫射型变身机甲】冷却缩减",
+  "zh": "物攻Lv1",
   "ja": "【扫射型变身机甲】冷却缩减",
   "ko": "【扫射型变身机甲】冷却缩减",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -991,7 +991,7 @@
  },
  "90111": {
   "en": "【太刀】消耗雷之印的技能伤害提升",
-  "zh": "【太刀】消耗雷之印的技能伤害提升",
+  "zh": "当前战斗资源上限-双斧_炎魂_额外乘值",
   "ja": "【太刀】消耗雷之印的技能伤害提升",
   "ko": "【太刀】消耗雷之印的技能伤害提升",
   "zh_fallback": false,
@@ -1072,10 +1072,10 @@
  },
  "90120": {
   "en": "太刀1718飞雷神暴击提升",
-  "zh": "太刀1718飞雷神暴击提升",
+  "zh": "因子用过热演奏",
   "ja": "太刀1718飞雷神暴击提升",
   "ko": "太刀1718飞雷神暴击提升",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1111,7 +1111,7 @@
   "zh": "【飞鸟投】清空冷却",
   "ja": "【飞鸟投】清空冷却",
   "ko": "【飞鸟投】清空冷却",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1129,7 +1129,7 @@
   "zh": "【剑盾】裁决不消耗光明能量",
   "ja": "【剑盾】裁决不消耗光明能量",
   "ko": "【剑盾】裁决不消耗光明能量",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1165,7 +1165,7 @@
   "zh": "【剑盾】英勇盾击防御效果提升",
   "ja": "【剑盾】英勇盾击防御效果提升",
   "ko": "【剑盾】英勇盾击防御效果提升",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1201,7 +1201,7 @@
   "zh": "奥义！绝对冰霜震荡cd",
   "ja": "奥义！绝对冰霜震荡cd",
   "ko": "奥义！绝对冰霜震荡cd",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1219,7 +1219,7 @@
   "zh": "雷暴本允许释放雷枪",
   "ja": "雷暴本允许释放雷枪",
   "ko": "雷暴本允许释放雷枪",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1234,10 +1234,10 @@
  },
  "90138": {
   "en": "镰刀月影特效资源管理",
-  "zh": "镰刀月影特效资源管理",
+  "zh": "[团队]：护盾协同",
   "ja": "镰刀月影特效资源管理",
   "ko": "镰刀月影特效资源管理",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1306,10 +1306,10 @@
  },
  "90146": {
   "en": "【光铸屏障】上限",
-  "zh": "【光铸屏障】上限",
+  "zh": "噩梦虚蚀傀儡前置概率",
   "ja": "【光铸屏障】上限",
   "ko": "【光铸屏障】上限",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1345,7 +1345,7 @@
   "zh": "【卫刃】砂岩之握cd",
   "ja": "【卫刃】砂岩之握cd",
   "ko": "【卫刃】砂岩之握cd",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1399,7 +1399,7 @@
   "zh": "绝技！无形冲击cd",
   "ja": "绝技！无形冲击cd",
   "ko": "绝技！无形冲击cd",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1417,7 +1417,7 @@
   "zh": "绝技！怒吼指令cd",
   "ja": "绝技！怒吼指令cd",
   "ko": "绝技！怒吼指令cd",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1435,7 +1435,7 @@
   "zh": "绝技！缩壳防御cd",
   "ja": "绝技！缩壳防御cd",
   "ko": "绝技！缩壳防御cd",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1453,7 +1453,7 @@
   "zh": "奥义！坚毅壁垒cd",
   "ja": "奥义！坚毅壁垒cd",
   "ko": "奥义！坚毅壁垒cd",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1471,7 +1471,7 @@
   "zh": "绝技！挫志咆哮cd",
   "ja": "绝技！挫志咆哮cd",
   "ko": "绝技！挫志咆哮cd",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1489,7 +1489,7 @@
   "zh": "奥义！雷牙cd",
   "ja": "奥义！雷牙cd",
   "ko": "奥义！雷牙cd",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1507,7 +1507,7 @@
   "zh": "待定-鱼人精英战士cd",
   "ja": "待定-鱼人精英战士cd",
   "ko": "待定-鱼人精英战士cd",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1525,7 +1525,7 @@
   "zh": "【长枪】职业技能伤害增加",
   "ja": "【长枪】职业技能伤害增加",
   "ko": "【长枪】职业技能伤害增加",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -1758,10 +1758,10 @@
   "en": "刀意自然回复",
   "zh": "刀意自然回复",
   "ja": "刀意自然回复",
-  "ko": "刀意自然回复",
+  "ko": "碎石引潮",
   "zh_fallback": true,
   "ja_fallback": true,
-  "ko_fallback": true
+  "ko_fallback": false
  },
  "90197": {
   "en": "法环自然回复加快",
@@ -1774,7 +1774,7 @@
  },
  "90198": {
   "en": "【太刀】消耗雷之印的技能伤害提升",
-  "zh": "【太刀】消耗雷之印的技能伤害提升",
+  "zh": "当前战斗资源上限-双斧_炎魂_额外乘值",
   "ja": "【太刀】消耗雷之印的技能伤害提升",
   "ko": "【太刀】消耗雷之印的技能伤害提升",
   "zh_fallback": false,
@@ -1786,7 +1786,7 @@
   "zh": "【卫刃】复仇消耗",
   "ja": "【卫刃】复仇消耗",
   "ko": "【卫刃】复仇消耗",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2047,7 +2047,7 @@
   "zh": "自然庇护持续时间",
   "ja": "自然庇护持续时间",
   "ko": "自然庇护持续时间",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2083,7 +2083,7 @@
   "zh": "【肉鸽】沉梦抗性",
   "ja": "【肉鸽】沉梦抗性",
   "ko": "【肉鸽】沉梦抗性",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2119,7 +2119,7 @@
   "zh": "因子风姿冷却时间",
   "ja": "因子风姿冷却时间",
   "ko": "因子风姿冷却时间",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2191,7 +2191,7 @@
   "zh": "【砂岩之握】充能上限变化",
   "ja": "【砂岩之握】充能上限变化",
   "ko": "【砂岩之握】充能上限变化",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2236,7 +2236,7 @@
   "zh": "S2套装效果神影螺旋buff层数",
   "ja": "S2套装效果神影螺旋buff层数",
   "ko": "S2套装效果神影螺旋buff层数",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2278,10 +2278,10 @@
  },
  "90313": {
   "en": "如川流华斩战斗资源消耗",
-  "zh": "如川流华斩战斗资源消耗",
+  "zh": "（唯一）【套装2A】消耗勇气的技能",
   "ja": "如川流华斩战斗资源消耗",
   "ko": "如川流华斩战斗资源消耗",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2314,10 +2314,10 @@
  },
  "90315": {
   "en": "【双斧】专精技能攻速",
-  "zh": "【双斧】专精技能攻速",
+  "zh": "艾露娜治愈",
   "ja": "【双斧】专精技能攻速",
   "ko": "【双斧】专精技能攻速",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2434,7 +2434,7 @@
   "zh": "特殊攻击冷却加速",
   "ja": "特殊攻击冷却加速",
   "ko": "特殊攻击冷却加速",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2692,10 +2692,10 @@
  },
  "92101": {
   "en": "【载具】耐力跑系加速冷却",
-  "zh": "【载具】耐力跑系加速冷却",
+  "zh": "神射狂想-幻影魔狼视为野兽",
   "ja": "【载具】耐力跑系加速冷却",
   "ko": "【载具】耐力跑系加速冷却",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2746,10 +2746,10 @@
  },
  "92107": {
   "en": "【载具】小丑加速冷却",
-  "zh": "【载具】小丑加速冷却",
+  "zh": "次级增幅",
   "ja": "【载具】小丑加速冷却",
   "ko": "【载具】小丑加速冷却",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2818,10 +2818,10 @@
  },
  "97001": {
   "en": "采集物掉落增加",
-  "zh": "采集物掉落增加",
+  "zh": "春节-年兽-双倍打击效果",
   "ja": "采集物掉落增加",
   "ko": "采集物掉落增加",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2902,7 +2902,7 @@
   "zh": "暗影堡垒外观",
   "ja": "暗影堡垒外观",
   "ko": "暗影堡垒外观",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2938,7 +2938,7 @@
   "zh": "陶洛斯重击伤害提高",
   "ja": "陶洛斯重击伤害提高",
   "ko": "陶洛斯重击伤害提高",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -2989,10 +2989,10 @@
  },
  "98008": {
   "en": "爆炸箭禁止",
-  "zh": "爆炸箭禁止",
+  "zh": "脉冲回望",
   "ja": "爆炸箭禁止",
   "ko": "爆炸箭禁止",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -3190,7 +3190,7 @@
   "zh": "精英[彩虹桥]进阶增伤",
   "ja": "精英[彩虹桥]进阶增伤",
   "ko": "精英[彩虹桥]进阶增伤",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -3205,10 +3205,10 @@
  },
  "99004": {
   "en": "武器1力量/2智力/3敏捷标记（废弃）",
-  "zh": "武器1力量/2智力/3敏捷标记（废弃）",
+  "zh": "赤玉地狐-被动",
   "ja": "武器1力量/2智力/3敏捷标记（废弃）",
   "ko": "武器1力量/2智力/3敏捷标记（废弃）",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -3223,10 +3223,10 @@
  },
  "99006": {
   "en": "自适应物攻/魔攻",
-  "zh": "自适应物攻/魔攻",
+  "zh": "【豪胆】",
   "ja": "自适应物攻/魔攻",
   "ko": "自适应物攻/魔攻",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -3241,10 +3241,10 @@
  },
  "99011": {
   "en": "赛季敏捷",
-  "zh": "赛季敏捷",
+  "zh": "仪刀-敏捷",
   "ja": "赛季敏捷",
   "ko": "赛季敏捷",
-  "zh_fallback": true,
+  "zh_fallback": false,
   "ja_fallback": true,
   "ko_fallback": true
  },
@@ -3298,7 +3298,7 @@
   "zh": "植物学挂机精力减少固定值",
   "ja": "植物学挂机精力减少固定值",
   "ko": "植物学挂机精力减少固定值",
-  "zh_fallback": false,
+  "zh_fallback": true,
   "ja_fallback": true,
   "ko_fallback": true
  },
