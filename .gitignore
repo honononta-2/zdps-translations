@@ -1,0 +1,11 @@
+# GitHub には translations/ と README のみ公開する。
+# 以下はローカル専用（ツール・調査メモ・中間生成物）。
+/tools/
+/docs/
+/data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

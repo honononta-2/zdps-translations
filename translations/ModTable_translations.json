@@ -1,0 +1,110 @@
+{
+ "5500101": {
+  "en": "Basic Attack Module",
+  "zh": "基础的攻击型模组",
+  "ja": "基本攻撃型モジュール",
+  "ko": "기본 공격형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "5500102": {
+  "en": "Advanced Attack Module",
+  "zh": "高性能的攻击型模组",
+  "ja": "高性能攻撃型モジュール",
+  "ko": "고성능 공격형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "5500103": {
+  "en": "Excellent Attack Module",
+  "zh": "卓越的攻击型模组",
+  "ja": "EXC攻撃型モジュール",
+  "ko": "탁월 공격형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "5500104": {
+  "en": "EXT - Excellent Guard Module",
+  "zh": "极·卓越的守护型模组",
+  "ja": "極・EXC防御型モジュール",
+  "ko": "극・탁월 방어형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "5500201": {
+  "en": "Basic Support Module",
+  "zh": "基础的辅助型模组",
+  "ja": "基本支援型モジュール",
+  "ko": "기본 지원형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "5500202": {
+  "en": "Advanced Support Module",
+  "zh": "高性能的辅助型模组",
+  "ja": "高性能支援型モジュール",
+  "ko": "고성능 지원형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "5500203": {
+  "en": "Excellent Support Module",
+  "zh": "卓越的辅助型模组",
+  "ja": "EXC支援型モジュール",
+  "ko": "탁월 지원형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "5500204": {
+  "en": "EXT - Excellent Guard Module",
+  "zh": "极·卓越的守护型模组",
+  "ja": "極・EXC防御型モジュール",
+  "ko": "극・탁월 방어형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "5500301": {
+  "en": "Basic Guard Module",
+  "zh": "基础的守护型模组",
+  "ja": "基本防御型モジュール",
+  "ko": "기본 방어형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "5500302": {
+  "en": "Advanced Guard Module",
+  "zh": "高性能的守护型模组",
+  "ja": "高性能防御型モジュール",
+  "ko": "고성능 방어형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "5500303": {
+  "en": "Excellent Guard Module",
+  "zh": "卓越的守护型模组",
+  "ja": "EXC防御型モジュール",
+  "ko": "탁월 방어형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "5500304": {
+  "en": "EXT - Excellent Guard Module",
+  "zh": "极·卓越的守护型模组",
+  "ja": "極・EXC防御型モジュール",
+  "ko": "극・탁월 방어형 모듈",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ }
+}

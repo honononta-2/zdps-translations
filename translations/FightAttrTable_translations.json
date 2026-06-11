@@ -1,0 +1,1451 @@
+{
+ "10000": {
+  "en": "生体源等级",
+  "zh": "生体源等级",
+  "ja": "生体源等级",
+  "ko": "生体源等级",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10010": {
+  "en": "（废弃）当前GS",
+  "zh": "（废弃）当前GS",
+  "ja": "（废弃）当前GS",
+  "ko": "（废弃）当前GS",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10020": {
+  "en": "（废弃）历史最高GS",
+  "zh": "（废弃）历史最高GS",
+  "ja": "（废弃）历史最高GS",
+  "ko": "（废弃）历史最高GS",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10030": {
+  "en": "战斗力",
+  "zh": "战斗力",
+  "ja": "战斗力",
+  "ko": "战斗力",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10040": {
+  "en": "(未实装）输出战力",
+  "zh": "(未实装）输出战力",
+  "ja": "(未实装）输出战力",
+  "ko": "(未实装）输出战力",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10050": {
+  "en": "(未实装）生存战力",
+  "zh": "(未实装）生存战力",
+  "ja": "(未实装）生存战力",
+  "ko": "(未实装）生存战力",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10060": {
+  "en": "头衔等级",
+  "zh": "头衔等级",
+  "ja": "头衔等级",
+  "ko": "头衔等级",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10070": {
+  "en": "赛季等级",
+  "zh": "赛季等级",
+  "ja": "シーズンレベル",
+  "ko": "시즌 레벨",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "10200": {
+  "en": "走路速度万分比",
+  "zh": "走路速度万分比",
+  "ja": "走路速度万分比",
+  "ko": "走路速度万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10210": {
+  "en": "跑步速度万分比",
+  "zh": "跑步速度万分比",
+  "ja": "跑步速度万分比",
+  "ko": "跑步速度万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10220": {
+  "en": "冲刺速度万分比",
+  "zh": "冲刺速度万分比",
+  "ja": "冲刺速度万分比",
+  "ko": "冲刺速度万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10230": {
+  "en": "复活倒计时时间缩减万分比",
+  "zh": "复活倒计时时间缩减万分比",
+  "ja": "复活倒计时时间缩减万分比",
+  "ko": "复活倒计时时间缩减万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10240": {
+  "en": "载具走路速度万分比",
+  "zh": "载具走路速度万分比",
+  "ja": "载具走路速度万分比",
+  "ko": "载具走路速度万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10250": {
+  "en": "载具跑步速度万分比",
+  "zh": "载具跑步速度万分比",
+  "ja": "载具跑步速度万分比",
+  "ko": "载具跑步速度万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10260": {
+  "en": "载具疾跑速度万分比",
+  "zh": "载具疾跑速度万分比",
+  "ja": "载具疾跑速度万分比",
+  "ko": "载具疾跑速度万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "10270": {
+  "en": "复活交互读条速度加速万分比",
+  "zh": "复活交互读条速度加速万分比",
+  "ja": "复活交互读条速度加速万分比",
+  "ko": "复活交互读条速度加速万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11010": {
+  "en": "力量",
+  "zh": "力量",
+  "ja": "力量",
+  "ko": "힘",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11020": {
+  "en": "智力",
+  "zh": "智力",
+  "ja": "智力",
+  "ko": "지력",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11030": {
+  "en": "敏捷",
+  "zh": "敏捷",
+  "ja": "敏捷",
+  "ko": "민첩",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11040": {
+  "en": "耐力",
+  "zh": "耐力",
+  "ja": "耐力",
+  "ko": "내구력",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11110": {
+  "en": "暴击",
+  "zh": "暴击",
+  "ja": "ファスト",
+  "ko": "치명타",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "11120": {
+  "en": "急速",
+  "zh": "急速",
+  "ja": "ファスト",
+  "ko": "속공",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "11130": {
+  "en": "幸运",
+  "zh": "幸运",
+  "ja": "器用さ",
+  "ko": "행운",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "11140": {
+  "en": "精通",
+  "zh": "精通",
+  "ja": "器用さ",
+  "ko": "숙련",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "11150": {
+  "en": "全能",
+  "zh": "全能",
+  "ja": "ブロック",
+  "ko": "만능",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "11160": {
+  "en": "（废弃）精准",
+  "zh": "（废弃）精准",
+  "ja": "（废弃）精准",
+  "ko": "（废弃）精准",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11170": {
+  "en": "格挡",
+  "zh": "格挡",
+  "ja": "レジスト",
+  "ko": "막기",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "11310": {
+  "en": "当前生命",
+  "zh": "当前生命",
+  "ja": "当前生命",
+  "ko": "当前生命",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11320": {
+  "en": "生命上限",
+  "zh": "生命上限",
+  "ja": "生命上限",
+  "ko": "최대 체력",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11330": {
+  "en": "物理攻击",
+  "zh": "物理攻击",
+  "ja": "物理攻击",
+  "ko": "물리 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11340": {
+  "en": "魔法攻击",
+  "zh": "魔法攻击",
+  "ja": "魔法攻击",
+  "ko": "마법 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11350": {
+  "en": "物理防御",
+  "zh": "物理防御",
+  "ja": "物理防御",
+  "ko": "물리 방어",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11360": {
+  "en": "魔法防御",
+  "zh": "魔法防御",
+  "ja": "魔法防御",
+  "ko": "마법 방어",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11370": {
+  "en": "忽视物理防御",
+  "zh": "忽视物理防御",
+  "ja": "忽视物理防御",
+  "ko": "물리 방어 무시",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11380": {
+  "en": "忽视魔法防御",
+  "zh": "忽视魔法防御",
+  "ja": "忽视魔法防御",
+  "ko": "마법 방어 무시",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11390": {
+  "en": "忽视物理防御万分比",
+  "zh": "忽视物理防御万分比",
+  "ja": "忽视物理防御万分比",
+  "ko": "忽视物理防御万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11400": {
+  "en": "忽视魔法防御万分比",
+  "zh": "忽视魔法防御万分比",
+  "ja": "忽视魔法防御万分比",
+  "ko": "忽视魔法防御万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11410": {
+  "en": "精炼物攻",
+  "zh": "精炼物攻",
+  "ja": "精炼物攻",
+  "ko": "정제 물리 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11420": {
+  "en": "精炼防御",
+  "zh": "精炼防御",
+  "ja": "精炼防御",
+  "ko": "정제 방어",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11430": {
+  "en": "精炼魔攻",
+  "zh": "精炼魔攻",
+  "ja": "精炼魔攻",
+  "ko": "정제 마법 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11440": {
+  "en": "赛季强度",
+  "zh": "赛季强度",
+  "ja": "赛季强度",
+  "ko": "赛季强度",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11450": {
+  "en": "赛季治疗虚弱",
+  "zh": "赛季治疗虚弱",
+  "ja": "赛季治疗虚弱",
+  "ko": "赛季治疗虚弱",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11500": {
+  "en": "全元素攻击",
+  "zh": "全元素攻击",
+  "ja": "全元素攻击",
+  "ko": "모든 원소 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11510": {
+  "en": "火元素攻击",
+  "zh": "火元素攻击",
+  "ja": "火元素攻击",
+  "ko": "불 원소 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11520": {
+  "en": "冰元素攻击",
+  "zh": "冰元素攻击",
+  "ja": "冰元素攻击",
+  "ko": "얼음 원소 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11530": {
+  "en": "森元素攻击",
+  "zh": "森元素攻击",
+  "ja": "森元素攻击",
+  "ko": "나무 원소 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11540": {
+  "en": "雷元素攻击",
+  "zh": "雷元素攻击",
+  "ja": "雷元素攻击",
+  "ko": "번개 원소 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11550": {
+  "en": "风元素攻击",
+  "zh": "风元素攻击",
+  "ja": "风元素攻击",
+  "ko": "바람 원소 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11560": {
+  "en": "岩元素攻击",
+  "zh": "岩元素攻击",
+  "ja": "岩元素攻击",
+  "ko": "바위 원소 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11570": {
+  "en": "光元素攻击",
+  "zh": "光元素攻击",
+  "ja": "光元素攻击",
+  "ko": "빛 원소 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11580": {
+  "en": "暗元素攻击",
+  "zh": "暗元素攻击",
+  "ja": "暗元素攻击",
+  "ko": "어둠 원소 공격",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "11710": {
+  "en": "暴击万分比",
+  "zh": "暴击万分比",
+  "ja": "暴击万分比",
+  "ko": "暴击万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11720": {
+  "en": "攻击速度万分比",
+  "zh": "攻击速度万分比",
+  "ja": "攻击速度万分比",
+  "ko": "攻击速度万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11730": {
+  "en": "施法速度万分比",
+  "zh": "施法速度万分比",
+  "ja": "施法速度万分比",
+  "ko": "施法速度万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11740": {
+  "en": "蓄力速度万分比",
+  "zh": "蓄力速度万分比",
+  "ja": "蓄力速度万分比",
+  "ko": "蓄力速度万分比",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11750": {
+  "en": "技能冷却缩减毫秒",
+  "zh": "技能冷却缩减毫秒",
+  "ja": "技能冷却缩减毫秒",
+  "ko": "技能冷却缩减毫秒",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11760": {
+  "en": "技能冷却缩减万分比",
+  "zh": "技能冷却缩减万分比",
+  "ja": "技能冷却缩减万分比",
+  "ko": "技能冷却缩减万分比",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11770": {
+  "en": "DOT效率万分比",
+  "zh": "DOT效率万分比",
+  "ja": "DOT效率万分比",
+  "ko": "DOT效率万分比",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11780": {
+  "en": "幸运万分比",
+  "zh": "幸运万分比",
+  "ja": "幸运万分比",
+  "ko": "幸运万分比",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11790": {
+  "en": "治疗强度万分比",
+  "zh": "治疗强度万分比",
+  "ja": "治疗强度万分比",
+  "ko": "治疗强度万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11800": {
+  "en": "受治疗强度万分比",
+  "zh": "受治疗强度万分比",
+  "ja": "受治疗强度万分比",
+  "ko": "受治疗强度万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11810": {
+  "en": "护盾强度万分比",
+  "zh": "护盾强度万分比",
+  "ja": "バリア強度万分率",
+  "ko": "실드 강도 만분율",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "11820": {
+  "en": "受护盾强度万分比",
+  "zh": "受护盾强度万分比",
+  "ja": "被バリア強度万分率",
+  "ko": "받는 실드 강도 만분율",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "11830": {
+  "en": "破韧效率万分比",
+  "zh": "破韧效率万分比",
+  "ja": "破韧效率万分比",
+  "ko": "破韧效率万分比",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11840": {
+  "en": "全能加成万分比",
+  "zh": "全能加成万分比",
+  "ja": "全能加成万分比",
+  "ko": "全能加成万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11850": {
+  "en": "全能伤害减免万分比",
+  "zh": "全能伤害减免万分比",
+  "ja": "全能伤害减免万分比",
+  "ko": "全能伤害减免万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11860": {
+  "en": "（废弃）碎裂强度万分比",
+  "zh": "（废弃）碎裂强度万分比",
+  "ja": "（废弃）碎裂强度万分比",
+  "ko": "（废弃）碎裂强度万分比",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11870": {
+  "en": "（废弃）碎裂增伤万分比",
+  "zh": "（废弃）碎裂增伤万分比",
+  "ja": "（废弃）碎裂增伤万分比",
+  "ko": "（废弃）碎裂增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11880": {
+  "en": "压制伤害万分比",
+  "zh": "压制伤害万分比",
+  "ja": "压制伤害万分比",
+  "ko": "压制伤害万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11890": {
+  "en": "压制减伤万分比",
+  "zh": "压制减伤万分比",
+  "ja": "压制减伤万分比",
+  "ko": "压制减伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11900": {
+  "en": "（废弃）鼓舞比例万分比",
+  "zh": "（废弃）鼓舞比例万分比",
+  "ja": "（废弃）鼓舞比例万分比",
+  "ko": "（废弃）鼓舞比例万分比",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11910": {
+  "en": "愤怒加成",
+  "zh": "愤怒加成",
+  "ja": "フォースボーナス",
+  "ko": "분노 보너스",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "11920": {
+  "en": "（废弃）易伤增伤",
+  "zh": "（废弃）易伤增伤",
+  "ja": "（废弃）易伤增伤",
+  "ko": "（废弃）易伤增伤",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11930": {
+  "en": "急速万分比",
+  "zh": "急速万分比",
+  "ja": "急速万分比",
+  "ko": "急速万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11940": {
+  "en": "精通万分比",
+  "zh": "精通万分比",
+  "ja": "精通万分比",
+  "ko": "精通万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11950": {
+  "en": "全能万分比",
+  "zh": "全能万分比",
+  "ja": "全能万分比",
+  "ko": "全能万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11960": {
+  "en": "冷却加速万分比",
+  "zh": "冷却加速万分比",
+  "ja": "冷却加速万分比",
+  "ko": "冷却加速万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11970": {
+  "en": "格挡万分比",
+  "zh": "格挡万分比",
+  "ja": "格挡万分比",
+  "ko": "格挡万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11980": {
+  "en": "独立计时战斗资源冷却加速万分比",
+  "zh": "独立计时战斗资源冷却加速万分比",
+  "ja": "独立计时战斗资源冷却加速万分比",
+  "ko": "独立计时战斗资源冷却加速万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "11990": {
+  "en": "宠物攻速万分比",
+  "zh": "宠物攻速万分比",
+  "ja": "宠物攻速万分比",
+  "ko": "宠物攻速万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12510": {
+  "en": "暴击伤害万分比",
+  "zh": "暴击伤害万分比",
+  "ja": "暴击伤害万分比",
+  "ko": "暴击伤害万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12520": {
+  "en": "暴击伤害抵抗万分比",
+  "zh": "暴击伤害抵抗万分比",
+  "ja": "暴击伤害抵抗万分比",
+  "ko": "暴击伤害抵抗万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12530": {
+  "en": "幸运一击伤害倍率",
+  "zh": "幸运一击伤害倍率",
+  "ja": "幸運の一撃ダメージ率",
+  "ko": "행운의 일격 대미지 배율",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "12540": {
+  "en": "格挡伤害减免万分比",
+  "zh": "格挡伤害减免万分比",
+  "ja": "格挡伤害减免万分比",
+  "ko": "格挡伤害减免万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12550": {
+  "en": "物理增效万分比",
+  "zh": "物理增效万分比",
+  "ja": "物理增效万分比",
+  "ko": "物理增效万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12560": {
+  "en": "物理削减万分比",
+  "zh": "物理削减万分比",
+  "ja": "物理削减万分比",
+  "ko": "物理削减万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12570": {
+  "en": "魔法增效万分比",
+  "zh": "魔法增效万分比",
+  "ja": "魔法增效万分比",
+  "ko": "魔法增效万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12580": {
+  "en": "魔法削减万分比",
+  "zh": "魔法削减万分比",
+  "ja": "魔法削减万分比",
+  "ko": "魔法削减万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12590": {
+  "en": "（真实距离）近距离伤害加成万分比",
+  "zh": "（真实距离）近距离伤害加成万分比",
+  "ja": "（真实距离）近距离伤害加成万分比",
+  "ko": "（真实距离）近距离伤害加成万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12600": {
+  "en": "（真实距离）近距离伤害减免万分比",
+  "zh": "（真实距离）近距离伤害减免万分比",
+  "ja": "（真实距离）近距离伤害减免万分比",
+  "ko": "（真实距离）近距离伤害减免万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12610": {
+  "en": "（真实距离）远距离伤害加成万分比",
+  "zh": "（真实距离）远距离伤害加成万分比",
+  "ja": "（真实距离）远距离伤害加成万分比",
+  "ko": "（真实距离）远距离伤害加成万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12620": {
+  "en": "（真实距离）远距离伤害减免万分比",
+  "zh": "（真实距离）远距离伤害减免万分比",
+  "ja": "（真实距离）远距离伤害减免万分比",
+  "ko": "（真实距离）远距离伤害减免万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12630": {
+  "en": "对首领增伤万分比",
+  "zh": "对首领增伤万分比",
+  "ja": "对首领增伤万分比",
+  "ko": "对首领增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12640": {
+  "en": "对首领抵抗万分比",
+  "zh": "对首领抵抗万分比",
+  "ja": "对首领抵抗万分比",
+  "ko": "对首领抵抗万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12650": {
+  "en": "对护盾伤害加成万分比",
+  "zh": "对护盾伤害加成万分比",
+  "ja": "对护盾伤害加成万分比",
+  "ko": "对护盾伤害加成万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12660": {
+  "en": "护盾受到伤害减免万分比",
+  "zh": "护盾受到伤害减免万分比",
+  "ja": "护盾受到伤害减免万分比",
+  "ko": "护盾受到伤害减免万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12670": {
+  "en": "通用增伤万分比",
+  "zh": "通用增伤万分比",
+  "ja": "通用增伤万分比",
+  "ko": "通用增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12680": {
+  "en": "通用减免万分比",
+  "zh": "通用减免万分比",
+  "ja": "通用减免万分比",
+  "ko": "通用减免万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12690": {
+  "en": "赛季增伤万分比",
+  "zh": "赛季增伤万分比",
+  "ja": "赛季增伤万分比",
+  "ko": "赛季增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12700": {
+  "en": "赛季减免万分比",
+  "zh": "赛季减免万分比",
+  "ja": "赛季减免万分比",
+  "ko": "赛季减免万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12710": {
+  "en": "累乘专用万分比属性",
+  "zh": "累乘专用万分比属性",
+  "ja": "累乘专用万分比属性",
+  "ko": "累乘专用万分比属性",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12720": {
+  "en": "幸运一击治疗倍率",
+  "zh": "幸运一击治疗倍率",
+  "ja": "幸運の一撃回復率",
+  "ko": "행운의 일격 치료 배율",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "12730": {
+  "en": "宠物伤害加成万分比",
+  "zh": "宠物伤害加成万分比",
+  "ja": "宠物伤害加成万分比",
+  "ko": "宠物伤害加成万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12740": {
+  "en": "暴击治疗万分比",
+  "zh": "暴击治疗万分比",
+  "ja": "暴击治疗万分比",
+  "ko": "暴击治疗万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12750": {
+  "en": "关卡用增伤",
+  "zh": "关卡用增伤",
+  "ja": "关卡用增伤",
+  "ko": "关卡用增伤",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12760": {
+  "en": "关卡用减伤",
+  "zh": "关卡用减伤",
+  "ja": "关卡用减伤",
+  "ko": "关卡用减伤",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12770": {
+  "en": "（治疗者）禁疗专用属性",
+  "zh": "（治疗者）禁疗专用属性",
+  "ja": "（治疗者）禁疗专用属性",
+  "ko": "（治疗者）禁疗专用属性",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12780": {
+  "en": "（被治疗者）重伤",
+  "zh": "（被治疗者）重伤",
+  "ja": "（被治疗者）重伤",
+  "ko": "（被治疗者）重伤",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "12790": {
+  "en": "物理增效强度",
+  "zh": "物理增效强度",
+  "ja": "物理ダメージ強化度",
+  "ko": "물리 버프 강도",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "12800": {
+  "en": "魔法增效强度",
+  "zh": "魔法增效强度",
+  "ja": "魔法ダメージ強化度",
+  "ko": "마법 버프 강도",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "13000": {
+  "en": "全元素强度",
+  "zh": "全元素强度",
+  "ja": "全元素强度",
+  "ko": "모든 원소 강도",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "13010": {
+  "en": "火属性强度",
+  "zh": "火属性强度",
+  "ja": "火属性强度",
+  "ko": "火属性强度",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13020": {
+  "en": "水属性强度",
+  "zh": "水属性强度",
+  "ja": "水属性强度",
+  "ko": "水属性强度",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13030": {
+  "en": "森属性强度",
+  "zh": "森属性强度",
+  "ja": "森属性强度",
+  "ko": "森属性强度",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13040": {
+  "en": "雷属性强度",
+  "zh": "雷属性强度",
+  "ja": "雷属性强度",
+  "ko": "雷属性强度",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13050": {
+  "en": "风元素强度",
+  "zh": "风元素强度",
+  "ja": "风元素强度",
+  "ko": "바람 원소 강도",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "13060": {
+  "en": "岩属性强度",
+  "zh": "岩属性强度",
+  "ja": "岩属性强度",
+  "ko": "岩属性强度",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13070": {
+  "en": "光属性强度",
+  "zh": "光属性强度",
+  "ja": "光属性强度",
+  "ko": "光属性强度",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13080": {
+  "en": "暗属性强度",
+  "zh": "暗属性强度",
+  "ja": "暗属性强度",
+  "ko": "暗属性强度",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13100": {
+  "en": "元素增伤万分比",
+  "zh": "元素增伤万分比",
+  "ja": "元素增伤万分比",
+  "ko": "元素增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13110": {
+  "en": "火属性增伤万分比",
+  "zh": "火属性增伤万分比",
+  "ja": "火属性增伤万分比",
+  "ko": "火属性增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13120": {
+  "en": "水属性增伤万分比",
+  "zh": "水属性增伤万分比",
+  "ja": "水属性增伤万分比",
+  "ko": "水属性增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13130": {
+  "en": "森属性增伤万分比",
+  "zh": "森属性增伤万分比",
+  "ja": "森属性增伤万分比",
+  "ko": "森属性增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13140": {
+  "en": "雷属性增伤万分比",
+  "zh": "雷属性增伤万分比",
+  "ja": "雷属性增伤万分比",
+  "ko": "雷属性增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13150": {
+  "en": "风元素增伤万分比",
+  "zh": "风元素增伤万分比",
+  "ja": "风元素增伤万分比",
+  "ko": "风元素增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13160": {
+  "en": "岩属性增伤万分比",
+  "zh": "岩属性增伤万分比",
+  "ja": "岩属性增伤万分比",
+  "ko": "岩属性增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13170": {
+  "en": "光属性增伤万分比",
+  "zh": "光属性增伤万分比",
+  "ja": "光属性增伤万分比",
+  "ko": "光属性增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13180": {
+  "en": "暗属性增伤万分比",
+  "zh": "暗属性增伤万分比",
+  "ja": "暗属性增伤万分比",
+  "ko": "暗属性增伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13200": {
+  "en": "全元素抗性",
+  "zh": "全元素抗性",
+  "ja": "全元素抗性",
+  "ko": "모든 원소 저항",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "13210": {
+  "en": "火元素抗性",
+  "zh": "火元素抗性",
+  "ja": "火元素抗性",
+  "ko": "불 원소 저항",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "13220": {
+  "en": "冰元素抗性",
+  "zh": "冰元素抗性",
+  "ja": "冰元素抗性",
+  "ko": "얼음 원소 저항",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "13230": {
+  "en": "森元素抗性",
+  "zh": "森元素抗性",
+  "ja": "森元素抗性",
+  "ko": "나무 원소 저항",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "13240": {
+  "en": "雷元素抗性",
+  "zh": "雷元素抗性",
+  "ja": "雷元素抗性",
+  "ko": "번개 원소 저항",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "13250": {
+  "en": "风元素抗性",
+  "zh": "风元素抗性",
+  "ja": "风元素抗性",
+  "ko": "바람 원소 저항",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "13260": {
+  "en": "岩元素抗性",
+  "zh": "岩元素抗性",
+  "ja": "岩元素抗性",
+  "ko": "바위 원소 저항",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "13270": {
+  "en": "光元素抗性",
+  "zh": "光元素抗性",
+  "ja": "光元素抗性",
+  "ko": "빛 원소 저항",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "13280": {
+  "en": "暗元素抗性",
+  "zh": "暗元素抗性",
+  "ja": "暗元素抗性",
+  "ko": "어둠 원소 저항",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "13310": {
+  "en": "元素减伤万分比",
+  "zh": "元素减伤万分比",
+  "ja": "元素减伤万分比",
+  "ko": "元素减伤万分比",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13320": {
+  "en": "火属性减伤万分比",
+  "zh": "火属性减伤万分比",
+  "ja": "火属性减伤万分比",
+  "ko": "火属性减伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13330": {
+  "en": "水属性减伤万分比",
+  "zh": "水属性减伤万分比",
+  "ja": "水属性减伤万分比",
+  "ko": "水属性减伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13340": {
+  "en": "森属性减伤万分比",
+  "zh": "森属性减伤万分比",
+  "ja": "森属性减伤万分比",
+  "ko": "森属性减伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13350": {
+  "en": "雷属性减伤万分比",
+  "zh": "雷属性减伤万分比",
+  "ja": "雷属性减伤万分比",
+  "ko": "雷属性减伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13360": {
+  "en": "风元素减伤万分比",
+  "zh": "风元素减伤万分比",
+  "ja": "风元素减伤万分比",
+  "ko": "风元素减伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13370": {
+  "en": "岩属性减伤万分比",
+  "zh": "岩属性减伤万分比",
+  "ja": "岩属性减伤万分比",
+  "ko": "岩属性减伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13380": {
+  "en": "光属性减伤万分比",
+  "zh": "光属性减伤万分比",
+  "ja": "光属性减伤万分比",
+  "ko": "光属性减伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13390": {
+  "en": "暗属性减伤万分比",
+  "zh": "暗属性减伤万分比",
+  "ja": "暗属性减伤万分比",
+  "ko": "暗属性减伤万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13400": {
+  "en": "玩法生命最大值限制",
+  "zh": "玩法生命最大值限制",
+  "ja": "玩法生命最大值限制",
+  "ko": "玩法生命最大值限制",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "13410": {
+  "en": "玩法防御",
+  "zh": "玩法防御",
+  "ja": "玩法防御",
+  "ko": "玩法防御",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "20010": {
+  "en": "当前共鸣能量",
+  "zh": "当前共鸣能量",
+  "ja": "当前共鸣能量",
+  "ko": "当前共鸣能量",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "20020": {
+  "en": "共鸣能量上限",
+  "zh": "共鸣能量上限",
+  "ja": "共鳴エネルギー上限",
+  "ko": "공명 에너지 최대치",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "20030": {
+  "en": "共鸣能量额外消耗倍率万分比",
+  "zh": "共鸣能量额外消耗倍率万分比",
+  "ja": "共鳴エネルギー追加消費倍率（万分率）",
+  "ko": "공명 에너지 추가 소모 배율 만분율",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "20040": {
+  "en": "非战斗跑酷待机状态下星元能量恢复速率",
+  "zh": "非战斗跑酷待机状态下星元能量恢复速率",
+  "ja": "非战斗跑酷待机状态下星元能量恢复速率",
+  "ko": "非战斗跑酷待机状态下星元能量恢复速率",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "20050": {
+  "en": "非战斗跑酷状态下星元能量恢复速率",
+  "zh": "非战斗跑酷状态下星元能量恢复速率",
+  "ja": "非战斗跑酷状态下星元能量恢复速率",
+  "ko": "非战斗跑酷状态下星元能量恢复速率",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "20060": {
+  "en": "阶段1奔跑加速度增加万分比",
+  "zh": "阶段1奔跑加速度增加万分比",
+  "ja": "阶段1奔跑加速度增加万分比",
+  "ko": "阶段1奔跑加速度增加万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "20070": {
+  "en": "阶段1奔跑速度上限增加万分比",
+  "zh": "阶段1奔跑速度上限增加万分比",
+  "ja": "阶段1奔跑速度上限增加万分比",
+  "ko": "阶段1奔跑速度上限增加万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "20080": {
+  "en": "阶段2奔跑加速度增加万分比",
+  "zh": "阶段2奔跑加速度增加万分比",
+  "ja": "阶段2奔跑加速度增加万分比",
+  "ko": "阶段2奔跑加速度增加万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "20090": {
+  "en": "阶段2奔跑速度上限增加万分比",
+  "zh": "阶段2奔跑速度上限增加万分比",
+  "ja": "阶段2奔跑速度上限增加万分比",
+  "ko": "阶段2奔跑速度上限增加万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "20100": {
+  "en": "阶段3奔跑加速度增加万分比",
+  "zh": "阶段3奔跑加速度增加万分比",
+  "ja": "阶段3奔跑加速度增加万分比",
+  "ko": "阶段3奔跑加速度增加万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "20110": {
+  "en": "阶段3奔跑速度上限增加万分比",
+  "zh": "阶段3奔跑速度上限增加万分比",
+  "ja": "阶段3奔跑速度上限增加万分比",
+  "ko": "阶段3奔跑速度上限增加万分比",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "20120": {
+  "en": "战斗跑酷待机状态下星元能量恢复速率",
+  "zh": "战斗跑酷待机状态下星元能量恢复速率",
+  "ja": "战斗跑酷待机状态下星元能量恢复速率",
+  "ko": "战斗跑酷待机状态下星元能量恢复速率",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "20130": {
+  "en": "战斗跑酷状态下星元能量恢复速率",
+  "zh": "战斗跑酷状态下星元能量恢复速率",
+  "ja": "战斗跑酷状态下星元能量恢复速率",
+  "ko": "战斗跑酷状态下星元能量恢复速率",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ }
+}

@@ -1,0 +1,263 @@
+{
+ "Profession_Unknown": {
+  "en": "Unknown",
+  "zh": "未知",
+  "ja": "Unknown",
+  "ko": "미지",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "Profession_Stormblade": {
+  "en": "Stormblade",
+  "zh": "雷影剑士",
+  "ja": "ストームブレイド",
+  "ko": "스톰 블레이드",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "Profession_FrostMage": {
+  "en": "Frost Mage",
+  "zh": "冰魔导师",
+  "ja": "フロストメイジ",
+  "ko": "프로스트 메이지",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "Profession_TwinStriker": {
+  "en": "Twin Striker",
+  "zh": "Twin Striker",
+  "ja": "Twin Striker",
+  "ko": "Twin Striker",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "Profession_WindKnight": {
+  "en": "Wind Knight",
+  "zh": "青岚骑士",
+  "ja": "ゲイルランサー",
+  "ko": "윈드 나이트",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "Profession_VerdantOracle": {
+  "en": "Verdant Oracle",
+  "zh": "森语者",
+  "ja": "ヴァーダントオラクル",
+  "ko": "실반 오라클",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "Profession_HeavyGuardian": {
+  "en": "Heavy Guardian",
+  "zh": "巨刃守护者",
+  "ja": "ヘヴィガーディアン",
+  "ko": "헤비 가디언",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "Profession_Marksman": {
+  "en": "Marksman",
+  "zh": "神射手",
+  "ja": "ディバイン<br>アーチャー",
+  "ko": "디바인 아처",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "Profession_ShieldKnight": {
+  "en": "Shield Knight",
+  "zh": "神盾骑士",
+  "ja": "シールド<br>ファイター",
+  "ko": "실드 나이트",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "Profession_BeatPerformer": {
+  "en": "Beat Performer",
+  "zh": "灵魂乐手",
+  "ja": "ビート<br>パフォーマー",
+  "ko": "비트 퍼포머",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "SubProfession_Unknown": {
+  "en": "Unknown",
+  "zh": "未知",
+  "ja": "Unknown",
+  "ko": "미지",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "SubProfession_Skyward": {
+  "en": "Skyward",
+  "zh": "空枪",
+  "ja": "Skyward",
+  "ko": "Skyward",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "SubProfession_Block": {
+  "en": "Block",
+  "zh": "格挡",
+  "ja": "レジスト",
+  "ko": "막기",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "SubProfession_Concerto": {
+  "en": "Concerto",
+  "zh": "协奏",
+  "ja": "Concerto",
+  "ko": "협주",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "SubProfession_Falconry": {
+  "en": "Falconry",
+  "zh": "鹰弓",
+  "ja": "Falconry",
+  "ko": "Falconry",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "SubProfession_Iaido": {
+  "en": "Iaido",
+  "zh": "居合",
+  "ja": "Iaido",
+  "ko": "Iaido",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "SubProfession_Frostbeam": {
+  "en": "Frostbeam",
+  "zh": "寒冰射线",
+  "ja": "氷霜ビーム",
+  "ko": "프로스트 레이",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "SubProfession_Icicle": {
+  "en": "Icicle",
+  "zh": "冰矛",
+  "ja": "Icicle",
+  "ko": "Icicle",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "SubProfession_Lifebind": {
+  "en": "Lifebind",
+  "zh": "愈合",
+  "ja": "ヒーリング",
+  "ko": "치유",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "SubProfession_Shield": {
+  "en": "Shield",
+  "zh": "护盾",
+  "ja": "シールド",
+  "ko": "실드",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "SubProfession_Moonstrike": {
+  "en": "Moonstrike",
+  "zh": "苍之冠·月影",
+  "ja": "蒼き冠・月影",
+  "ko": "푸른 왕관・월영",
+  "zh_fallback": false,
+  "ja_fallback": false,
+  "ko_fallback": false
+ },
+ "SubProfession_Vanguard": {
+  "en": "Vanguard",
+  "zh": "重装",
+  "ja": "Vanguard",
+  "ko": "Vanguard",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "SubProfession_Recovery": {
+  "en": "Recovery",
+  "zh": "回复",
+  "ja": "Recovery",
+  "ko": "회복",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ },
+ "SubProfession_Dissonance": {
+  "en": "Dissonance",
+  "zh": "狂音",
+  "ja": "Dissonance",
+  "ko": "Dissonance",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "SubProfession_Earthfort": {
+  "en": "Earthfort",
+  "zh": "岩盾",
+  "ja": "Earthfort",
+  "ko": "Earthfort",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "SubProfession_Smite": {
+  "en": "Smite",
+  "zh": "惩戒",
+  "ja": "Smite",
+  "ko": "Smite",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "SubProfession_Wildpack": {
+  "en": "Wildpack",
+  "zh": "狼弓",
+  "ja": "Wildpack",
+  "ko": "Wildpack",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "SubProfession_FormlessExpertise": {
+  "en": "Formless",
+  "zh": "无相",
+  "ja": "Formless",
+  "ko": "Formless",
+  "zh_fallback": true,
+  "ja_fallback": true,
+  "ko_fallback": true
+ },
+ "SubProfession_CrimsonExpertise": {
+  "en": "Crimson",
+  "zh": "绯红色",
+  "ja": "Crimson",
+  "ko": "루비색",
+  "zh_fallback": false,
+  "ja_fallback": true,
+  "ko_fallback": false
+ }
+}
